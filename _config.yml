@@ -4,7 +4,7 @@
 title: "Voices of Villanova Veterans: Tribute to the Befallen"
 email: erica.hayes@villanova.edu
 description:
-baseurl: "/flaneur" # the subpath of your site, e.g. /blog/
+baseurl: "/villanovaveteransmap" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/ericayhayes/villanovaveteransmap
 copyright_statement: © 2019 Erica Hayes. CC BY-NC-SA 4.0.
