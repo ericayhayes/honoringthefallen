@@ -7,7 +7,7 @@ description:
 baseurl: "/villanovaveteransmap" # the subpath of your site, e.g. /blog/
 url: "https://ericayhayes.github.io/villanovaveteransmap/" # the base hostname & protocol for your site
 github_repo: https://github.com/ericayhayes/villanovaveteransmap
-copyright_statement: © 2019 Erica Hayes. CC BY-NC-SA 4.0.
+copyright_statement: © 2019 Falvey Memorial Library CC BY-NC-SA 4.0.
 
 # build settings
 markdown: kramdown

@@ -1,4 +1,4 @@
 ---
 layout: article-index
-title: Browse Articles
+title: Villanova Veterans
 ---
