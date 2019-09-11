@@ -13,11 +13,11 @@ layout: page
 {% endfor %}
 
 <!-- sort a-z -->
-   {% if status == 'a-z' %}
-    {% assign azsort = site.posts | sort: 'title' %}
-     <h3>A-Z</h3>
+   {% if status == 'veterans' %}
+    {% assign veteranssort = site.posts | sort: 'title' %}
+     <h3>Veterans</h3>
      <ul>
-       {% for post in azsort %}
+       {% for post in veteranssort %}
          <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
        {% endfor %}
       </ul>
@@ -28,9 +28,9 @@ layout: page
    {% if status == 'branch' %}
      {% for category in site.branch %}
        {% capture navy_name %}{{ navy | first }}{% endcapture %}
-       <h3>{{ navy_name | capitalize }}</h3>
+       <h3>{{ branch_name | capitalize }}</h3>
        <ul>
-         {% for post in site.branch[navy_name] %}
+         {% for post in site.branch[branch_name] %}
           <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
          {% endfor %}
        </ul>
