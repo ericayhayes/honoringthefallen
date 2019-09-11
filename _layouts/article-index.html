@@ -25,12 +25,12 @@ layout: page
 
 <!-- sort category -->
 <div id="post-list" class="index">
-   {% if status == 'navy' %}
-     {% for category in site.categories %}
+   {% if status == 'branch' %}
+     {% for category in site.branch %}
        {% capture navy_name %}{{ navy | first }}{% endcapture %}
        <h3>{{ navy_name | capitalize }}</h3>
        <ul>
-         {% for post in site.categories[category_name] %}
+         {% for post in site.branch[navy_name] %}
           <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
          {% endfor %}
        </ul>
