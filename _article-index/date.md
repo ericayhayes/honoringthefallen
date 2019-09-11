@@ -1,5 +1,5 @@
 ---
 layout: article-index
-title: Browse Articles
+title: Veterans
 status: date
 ---
