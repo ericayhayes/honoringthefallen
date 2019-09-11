@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Alex K. Ward"
-date: 1963
-branches: ["Navy"]
+date: 1963-01-01
+branches: [" Navy "]
 author: "Dawn Childress"
 lat: 48.869219
 lng: 2.3322078999999576

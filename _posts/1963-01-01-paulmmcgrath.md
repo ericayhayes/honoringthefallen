@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Paul M. McGrath"
-date: 1966
-branches: ["USMC", "Navy"] 
+date: 1966-01-01
+branches: ["USMC", "Navy"]
 author: "Dawn Childress"
 lat: 15.5063908
 lng: 106.8530125
