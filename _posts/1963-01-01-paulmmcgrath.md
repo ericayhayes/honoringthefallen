@@ -2,7 +2,7 @@
 layout: post
 title: "Paul M. McGrath"
 date: 1966-01-01
-branches: ["USMC", "Navy"]
+categories: ["USMC", "Navy"]
 author: "Dawn Childress"
 lat: 15.5063908
 lng: 106.8530125
@@ -21,7 +21,7 @@ Major: Political Science
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
 
-![Conspicuous Cross](images/McGrathVietnam.jpg)
+![Conspicuous Cross](assets/images/McGrathVietnam.jpg)
    {:.image}
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
