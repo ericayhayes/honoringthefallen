@@ -2,7 +2,7 @@
 layout: post
 title: "Paul M. McGrath"
 date: 1966
-categories: ["USMC"]
+branches: ["USMC"]
 author: "Dawn Childress"
 lat: 15.5063908
 lng: 106.8530125

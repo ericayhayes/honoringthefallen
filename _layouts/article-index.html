@@ -26,7 +26,7 @@ layout: page
 <!-- sort category -->
 <div id="post-list" class="index">
    {% if status == 'branch' %}
-     {% for category in site.categories %}
+     {% for branch in site.branches %}
        {% capture branch_name %}{{ branch | first }}{% endcapture %}
        <h3>{{ branch_name | capitalize }}</h3>
        <ul>
