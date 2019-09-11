@@ -25,19 +25,6 @@ layout: page
 
 <!-- sort category -->
 <div id="post-list" class="index">
-   {% if status == 'branch' %}
-     {% for category in site.branches %}
-       {% capture branch_name %}{{ branch | first }}{% endcapture %}
-       <h3>{{ branch_name | capitalize }}</h3>
-       <ul>
-         {% for post in site.branches[branch_name] %}
-          <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
-         {% endfor %}
-       </ul>
-     {% endfor %}
-   {% endif %}
-
-<!--<div id="post-list" class="index">
    {% if status == 'category' %}
      {% for category in site.categories %}
        {% capture category_name %}{{ category | first }}{% endcapture %}
@@ -48,7 +35,7 @@ layout: page
          {% endfor %}
        </ul>
      {% endfor %}
-   {% endif %}-->
+   {% endif %}
 
 <!-- sort date -->
    {% if status == 'date' %}

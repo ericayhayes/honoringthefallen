@@ -1,20 +1,20 @@
 ---
 layout: post
-title: "Andrew C. Ward"
+title: "Alex K. Ward"
 date: 2018-02-24
 categories: ["Navy"]
 branches: ["Navy"]
 author: "Dawn Childress"
 lat: 48.869219
 lng: 2.3322078999999576
-runningtitle: "Running title here"
-desc: "Harry's New York Bar, a well-known bar in Paris, is said to be the birthplace of classic cocktails such as the Bloody Mary, French 75, Side Car and the Boulevardier."
+runningtitle: "Andrew K. Ward"
+desc: "Andrew K. Ward......."
 ---
 "The boulevardier cocktail is similar to the Negroni, replacing the Negroni's gin component with bourbon whiskey or rye whiskey. Some boulevardier recipes call for 1 1/2 parts rather than 1 part whiskey."
 
 "Drinks historian David Wondrich traces the easy-drinking combination of American whiskey, Campari and Italian vermouth back to Paris in 1927, where a wealthy young American expat named Erskine Gwynne launched a publication patterned after The New Yorker. His magazine, The Boulevardier, featured the first documented recipe for its namesake drink (although it didn’t specify the type of whiskey)."
 
-![The Boulevardier Cocktail](images/boulevardier1.jpg)
+![The Boulevardier Cocktail](images/alexkward.jpg)
    {:.image}
 [Photo via Flickr user Edsel Little](https://www.flickr.com/photos/edsel_/16164913902).
    {:.caption}
