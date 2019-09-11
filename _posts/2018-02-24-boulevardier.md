@@ -2,7 +2,7 @@
 layout: post
 title: "Andrew C. Ward"
 date: 2018-02-24
-branch: ["Navy"]
+categories: ["Navy"]
 author: "Dawn Childress"
 lat: 48.869219
 lng: 2.3322078999999576
