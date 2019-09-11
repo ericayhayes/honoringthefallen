@@ -22,7 +22,7 @@ twitter_username: VillanovaDigLib
 github_username:  ericayhayes
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/eyhayesvillanova/ck0f3rtyq04ek1co4i5f306y5/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2lyc2NoYm9tYmUiLCJhIjoiMTQxVVBocyJ9.vWLKsRKrVWU-WG2QlMb6kA'
+map-tileset: 'https://api.mapbox.com/styles/v1/eyhayesvillanova/ck0f3rtyq04ek1co4i5f306y5/titles/256/{z}/{x}/{y}?access_token=pk.eyJ1Ijoia2lyc2NoYm9tYmUiLCJhIjoiMTQxVVBocyJ9.vWLKsRKrVWU-WG2QlMb6kA'
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
