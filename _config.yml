@@ -39,7 +39,7 @@ collections:
     output: true
     permalink: /article/:name
   article-index:
-    title: Veterans Index
+    title: Article Index
     output: true
     permalink: /article-index/:name/
 
