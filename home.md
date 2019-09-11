@@ -1,10 +1,6 @@
 ---
 layout: home
-title: "Flâneur: A Jekyll theme for maps and texts"
+title: "Voices of Villanova Veterans: Tribute to the Befallen"
 ---
 
-> "_Flâneur_ (pronounced [flɑnœʁ]), from the French noun _flâneur_, means "stroller", "lounger", "saunterer", or "loafer". _Flânerie_ is the act of strolling, with all of its accompanying associations." ([Wikipedia](https://en.wikipedia.org/wiki/Flâneur))
-
-[Flâneur](https://github.com/kirschbombe/flaneur) is a Jekyll map-based theme using the Leaflet JavaScript library for presenting maps and text together. To see a real-world use case, visit the [Los Angeles: The City and the Library](https://citystoriesucla.github.io/lyricalmap/) project.
-
-Flâneur was developed by Dawn Childress and ported to Jekyll by Dawn Childress & Niqui O'Neill. It is based on the original [Boulevardier](https://github.com/kirschbombe/boulevardier) framework developed by Dawn Childress & Nathan Day.
+[Voices of Villanova Veterans: Tribute to the Befallen](https://veteransvoices.library.villanova.edu/) is an oral history project, in collaboration with the [Office of Veterans and Military Service Members](https://www1.villanova.edu/villanova/enroll/veterans-military.html) and [Falvey Memorial Library’s Distinctive Collections and Digital Engagement Department](https://library.villanova.edu/collections/distinctive). We hope to capture the stories of veterans with connections to Villanova, archive them, and make them available to family members, friends, and the community. This map displays the locations of where Villanova Veterans died.
