@@ -15,7 +15,7 @@ layout: page
 <!-- sort a-z -->
 {% if status == 'a-z' %}
  {% assign azsort = site.posts | sort: 'title' %}
-  <h3>Veterans</h3>
+  <h3>Veterans: A-Z</h3>
   <ul>
     {% for post in azsort %}
       <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
