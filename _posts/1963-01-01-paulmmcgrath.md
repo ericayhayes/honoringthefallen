@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Paul M. McGrath"
+category: "USMC"
 categories: ["USMC"]
 date: 1963
 lat: 15.5063908

@@ -5,7 +5,7 @@ layout: page
 {% if page.status %}
     {% assign status = page.status %}
 {% else %}
-    {% assign status = 'veterans' %}
+    {% assign status = 'a-z' %}
 {% endif %}
 
 {% for status in site.article-index %}
@@ -13,15 +13,15 @@ layout: page
 {% endfor %}
 
 <!-- sort a-z -->
-   {% if status == 'veterans' %}
-    {% assign veteranssort = site.posts | sort: 'title' %}
-     <h3>Veterans</h3>
-     <ul>
-       {% for post in veteranssort %}
-         <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
-       {% endfor %}
-      </ul>
-   {% endif %}
+{% if status == 'a-z' %}
+ {% assign azsort = site.posts | sort: 'title' %}
+  <h3>Veterans</h3>
+  <ul>
+    {% for post in azsort %}
+      <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
+    {% endfor %}
+   </ul>
+{% endif %}
 
 <!-- sort category -->
 <div id="post-list" class="index">

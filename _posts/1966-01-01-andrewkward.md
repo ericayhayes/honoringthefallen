@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Alex K. Ward"
+category: "Navy"
 categories: ["Navy"]
 date: 1966
 lat: 48.869219
