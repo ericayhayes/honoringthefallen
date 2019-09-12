@@ -2,15 +2,16 @@
 layout: post
 title: "Paul M. McGrath"
 categories: ["USMC"]
+date: 1963
 lat: 15.5063908
 lng: 106.8530125
 runningtitle: "Paul M. Mcgrath"
 desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a,"
 ---
-Branch: USMC
-Place of Death: Quang Nam
-Class: 1966
-Major: Political Science
+* Branch: USMC
+* Place of Death: Quang Nam
+* Class: 1966
+* Major: Political Science
 
 ![Paul M. McGrath](images/paulmmcgrath.jpg)
    {:.image}
