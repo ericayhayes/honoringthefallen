@@ -5,7 +5,7 @@ layout: page
 {% if page.status %}
     {% assign status = page.status %}
 {% else %}
-    {% assign status = 'a-z' %}
+    {% assign status = 'Veteran' %}
 {% endif %}
 
 {% for status in site.article-index %}
@@ -13,9 +13,9 @@ layout: page
 {% endfor %}
 
 <!-- sort a-z -->
-{% if status == 'a-z' %}
+{% if status == 'Veteran' %}
  {% assign azsort = site.posts | sort: 'title' %}
-  <h3>Veterans: A-Z</h3>
+  <h3>Veteran</h3>
   <ul>
     {% for post in azsort %}
       <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
@@ -25,12 +25,12 @@ layout: page
 
 <!-- sort category -->
 <div id="post-list" class="index">
-   {% if status == 'category' %}
-     {% for category in site.categories %}
-       {% capture category_name %}{{ category | first }}{% endcapture %}
-       <h3>{{ category_name | capitalize }}</h3>
+   {% if status == 'branch' %}
+     {% for branch in site.categories %}
+       {% capture branch_name %}{{ branch | first }}{% endcapture %}
+       <h3>{{ branch_name}}</h3>
        <ul>
-         {% for post in site.categories[category_name] %}
+         {% for post in site.categories[branch_name] %}
           <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
          {% endfor %}
        </ul>

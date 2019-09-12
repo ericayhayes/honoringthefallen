@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Paul M. McGrath"
+title: "Andrew C. Dody"
 categories: ["USMC"]
 date: 1963-01-01
 lat: 15.5063908

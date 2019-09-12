@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Alex K. Ward"
-categories: ["Navy"]
-date: 1966
+categories: ["NAVY"]
+date: 1966-01-01
 lat: 48.869219
 lng: 2.3322078999999576
 runningtitle: "Andrew K. Ward"
