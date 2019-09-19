@@ -2,7 +2,7 @@
 layout: post
 title: "Albert C. Doody"
 categories: ["USMC"]
-date: 1965-01-01
+date: 1965-01-01 
 lat: 15
 lng: 108.67
 runningtitle: "Albert C. Doody"
