@@ -21,18 +21,13 @@ accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can s
 twitter_username: VillanovaDigLib
 github_username:  ericayhayes
 
-
-L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-maxZoom: 19,
-attribution: '&copy; <a </a> contributors'
-});
-
 # --MAP SETTINGS--
-map-tileset: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
-map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | <a target="_blank" href="href="https://www.openstreetmap.org/copyright">OpenStreetMap'
+map-tileset: 'https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png'
+map-credits: '<a target="_blank" href="href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a target="_blank" href="https://github.com/dnoneill/flaneur">Flâneur</a>'
+subdomains: ['a','b','c']
 minZoom: 0
 maxZoom: 20
-setView: '[16, 108], 12'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+setView: '[16, 108], 8'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
 # Truncates map marker popup on small screens to only display post title
