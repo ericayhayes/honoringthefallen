@@ -1,5 +1,5 @@
 ---
 layout: article-index
-title: Veterans
+title: Villanova Veterans
 status: date
 ---
