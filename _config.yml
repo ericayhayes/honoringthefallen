@@ -22,11 +22,11 @@ twitter_username: VillanovaDigLib
 github_username:  ericayhayes
 
 # --MAP SETTINGS--
-map-tileset: 'https://api.mapbox.com/styles/v1/eyhayesvillanova/ck0f3rtyq04ek1co4i5f306y5/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXloYXllc3ZpbGxhbm92YSIsImEiOiJjanprZmY2dGMwMXEwM29xcGoxdnU3ZGU2In0.fGzcDtt3pRUN0uMp7w-vAA'
+map-tileset: 'https://api.mapbox.com/styles/v1/eyhayesvillanova/ck0o747481bpy1cnjzuwiqryc/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZXloYXllc3ZpbGxhbm92YSIsImEiOiJjanprZmY2dGMwMXEwM29xcGoxdnU3ZGU2In0.fGzcDtt3pRUN0uMp7w-vAA'
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
-maxZoom: 5
-setView: '[16, 108], 12'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+maxZoom: 20
+setView: '[16, 108], 7'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
 # Truncates map marker popup on small screens to only display post title

@@ -14,10 +14,10 @@ desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulv
 [Photo via Vietnam War Veterans Memorial Fund: Wall of Faces](https://www.vvmf.org/Wall-of-Faces/36556/JOHN-R-MCDONOUGH/).
   {:.caption}
 
-  * Branch: Navy
-  * Place of Death: MIA, Pacific Ocean
-  * Class: 1962
-  * Major: Economics
+* Branch: Navy
+* Place of Death: MIA, Pacific Ocean
+* Class: 1962
+* Major: Economics
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
 
