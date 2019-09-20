@@ -2,7 +2,7 @@
 
 # --SITE SETTINGS--
 title: "Voices of Villanova Veterans: Tribute to the Befallen"
-email: erica.hayes@villanova.edu
+email: michael.d.brown@villanova.edu
 description:
 baseurl: "/villanovaveteransmap" # the subpath of your site, e.g. /blog/
 url: "https://ericayhayes.github.io/villanovaveteransmap/" # the base hostname & protocol for your site
@@ -18,8 +18,7 @@ accent_color: rgba(51, 63, 106, 1)  # accent color can be any css accepted value
 accent_font: Della Respira  # Gogle Fonts import link is in head.html. You can specify the accent font here and it will add it to the main.css
 
 # --SOCIAL--
-twitter_username: VillanovaDigLib
-github_username:  ericayhayes
+twitter_username: @VillanovaVets
 
 # --MAP SETTINGS--
 map-tileset: 'https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png'
