@@ -128,7 +128,7 @@ p.citation {
   text-align: left;
 }
 
-p.image img, img.home-icon {
+p.image img, img.home-icon, img.home-img {
   max-height: 400px;
   max-width: 80%;
   display: block;
@@ -391,6 +391,7 @@ display: inline-block;
 /* Leaflet */
 img.legend {
 	height: 24px;
+  /*height: 40px;*/
 	padding: 0px;
 	vertical-align: middle;
 	display: inline-block;
@@ -413,7 +414,7 @@ img.article-marker {
 
 label.leaflet-panel-layers-title {
   font-family: "Lato", sans-serif;
-  font-weight: 300;
+  font-weight: 400;
   text-transform: uppercase;
 }
 div.leaflet-control-layers-overlays {
