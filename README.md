@@ -1,4 +1,4 @@
-## [Villanova Veterans: Tribute to the Fallen](https://ericayhayes.github.io/villanovaveteransmap/)
+## [Honoring the Fallen: An Interactive Memorial Map](https://falveydigitalscholarship.github.io/honoringthefallen/)
 
 This is the repository for the mapping project: Honoring the Fallen: An Interactive Memorial Map. This map is part of [The Voices of Villanova Veterans](https://veteransvoices.library.villanova.edu/) oral history project, in collaboration with the [Office of Veterans and Military Service Members](https://www1.villanova.edu/villanova/enroll/veterans-military.html) and [Falvey Memorial Library's [Digital Scholarship Program](https://library.villanova.edu/collections/distinctive/digitallibrary/digital-scholarship) and the Department of Distinctive Collections and Digital Engagement Department (https://library.villanova.edu/collections/distinctive). This map displays the names of these veterans, along with their branch of service, year and location of death.
 
