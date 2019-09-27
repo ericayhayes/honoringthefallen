@@ -2,11 +2,10 @@
 layout: post
 title: "Albert C. Doody"
 categories: ["USMC"]
-date: 1965-01-01
+Year of Death: 1965-01-01
 lat: 15
 lng: 108.67
 runningtitle: "Albert C. Doody"
-desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a,"
 ---
 ![Albert C. Doody](images/albertc.doodybelleair.png)
    {:.image}
@@ -30,16 +29,14 @@ Albert C. Doody served with Golf Battery 3rd Battalion 11th Marine Regiment, 1st
 [Source](https://www.honorstates.org/index.php?id=270335)
   {:.caption}
 
-kjhahajkrhakhre
-
-![Albert Charles Doody's Grave](images/doodygrave.jpg)
-     {:.image}
+![Grave](images/doodygrave.jpg)
+  {:.image}
 [Source](https://www.honorstates.org/index.php?id=270335)
-    {:.caption}
+  {:.caption}
 
 #### Works cited
 
 {:.bibliography}
-1. Albert Charles Doody. HonorStates.org.https://www.honorstates.org/index.php?id=270335
-2. Albert Charles Doody. Vietnam Veterans Memorial Fund Wall of Faces. https://www.vvmf.org/Wall-of-Faces/13669/ALBERT-C-DOODY/
-3. College, V. (1966). Belle Air 1966. Villanova, PA : Villanova College. https://library.villanova.edu/Find/Record/vudl:558997
+1. Albert Charles Doody.HonorStates.org.<https://www.honorstates.org/index.php?id=270335>
+2. Albert Charles Doody. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/13669/ALBERT-C-DOODY/>
+3. College, V. (1966). Belle Air 1966. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:558997>

@@ -1,5 +1,5 @@
 ---
 layout: article-index
 title: Villanova Veterans
-status: date
+status: Year of Death 
 ---

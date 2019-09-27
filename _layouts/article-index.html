@@ -38,7 +38,7 @@ layout: page
    {% endif %}
 
 <!-- sort date -->
-   {% if status == 'date' %}
+   {% if status == 'Year of Death' %}
          {% for post in site.posts %}
 	         {% unless post.next %}
 	           <h3>{{ post.date | date: '%Y' }}</h3>

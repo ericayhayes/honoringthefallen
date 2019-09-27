@@ -2,7 +2,7 @@
 layout: post
 title: "Alexander K. Ward"
 categories: ["USMC"]
-date: 1968-01-01
+Year of Death: 1968-01-01
 lat: 16.7469
 lng: 107.194
 runningtitle: "Alexander K. Ward"
@@ -17,6 +17,7 @@ runningtitle: "Alexander K. Ward"
 * State: MD
 * Branch: USMC
 * Place of Death: Quang Tri
+* Year of Death: 1968
 * Villanova Class Year: 1963
 * Major: Biology
 
