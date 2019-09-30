@@ -2,7 +2,8 @@
 layout: post
 title: "Alexander K. Ward"
 categories: ["USMC"]
-Year of Death: 1968-01-01
+Year of Death: 1968-15-02
+Villanova Class Year: 1968-01-01
 lat: 16.7469
 lng: 107.194
 runningtitle: "Alexander K. Ward"
@@ -22,9 +23,10 @@ runningtitle: "Alexander K. Ward"
 * Major: Biology
 
 This is my account of the battle on Valentine's Ridge, which started on 14 February 1968 and continued to 15 February 1968. In this report there has been input from the Battalion Surgeon, first platoon commander, first & second platoon members, S-3 reports and family of the KIA.
+
 We left Ca Lu on 13 February 1968 for what was soon to be known as Valentine's Ridge. This is a small 200-meter hill approximately one mile west of Ca Lu combat base and 8 miles east of Khe Sanh combat base. The coordinate is XD990445 to XD978455 running North and South terminating at the Quang Tri River. At 1600 on 14 February 1968 all three platoons and the command group started up the side of this hill with first platoon on the southern flank (nearest the river).
 
-Shortly after part of first platoon left the groomed trail second and third platoon received 50cal. machinegun, automatic weapon and mortar fire. We received rocket, mortar and small arms fire wounding several men. At this time we were isolated from part of our platoon (first) and could not see second or third. Our actions involved calling in fighter jets, destroying a rocket launching position, caring for the wounded, and securing our area.
+Shortly after part of first platoon left the groomed trail second and third platoon received 50cal. machine gun, automatic weapon and mortar fire. We received rocket, mortar and small arms fire wounding several men. At this time we were isolated from part of our platoon (first) and could not see second or third. Our actions involved calling in fighter jets, destroying a rocket launching position, caring for the wounded, and securing our area.
 
 Contact was lost with the command group early in the battle. They had taken a direct hit killing our CO, XO and Chief Corpsman, Captain Ward, Lieutenant Reese and HM2 Goss. Under the leadership of our platoon commander, Lieutenant John Holladay, we moved off the hill and to a secure location on Route 9 wailing for reinforcements and tending to the wounded.
 

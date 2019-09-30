@@ -2,14 +2,15 @@
 layout: post
 title: "Albert C. Doody"
 categories: ["USMC"]
-Year of Death: 1965-01-01
+Year of Death: 1966-09-09
+Villanova Class Year: 1965-01-01
 lat: 15
 lng: 108.67
 runningtitle: "Albert C. Doody"
 ---
 ![Albert C. Doody](images/albertc.doodybelleair.png)
    {:.image}
-[Belle Air Villanova College Yearbook 1966](https://library.villanova.edu/Find/Record/vudl:558997).
+[Belle Air Villanova College Yearbook 1965, page 265](https://library.villanova.edu/Find/Record/vudl:556241).
   {:.caption}
 
 * Date of Birth: 11/10/1943
@@ -29,14 +30,18 @@ Albert C. Doody served with Golf Battery 3rd Battalion 11th Marine Regiment, 1st
 [Source](https://www.honorstates.org/index.php?id=270335)
   {:.caption}
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
+
 ![Grave](images/doodygrave.jpg)
   {:.image}
 [Source](https://www.honorstates.org/index.php?id=270335)
   {:.caption}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
 
 #### Works cited
 
 {:.bibliography}
 1. Albert Charles Doody.HonorStates.org.<https://www.honorstates.org/index.php?id=270335>
 2. Albert Charles Doody. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/13669/ALBERT-C-DOODY/>
-3. College, V. (1966). Belle Air 1966. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:558997>
+3. College, V. (1966). Belle Air 1965. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:556241>
