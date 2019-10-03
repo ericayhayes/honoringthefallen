@@ -3,7 +3,7 @@ layout: post
 title: "John R. McDonough"
 categories: ["NAVY"]
 Year of Death: 1966-20-06
-Villanova Class Year: 1966-01-01
+vudate: 1966
 lat: 17.445900
 lng: 107.295800
 runningtitle: "John R. McDonough"

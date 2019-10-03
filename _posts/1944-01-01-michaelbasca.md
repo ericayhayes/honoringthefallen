@@ -1,53 +1,45 @@
 ---
 layout: post
-title: "Harry Singley Jr."
+title: "Michael Basca"
 categories: ["ARMY"]
-Year of Death: 1944-06-06
-Villanova Class Year: 1932-01-01
-lat: 49.418056
-lng: -1.176389
-runningtitle: "Harry Singley Jr."
+Year of Death: 1944-01-11
+vudate: 1941
+lat: 48.8467
+lng: 6.5925
+runningtitle: "Michael Basca"
 ---
 
-![Harry Singley Jr.](images/Singley.jpg)
+![Michael Basca](images/michaelbasca.jpg)
    {:.image}
-[Source](https://www.pressofatlanticcity.com/harry-singley-newspaper-clips/pdf_2ae2c4ad-8720-5231-b627-382d664fa100.html).
+[Belle Air Villanova College Yearbook 1941, page 101](https://library.villanova.edu/Find/Record/vudl:516049).
   {:.caption}
 
-* Date of Birth: Unknown
-* Home of Record: Unknown
-* State: Unknown
+* Date of Birth: 12/04/1917
+* Home of Record: Phoenixville
+* State: PA
 * Branch: Army
-* Place of Death: Normandy
+* Place of Death: Obreck
 * Year of Death: 1944
-* Villanova Class Year: 1932
-* Major: Biology
-* Sports & Clubs at Villanova: Football, Inter-Frat Boxer, Class President, Senior Ball Committee, Lambda Kappa Delta
+* Villanova Class Year: 1941
+* Major: Education
+* Sports & Clubs at Villanova: Football, Baseball, Holy Name Society
 
-Harry Singley Jr. joined the Army in 1942. He served during World War II and had the rank of Captain. His service number was 1688035. He served with Medical Detachment, 42nd Field Artillery Battalion, 4th Infantry Division. Singley was killed in action on June 6, 1944 at Utah Beach, Normandy, France. He is buried and memorialized at Plot D Row 18 Grave 24 Normandy American Cemetery Colleville-sur-Mer, France. This is an American Battle Monuments Commission location.
+Michael Martin "Nick" Basca enlisted in the United States Army after the attack on Pearl Harbor and was eventually assigned as a tank commander in the 4th Armored Division. He was killed instantly when his tank was struck by an anti-tank round after four months in combat. He is currently honored in the Football's Wartime Heroes display at the Pro Football Hall of Fame. He played one season for the Philadelphia Eagles (1941).
 
-![Belle Air Yearbook College Yearbook 1932](images/HarrySingleyJr.BelleAir.png)
+Before his time in the NFL and the US Army, Michael Martin Basca was born on December 4, 1917 to Michael and Mary Basca. His parents emigrated from Austria. Michael Sr. was a steelworker at Phoenixville Steel and football coach at Sacred Heart in 1920-1921. Michael was the second of five children. At an early age, Michael would go house to house in the neighborhood seeking odd jobs for a nickel. He soon became widely known as “Nickels” Basca. The nickname was later shortened to ‘Nick’.
+
+In 1938, Michael began his studies at Villanova University, and continued his stellar athletic performance under coach Clipper Smith. ‘Nick’ did much of the passing, punting and drop kicking, becoming a triple threat. His performance won him a place on the All-State Team, several All-Eastern teams, as well as team captain his senior year. He graduated with a BS in Education in 1941.
+
+
+![Football Team 1941, Front Row: Michael Basca](images/)
   {:.image}
 
 [Belle Air Villanova College Yearbook 1932, page 122](https://library.villanova.edu/Find/Record/vudl:518488)
   {:.caption}
 
-Affectionately nicknamed, Beetle, he was described in the Belle Air Yearbook Class of 1932 as:
-
-"Endowed with such qualities has quickly won him a foremost place in the affection of his comrades. Beetle, was moreover a student of the first rank and an athlete who did much to add to his glory of Villanova. His hearty laughter was ever a source of cheer to us who have known him since matriculation and the hall of Mendel will seem hollow without it’s merry peal. In his four year stay with us, he has acquired a multitude of friends who will cherish many happy memories of him" (page 122).
-
-![Headstone Inscription and Interment Record](images/SingleyHeadstoneInscription.jpg)
-  {:.image}
-
-[Source](https://library.villanova.edu/Find/Record/vudl:518488)
-  {:.caption}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
 
 
 #### Works cited
 
 {:.bibliography}
-1. Harry P. Singley. HonorStates.org. https://www.honorstates.org/index.php?id=341816
-2. Kelly, Peggy. "Harry Singley newspaper clips." The Press of Atlantic City. https://www.pressofatlanticcity.com/harry-singley-newspaper-clips/pdf_2ae2c4ad-8720-5231-b627-382d664fa100.html
-3. College, V. (1932). Belle Air 1932. Villanova, PA : Villanova College. https://library.villanova.edu/Find/Record/vudl:518488
+1.

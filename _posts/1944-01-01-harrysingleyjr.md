@@ -3,7 +3,7 @@ layout: post
 title: "Harry Singley Jr."
 categories: ["ARMY"]
 Year of Death: 1944-06-06
-Villanova Class Year: 1932-01-01
+vudate: 1932
 lat: 49.418056
 lng: -1.176389
 runningtitle: "Harry Singley Jr."

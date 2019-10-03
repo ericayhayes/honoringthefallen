@@ -3,7 +3,7 @@ layout: post
 title: "Paul M. McGrath"
 categories: ["USMC"]
 Year of Death: 1968-07-06
-Villanova Class Year: 1966-01-01
+vudate: 1966
 lat: 15.5063908
 lng: 106.8530125
 runningtitle: "Paul M. McGrath"

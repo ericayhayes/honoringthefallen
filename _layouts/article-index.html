@@ -59,12 +59,12 @@ layout: page
       {% if status == 'Villanova Class Year' %}
             {% for post in site.posts %}
    	         {% unless post.next %}
-   	           <h3>{{ post.date | date: '%Y' }}</h3>
+   	           <h3>{{ post.vudate | vudate: '%Y' }}</h3>
    	           {% else %}
-   	             {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-   	             {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+   	             {% capture year %}{{ post.vudate | vudate: '%Y' }}{% endcapture %}
+   	             {% capture nyear %}{{ post.next.vudate | vudate: '%Y' }}{% endcapture %}
    	           {% if year != nyear %}
-   	             <h3>{{ post.date | date: '%Y' }}</h3>
+   	             <h3>{{ post.vudate | vudate: '%Y' }}</h3>
    	           {% endif %}
    	         {% endunless %}
                 <ul>

@@ -3,7 +3,7 @@ layout: post
 title: "Alexander K. Ward"
 categories: ["USMC"]
 Year of Death: 1968-15-02
-Villanova Class Year: 1968-01-01
+vudate: 1968
 lat: 16.7469
 lng: 107.194
 runningtitle: "Alexander K. Ward"

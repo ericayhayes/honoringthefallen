@@ -3,7 +3,7 @@ layout: post
 title: "Albert C. Doody"
 categories: ["USMC"]
 Year of Death: 1966-09-09
-Villanova Class Year: 1965-01-01
+vudate: 1965
 lat: 15
 lng: 108.67
 runningtitle: "Albert C. Doody"
