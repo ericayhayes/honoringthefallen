@@ -2,7 +2,7 @@
 layout: post
 title: "Alexander K. Ward"
 categories: ["USMC"]
-Year of Death: 1968-15-02
+date: 1968-02-15
 vudate: 1968
 lat: 16.7469
 lng: 107.194

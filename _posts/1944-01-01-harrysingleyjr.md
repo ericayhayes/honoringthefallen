@@ -2,7 +2,7 @@
 layout: post
 title: "Harry Singley Jr."
 categories: ["ARMY"]
-Year of Death: 1944-06-06
+date: 1944-06-06
 vudate: 1932
 lat: 49.418056
 lng: -1.176389

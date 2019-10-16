@@ -2,7 +2,7 @@
 layout: post
 title: "Albert C. Doody"
 categories: ["USMC"]
-Year of Death: 1966-09-09
+date: 1966-09-09
 vudate: 1965
 lat: 15
 lng: 108.67

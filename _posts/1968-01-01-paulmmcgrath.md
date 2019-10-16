@@ -2,7 +2,7 @@
 layout: post
 title: "Paul M. McGrath"
 categories: ["USMC"]
-Year of Death: 1968-07-06
+date: 1968-07-06
 vudate: 1966
 lat: 15.5063908
 lng: 106.8530125

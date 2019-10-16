@@ -2,7 +2,7 @@
 layout: post
 title: "Michael Basca"
 categories: ["ARMY"]
-Year of Death: 1944-01-11
+date: 1944-01-11
 vudate: 1941
 lat: 48.8467
 lng: 6.5925
