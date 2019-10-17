@@ -107,7 +107,6 @@ p {
 	-webkit-margin-after: 1em;
 	-webkit-margin-start: 0px;
 	-webkit-margin-end: 0px;
-	text-align: justify;
   line-height: 22px;
 }
 
@@ -140,7 +139,7 @@ img.home-icon {
 }
 
 li {
-  margin-bottom: 8px;
+  margin-bottom: 2px;
 }
 
 ul {
@@ -389,17 +388,15 @@ display: inline-block;
 }
 
 /* Leaflet */
+
 img.legend {
-  margin-left: -10px;
-  margin-top: -8px;
-  margin-right: 5px;
-  margin-left: -15px;
-	/*height: 24px;*/
-  /*height: 40px;*/
+	height: 24px;
 	padding: 0px;
 	vertical-align: middle;
 	display: inline-block;
 }
+
+
 
 img.article-marker {
 	height: 42px;

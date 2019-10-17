@@ -13,35 +13,39 @@ runningtitle: "Albert C. Doody"
 [Belle Air Villanova College Yearbook 1965, page 265](https://library.villanova.edu/Find/Record/vudl:556241).
   {:.caption}
 
-* Date of Birth: 11/10/1943
-* Home of Record: Franklin Square
-* State: NY
-* Branch: USMC
-* Place of Death: Quang Ngai
-* Year of Death: 1966
-* Villanova Class Year: 1965
-* Major: Political Science
-* Sports & Clubs at Villanova: Football, Intramural Sports, Conservative Club, Spanish Club, Young Republicans
+* **Date of Birth**: 11/10/1943
+* **Home of Record**: Franklin Square
+* **State**: NY
+* **Branch**: USMC
+* **Place of Death**: Quang Ngai
+* **Year of Death**: 1966
+* **Villanova Class Year**: 1965
+* **Major**: Political Science
+* **Sports & Clubs at Villanova**: Football, Intramural Sports, Conservative Club, Spanish Club, Young Republicans
+
+#### About
 
 Albert C. Doody served with Golf Battery 3rd Battalion 11th Marine Regiment, 1st Marine Division. He was a casualty of the Vietnam War and died as a result of fragmentation wounds on Sept. 9 1966. He is honored on the Vietnam Veteran's Memorial in Washington DC. His name is inscribed at VVM Wall, Panel 10e, Line 79. He was buried in Long Island National Cemetery. He received his B.A.
 
 ![Medal](images/doodymedal.jpg)
    {:.image}
-[Source](https://www.honorstates.org/index.php?id=270335)
+[Division of Military and Naval Affairs Awards](https://dmna.ny.gov/awards/csc.html)
   {:.caption}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
+The Conspicuous Service Cross may be awarded to any current New York State citizen or person who was a New York State citizen while serving on federal active duty; whose entire service was honorable subsequent to the time of receipt of the citation while serving in the U.S. Army, Air Force, Navy, Marine Corps, Coast Guard or in the Army female nurse corps, and who has received a personal decoration issued by a brigade or equivalent higher headquarters. Albert C. Doody was awarded The Conspicuous Service Cross on November 9, 1966.
 
-![Grave](images/doodygrave.jpg)
+![Albert C. Doody's Grave](images/doodygrave.jpg)
   {:.image}
-[Source](https://www.honorstates.org/index.php?id=270335)
+[Albert C. Doody's Grave](https://www.findagrave.com/memorial/110737937/albert-charles-doody)
   {:.caption}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
+Lt. Doody’s grave can be found at the Long Island National Cemetery in East Farmingdale NY.
 
 #### Works cited
 
 {:.bibliography}
 1. Albert Charles Doody.HonorStates.org.<https://www.honorstates.org/index.php?id=270335>
 2. Albert Charles Doody. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/13669/ALBERT-C-DOODY/>
+3. Albert Charles Doody. Find A Grave. <https://www.findagrave.com/memorial/110737937/albert-charles-doody>
 3. College, V. (1966). Belle Air 1965. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:556241>
+4. Division of Military and Naval Affairs Awards.<https://dmna.ny.gov/awards/csc.html>

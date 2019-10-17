@@ -8,19 +8,21 @@ lat: 16.7469
 lng: 107.194
 runningtitle: "Alexander K. Ward"
 ---
-![Alexander K. Ward](images/alexkward63.jpg)
+![Alexander K. Ward](images/AlexanderK.Ward.png)
    {:.image}
-[Belle Air Villanova College Yearbook 1963](https://library.villanova.edu/Find/Record/vudl:554479).
+[Belle Air Villanova College Yearbook 1963, page 301](https://library.villanova.edu/Find/Record/vudl:554479).
    {:.caption}
 
-* Date of Birth: 12/27/1940
-* Home of Record: Annapolis
-* State: MD
-* Branch: USMC
-* Place of Death: Quang Tri
-* Year of Death: 1968
-* Villanova Class Year: 1963
-* Major: Biology
+* **Date of Birth**: 12/27/1940
+* **Home of Record**: Annapolis
+* **State**: MD
+* **Branch**: USMC
+* **Place of Death**: Quang Tri
+* **Year of Death**: 1968
+* **Villanova Class Year**: 1963
+* **Major**: Biology
+
+#### About
 
 This is my account of the battle on Valentine's Ridge, which started on 14 February 1968 and continued to 15 February 1968. In this report there has been input from the Battalion Surgeon, first platoon commander, first & second platoon members, S-3 reports and family of the KIA.
 
@@ -59,6 +61,6 @@ Friday, December 10, 1999
 #### Works cited
 
 {:.bibliography}
-1. ...
-2. ....
-3. ....
+1. Alexander K. Ward. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/54431/ALEXANDER-K-WARD/>...
+2. Alexander K. Ward. Marines Together We Served: Reconnecting Marines Since 2003. <https://marines.togetherweserved.com/usmc/servlet/tws.webapp.WebApp?cmd=ShadowBoxProfile&type=Person&ID=123298>
+3. College, V. (1963). Belle Air 1963. Villanova, PA : Villanova College.<https://library.villanova.edu/Find/Record/vudl:554479>
