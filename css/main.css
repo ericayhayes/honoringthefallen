@@ -138,9 +138,16 @@ img.home-icon {
   height: 100px;
 }
 
+strong.metadata {
+  font-family: 'Della Respira';
+  color: rgba(51, 63, 106, 1);
+}
+
 li {
   margin-bottom: 2px;
 }
+
+
 
 ul {
   list-style:none;

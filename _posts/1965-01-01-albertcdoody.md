@@ -13,8 +13,7 @@ runningtitle: "Albert C. Doody"
 [Belle Air Villanova College Yearbook 1965, page 265](https://library.villanova.edu/Find/Record/vudl:556241).
   {:.caption}
 
-* **Date of Birth**: 11/10/1943
-* **Home of Record**: Franklin Square
+* **Home of Record**{: .metadata}: Franklin Square
 * **State**: NY
 * **Branch**: USMC
 * **Place of Death**: Quang Ngai
