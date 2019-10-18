@@ -14,15 +14,15 @@ runningtitle: "Paul M. McGrath"
 [Belle Air Villanova College Yearbook 1966, page 281](https://library.villanova.edu/Find/Record/vudl:558997).
   {:.caption}
 
-* Date of Birth: 08/05/1944
-* Home of Record: RYE
-* State: NY
-* Branch: USMC
-* Place of Death: Quang Nam
-* Year of Death: 1968
-* Villanova Class Year: 1966
-* Major: Political Science
-* Sports & Clubs at Villanova: Football, Intramural Sports, Conservative Club, Spanish Club, Young Republicans
+* **Date of Birth**{: .metadata}: 08/05/1944
+* **Home of Record**{: .metadata}: RYE
+* **State**{: .metadata}: NY
+* **Branch**{: .metadata}: USMC
+* **Place of Death**{: .metadata}: Quang Nam
+* **Year of Death**{: .metadata}: 1968
+* **Villanova Class Year**{: .metadata}: 1966
+* **Major**{: .metadata}: Political Science
+* **Sports & Clubs at Villanova**{: .metadata}: Football, Intramural Sports, Conservative Club, Spanish Club, Young Republicans
 
 Paul M. McGrath served during the Vietnam War. He began his tour on December 9, 1967. He had the rank of Second Lieutenant. His occupation or specialty was Infantry Officer and his service number was 0103672. He served 3rd Marine Division, 1st Battalion, 26th Marines, A Company. McGrath experienced a traumatic event which resulted in loss of life on June 7, 1968. Recorded circumstances attributed to: "Died through hostile action, small arms fire".
 
@@ -40,8 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar im
 [Source](https://www.honorstates.org/index.php?id=270335)
   {:.caption}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
-
+The Conspicuous Service Cross may be awarded to any current New York State citizen or person who was a New York State citizen while serving on federal active duty; whose entire service was honorable subsequent to the time of receipt of the citation while serving in the U.S. Army, Air Force, Navy, Marine Corps, Coast Guard or in the Army female nurse corps, and who has received a personal decoration issued by a brigade or equivalent higher headquarters. Paul Martin McGrath was awarded The Conspicuous Service Cross on April 14, 1969.
 
 #### Works cited
 

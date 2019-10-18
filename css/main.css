@@ -35,7 +35,7 @@ h4 {
 
 h1.post-title {
   font-size: 1.2em;
-  line-height: .5;
+  /*line-height: .5;*/
   letter-spacing: -.025rem;
   position: relative;
   margin-bottom: .1em;
@@ -129,6 +129,7 @@ p.citation {
 
 p.image img, img.home-icon, img.home-img {
   max-height: 400px;
+  padding-top: 10px;
   max-width: 80%;
   display: block;
   margin: auto;
@@ -283,7 +284,7 @@ display: inline-block;
 
 @media (min-width:768px) and (max-width:1100px) {
     html {
-      font-size: 15px;
+      font-size: 18px;
     }
 
     #map {
@@ -409,12 +410,13 @@ img.legend {
 
 
 img.article-marker {
-	height: 42px;
+	/*height: 42px;
 	padding: 0px;
 	align:right;
 	cursor: pointer;
 	display: inline;
-	vertical-align: middle;
+	vertical-align: middle;*/
+  display: none;
 }
 
 .leaflet-popup-content-wrapper, .leaflet-popup-tip {

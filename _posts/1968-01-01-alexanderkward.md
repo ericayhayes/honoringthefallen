@@ -13,14 +13,14 @@ runningtitle: "Alexander K. Ward"
 [Belle Air Villanova College Yearbook 1963, page 301](https://library.villanova.edu/Find/Record/vudl:554479).
    {:.caption}
 
-* **Date of Birth**: 12/27/1940
-* **Home of Record**: Annapolis
-* **State**: MD
-* **Branch**: USMC
-* **Place of Death**: Quang Tri
-* **Year of Death**: 1968
-* **Villanova Class Year**: 1963
-* **Major**: Biology
+* **Date of Birth**{: .metadata}: 12/27/1940
+* **Home of Record**{: .metadata}: Annapolis
+* **State**{: .metadata}: MD
+* **Branch**{: .metadata}: USMC
+* **Place of Death**{: .metadata}: Quang Tri
+* **Year of Death**{: .metadata}: 1968
+* **Villanova Class Year**{: .metadata}: 1963
+* **Major**{: .metadata}: Biology
 
 #### About
 

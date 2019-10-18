@@ -14,15 +14,15 @@ runningtitle: "Harry Singley Jr."
 [Harry P. Singley Jr., National WWII Memorial](https://www.wwiimemorial.com/Registry/plaque.aspx?honoreeID=2171191).
   {:.caption}
 
-* **Date of Birth**: Unknown
-* **Home of Record**: Ventnor City
-* **State**: NJ
-* **Branch**: Army
-* **Place of Death**: Normandy
-* **Year of Death**: 1944
-* **Villanova Class Year**: 1932
-* **Major**: Biology
-* **Sports & Clubs at Villanova**: Football, Inter-Frat Boxer, Class President, Senior Ball Committee, Lambda Kappa Delta
+* **Date of Birth**{: .metadata}: Unknown
+* **Home of Record**{: .metadata}: Ventnor City
+* **State**{: .metadata}: NJ
+* **Branch**{: .metadata}: Army
+* **Place of Death**{: .metadata}: Normandy
+* **Year of Death**{: .metadata}: 1944
+* **Villanova Class Year**{: .metadata}: 1932
+* **Major**{: .metadata}: Biology
+* **Sports & Clubs at Villanova**{: .metadata}: Football, Inter-Frat Boxer, Class President, Senior Ball Committee, Lambda Kappa Delta
 
 #### About
 

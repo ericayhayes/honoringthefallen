@@ -14,14 +14,14 @@ runningtitle: "John R. McDonough"
 [Belle Air Villanova College Yearbook 1962, page 276](https://library.villanova.edu/Find/Record/vudl:540336).
   {:.caption}
 
-* **Date of Birth**: 05/10/1939
-* **Home Record**: South Orange
-* **State**: NJ
-* **Branch**: Navy
-* **Place of Death**: MIA, Pacific Ocean
-* **Year of Death**: 1966
-* **Villanova Class Year**: 1962
-* **Major**: Economics
+* **Date of Birth**{: .metadata}: 05/10/1939
+* **Home Record**{: .metadata}: South Orange
+* **State**{: .metadata}: NJ
+* **Branch**{: .metadata}: Navy
+* **Place of Death**{: .metadata}: MIA, Pacific Ocean
+* **Year of Death**{: .metadata}: 1966
+* **Villanova Class Year**{: .metadata}: 1962
+* **Major**{: .metadata}: Economics
 
 #### About
 

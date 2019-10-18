@@ -14,15 +14,15 @@ runningtitle: "Michael Basca"
 [Belle Air Villanova College Yearbook 1941, page 101](https://library.villanova.edu/Find/Record/vudl:516049).
   {:.caption}
 
-* Date of Birth: 12/04/1917
-* Home of Record: Phoenixville
-* State: PA
-* Branch: Army
-* Place of Death: Obreck
-* Year of Death: 1944
-* Villanova Class Year: 1941
-* Major: Education
-* Sports & Clubs at Villanova: Football, Baseball, Holy Name Society
+* **Date of Birth**{: .metadata}: 12/04/1917
+* **Home of Record**{: .metadata}: Phoenixville
+* **State**{: .metadata}: PA
+* **Branch**{: .metadata}: Army
+* **Place of Death**{: .metadata}: Obreck
+* **Year of Death**{: .metadata}: 1944
+* **Villanova Class Year**{: .metadata}: 1941
+* **Major**{: .metadata}: Education
+* **Sports & Clubs at Villanova**{: .metadata}: Football, Baseball, Holy Name Society
 
 Michael Martin "Nick" Basca enlisted in the United States Army after the attack on Pearl Harbor and was eventually assigned as a tank commander in the 4th Armored Division. He was killed instantly when his tank was struck by an anti-tank round after four months in combat. He is currently honored in the Football's Wartime Heroes display at the Pro Football Hall of Fame. He played one season for the Philadelphia Eagles (1941).
 

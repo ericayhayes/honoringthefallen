@@ -14,13 +14,13 @@ runningtitle: "Albert C. Doody"
   {:.caption}
 
 * **Home of Record**{: .metadata}: Franklin Square
-* **State**: NY
-* **Branch**: USMC
-* **Place of Death**: Quang Ngai
-* **Year of Death**: 1966
-* **Villanova Class Year**: 1965
-* **Major**: Political Science
-* **Sports & Clubs at Villanova**: Football, Intramural Sports, Conservative Club, Spanish Club, Young Republicans
+* **State**{: .metadata}: NY
+* **Branch**{: .metadata}: USMC
+* **Place of Death**{: .metadata}: Quang Ngai
+* **Year of Death**{: .metadata}: 1966
+* **Villanova Class Year**{: .metadata}: 1965
+* **Major**{: .metadata}: Political Science
+* **Sports & Clubs at Villanova**{: .metadata}: Football, Intramural Sports, Conservative Club, Spanish Club, Young Republicans
 
 #### About
 
