@@ -13,6 +13,7 @@ permalink: /credits/
 * Laura Bang, Distinctive Collections Librarian
 * Beaudry Allen, Preservation & Digital Archivist
 * Rebecca Oviedo, Distinctive Collections Coordinator
+* Erin Warren, Distinctive Collections Undergraduate Student Assistant
 * Michael Foight, Director of Distinctive Collections and Digital Engagement
 * Dave Uspal, Library Technology Developer
 
