@@ -18,7 +18,7 @@ permalink: /credits/
 ### Jekyll theme
 * This map was created using the Flâneur Jekyll theme developed by [Dawn Childress](https://github.com/kirschbombe) and [Niqui O'Neill](https://github.com/dnoneill).
 
-## OpenStreetMap and Leaflet
+### OpenStreetMap and Leaflet
 * This map uses [OpenStreetMap](https://www.openstreetmap.org/#map=5/38.007/-95.844) and [Leaflet](https://leafletjs.com/)
 
 ### Icons
