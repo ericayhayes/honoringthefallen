@@ -19,7 +19,7 @@ permalink: /credits/
 * This map was created using the Flâneur Jekyll theme developed by [Dawn Childress](https://github.com/kirschbombe) and [Niqui O'Neill](https://github.com/dnoneill).
 
 ## OpenStreetMap and Leaflet
-* This map uses [OpenStreetMap](https://www.openstreetmap.org/#map=5/38.007/-95.844) contributors and was built with [Leaflet](https://leafletjs.com/)
+* This map uses [OpenStreetMap](https://www.openstreetmap.org/#map=5/38.007/-95.844) and [Leaflet](https://leafletjs.com/)
 
 ### Icons
 * _Map Marker_ icon created by Berkay Sargin from the Noun Project
