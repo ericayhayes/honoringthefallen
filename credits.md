@@ -9,13 +9,17 @@ permalink: /credits/
 * M. Todd Robinson
 
 ### Falvey Memorial Library
-* Erica Hayes
-* Dave Uspal
-* Laura Bang
-* Michael Foight
+* Erica Hayes, Digital Scholarship Librarian
+* Laura Bang, Distinctive Collections Librarian
+* Michael Foight, Director of Distinctive Collections and Digital Engagement
+* Dave Uspal, Library Technology Developer
+
 
 ### Jekyll theme
-* This map was built using the Flâneur Jekyll theme developed by [Dawn Childress](https://github.com/kirschbombe) and [Niqui O'Neill](https://github.com/dnoneill).
+* This map was created using the Flâneur Jekyll theme developed by [Dawn Childress](https://github.com/kirschbombe) and [Niqui O'Neill](https://github.com/dnoneill).
+
+## OpenStreetMap and Leaflet
+* This map uses [OpenStreetMap](https://www.openstreetmap.org/#map=5/38.007/-95.844) contributors and was built with [Leaflet](https://leafletjs.com/)
 
 ### Icons
 * _Map Marker_ icon created by Berkay Sargin from the Noun Project

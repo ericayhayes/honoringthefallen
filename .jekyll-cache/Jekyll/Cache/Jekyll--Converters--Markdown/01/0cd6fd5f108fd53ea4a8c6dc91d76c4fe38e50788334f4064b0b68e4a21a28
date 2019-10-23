@@ -1,0 +1,30 @@
+I"=<h3 id="office-of-veterans-and-military-service-members-at-villanova-university">Office of Veterans and Military Service Members at Villanova University</h3>
+<ul>
+  <li>Michael Brown</li>
+  <li>M. Todd Robinson</li>
+</ul>
+
+<h3 id="falvey-memorial-library">Falvey Memorial Library</h3>
+<ul>
+  <li>Erica Hayes</li>
+  <li>Dave Uspal</li>
+  <li>Laura Bang</li>
+  <li>Michael Foight</li>
+</ul>
+
+<h3 id="jekyll-theme">Jekyll theme</h3>
+<ul>
+  <li>This map was built using the Flâneur Jekyll theme developed by <a href="https://github.com/kirschbombe">Dawn Childress</a> and <a href="https://github.com/dnoneill">Niqui O’Neill</a>.</li>
+</ul>
+
+<h2 id="openstreetmap-and-leaflet">OpenStreetMap and Leaflet</h2>
+<ul>
+  <li>This map uses <a href="https://www.openstreetmap.org/#map=5/38.007/-95.844">OpenStreetMap</a> contributors and was built with <a href="https://leafletjs.com/">Leaflet</a></li>
+</ul>
+
+<h3 id="icons">Icons</h3>
+<ul>
+  <li><em>Map Marker</em> icon created by Berkay Sargin from the Noun Project</li>
+  <li><em>north</em> by Lluisa Iborra from the Noun Project</li>
+</ul>
+:ET
