@@ -8,7 +8,7 @@ permalink: /credits/
 * Michael Brown
 * M. Todd Robinson
 
-### Falvey Memorial Library's Digital Scholarship Program and Department of Distinctive Collections and Digital Engagement
+### Falvey Memorial Library
 * Erica Hayes
 * Dave Uspal
 * Laura Bang
