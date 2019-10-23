@@ -55,23 +55,26 @@ layout: page
 	       {% endfor %}
    {% endif %}
 
-   <!-- sort vudate
+
+   <!--sort villanova class date -->
    {% if status == 'Villanova Class Year' %}
-      {% for post in site.posts %}
-        {% unless post.next %}
-          <h3>{{ post.vudate | vudate: '%Y' }}</h3>
-          {% else %}
-            {% capture year %}{{ post.vudate | vudate: '%Y' }}{% endcapture %}
-            {% capture nyear %}{{ post.next.vudate | vudate: '%Y' }}{% endcapture %}
-          {% if year != nyear %}
-            <h3>{{ post.vudate | vudate: '%Y' }}</h3>
-          {% endif %}
-        {% endunless %}
-          <ul>
-            <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
-          </ul>
-      {% endfor %}
-{% endif %}-->
+      {% assign posts_sorted = site.posts | sort: "vudate" %}
+         {% for post in posts_sorted reversed %}
+	         {% if forloop.first %}
+	           <h3>{{ post.vudate | vudate: '%Y' }}</h3>
+	           {% else %}
+	             {% capture year %}{{ post.vudate | vudate: '%Y' }}{% endcapture %}
+	             {% capture nyear %}{{ posts_sorted[forloop.index].vudate | vudate: '%Y' }}{% endcapture %}
+	           {% if year != nyear %}
+	             <h3>{{ post.vudate | vudate: '%Y' }}</h3>
+	           {% endif %}
+	         {% endif %}
+             <ul>
+	               <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
+             </ul>
+	       {% endfor %}
+   {% endif %}
+
 
 
 

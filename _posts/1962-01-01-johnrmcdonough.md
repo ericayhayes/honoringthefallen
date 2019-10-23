@@ -9,7 +9,7 @@ lng: 107.295800
 runningtitle: "John R. McDonough"
 ---
 
-![John R. McDonough](images/JohnMcDonough.jpg)
+![John R. McDonough](images/JohnMcDonough.png)
    {:.image}
 [Belle Air Villanova College Yearbook 1962, page 276](https://library.villanova.edu/Find/Record/vudl:540336).
   {:.caption}

@@ -94,7 +94,7 @@ div#sidebar-content {
 p.post-header {
   letter-spacing: 1.5px;
   margin-bottom: .5rem;
-  font-size: .8em;
+  font-size: .95em;
   font-style: italic;
   border-width: 0 0 1px;
   border-style: dotted;
@@ -399,10 +399,10 @@ display: inline-block;
 
 img.legend {
     height: 25px;
-    padding: 4px;
+    padding: 2px;
     margin-left: -14px;
-    margin-bottom: 5px;
-    margin-top: -7px;
+    margin-bottom: 4px;
+    margin-top: -4.5px;
     vertical-align: middle;
     display: inline-block;
 }

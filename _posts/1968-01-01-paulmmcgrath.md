@@ -32,12 +32,9 @@ Paul M. McGrath served during the Vietnam War. He began his tour on December 9, 
 [Football Team photo in the Belle Air Villanova College Yearbook 1966, page 178. Fourth Row: Paul M. McGrath](https://library.villanova.edu/Find/Record/vudl:558997)
   {:.caption}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec porta pulvinar imperdiet. Sed luctus auctor porta. Etiam magna turpis, bibendum sit amet quam a, cursus laoreet enim. Sed bibendum dictum enim vel accumsan. In eros mi, dapibus quis aliquam id, laoreet eu neque. Etiam quis tortor leo. Vivamus semper arcu enim, at pharetra erat semper eget. Vivamus ex sapien, dapibus eget ligula id, varius feugiat neque. Mauris aliquet aliquet arc
-
 ![Conspicuous Service Cross #15810 Notification of Paul McGrath's death](images/McGrathVietnam.jpg)
    {:.image}
-
-[Source](https://www.honorstates.org/index.php?id=270335)
+[Division of Military and Naval Affairs Awards](https://dmna.ny.gov/awards/csc.html)
   {:.caption}
 
 The Conspicuous Service Cross may be awarded to any current New York State citizen or person who was a New York State citizen while serving on federal active duty; whose entire service was honorable subsequent to the time of receipt of the citation while serving in the U.S. Army, Air Force, Navy, Marine Corps, Coast Guard or in the Army female nurse corps, and who has received a personal decoration issued by a brigade or equivalent higher headquarters. Paul Martin McGrath was awarded The Conspicuous Service Cross on April 14, 1969.
