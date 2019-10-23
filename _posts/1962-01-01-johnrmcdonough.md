@@ -3,7 +3,7 @@ layout: post
 title: "John R. McDonough"
 categories: ["NAVY"]
 dates: 1966-20-06
-vudate: 1966
+vudate: 1962
 lat: 17.445900
 lng: 107.295800
 runningtitle: "John R. McDonough"

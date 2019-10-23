@@ -3,7 +3,7 @@ layout: post
 title: "Alexander K. Ward"
 categories: ["USMC"]
 date: 1968-02-15
-vudate: 1968
+vudate: 1963
 lat: 16.7469
 lng: 107.194
 runningtitle: "Alexander K. Ward"

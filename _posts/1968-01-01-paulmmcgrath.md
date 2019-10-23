@@ -4,8 +4,8 @@ title: "Paul M. McGrath"
 categories: ["USMC"]
 date: 1968-07-06
 vudate: 1966
-lat: 15.5063908
-lng: 106.8530125
+lat: 15.5728
+lng: 108.0753
 runningtitle: "Paul M. McGrath"
 ---
 

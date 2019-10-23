@@ -55,8 +55,27 @@ layout: page
 	       {% endfor %}
    {% endif %}
 
+   <!--sort villanova class date-->
+   {% if status == 'Villanova Class Year' %}
+      {% assign posts_sorted = site.posts | sort: "vudate" %}
+         {% for post in posts_sorted reversed %}
+	         {% if forloop.first %}
+	           <h3>{{ post.vudate | vudate: '%Y' }}</h3>
+	           {% else %}
+	             {% capture year %}{{ post.vudate | vudate: '%Y' }}{% endcapture %}
+	             {% capture nyear %}{{ posts_sorted.vudate | vudate: '%Y' }}{% endcapture %}
+	           {% if year != nyear %}
+	             <h3>{{ post.vudate | vudate: '%Y' }}</h3>
+	           {% endif %}
+	         {% endif %}
+             <ul>
+	               <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
+             </ul>
+	       {% endfor %}
+   {% endif %}
 
-   <!--sort villanova class date -->
+
+   <!--sort villanova class date
    {% if status == 'Villanova Class Year' %}
       {% assign posts_sorted = site.posts | sort: "vudate" %}
          {% for post in posts_sorted reversed %}
@@ -73,7 +92,7 @@ layout: page
 	               <li><a href="{{site.baseurl}}/#{{post.url}}" onclick='onClick("{{post.url}}");'>{{post.title}}</a></li>
              </ul>
 	       {% endfor %}
-   {% endif %}
+   {% endif %}-->
 
 
 
