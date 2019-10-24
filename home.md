@@ -7,7 +7,7 @@ title: "Honoring the Fallen: An Interactive Memorial Map"
 
 This project will honor the life and sacrifice of Villanovans who have been killed in service to their country. Through extensive research, and collaboration, our team, through this interactive memorial map, will memorialize and remember their service.
 
-In doing so, we hope to educate present and future generations about the cost of freedom, and the legacy of service that Villanova is so proud of. This map allows users, anywhere on the globe access to this incredible map, and creates an access point for family members, the community, historians, and anyone else interested in learning about this legacy.
+In doing so, we hope to educate present and future generations about the cost of freedom, and the legacy of service that Villanova is so proud of. This map allows users, anywhere on the globe to access this map, and creates an access point for family members, the community, historians, and anyone else interested in learning about this legacy.
 
 When you browse this map, you will see pins scattered across the globe, and when you click on a pin, it will bring up the person’s name, some pictures, some details surrounding the service member, and the circumstance surrounding their death. As more information becomes known, we will update the map.
 
