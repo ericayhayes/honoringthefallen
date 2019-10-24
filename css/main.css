@@ -144,6 +144,21 @@ strong.metadata {
   color: rgba(51, 63, 106, 1);
 }
 
+.Previous-next {
+  display: block;
+  width: 100%;
+  float: left;
+  margin: 1em 0;
+}
+
+.Previous-next a.previous {
+  float: left;
+}
+
+.Previous-next a.next {
+  float: right;
+}
+
 li {
   margin-bottom: 2px;
 }
