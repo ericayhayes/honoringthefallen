@@ -56,6 +56,12 @@ Email: rfellek39@aol.com
 Relationship: Captain Ward was my Commanding Officer for Kilo 3/9/3 USMC
 Friday, December 10, 1999
 
+![Alexander K. Ward Grave](images/alexkwardgrave.jpg)
+  {:.image}
+[Alexander K. Ward's Grave](https://marines.togetherweserved.com/usmc/servlet/tws.webapp.WebApp?cmd=ShadowBoxProfile&type=Person&ID=123298)
+  {:.caption}
+
+
 
 
 #### Works cited
