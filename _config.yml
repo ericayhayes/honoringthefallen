@@ -56,3 +56,7 @@ menu-opacity: '.95'
 
 #pages to exclude in menu
 exclude_pages: [ "index.html", 'home.md']
+
+#Adding time
+future: true
+timezone: America/New_York
