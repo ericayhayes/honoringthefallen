@@ -27,7 +27,7 @@ runningtitle: "John R. McDonough"
 
 John R. McDonough served during the Vietnam War. He had the rank of Lieutenant. His service number was 154308223. He served with USNAVFORV, Vaw 13, TF 77, USS Hancock. Lieutenant McDonough, U.S. Naval Reserve, was a member of Carrier Early Warning Squadron 13, Carrier Air Wing 15 aboard the Aircraft Carrier USS CONSTELLATION (CVA-64).
 
-On June 20, 1966, he was the pilot of a Douglas Skyrader Electronic Surveillance Aircraft (EA-1F) on a night mission. During the launch, the bridle connecting the aircraft to the catapult broke, and the aircraft fell of the carrier bow and sang. His remains were not recovered. John is honored on the Vietnam Veteran's Memorial in Washington DC. Name inscribed at VVM Wall, Panel 08e, Line 67. He is buried at the Honolulu Memorial Cemetery, Honolulu Hawaii.
+On June 20, 1966, he was the pilot of a Douglas Skyrader Electronic Surveillance Aircraft (EA-1F) on a night mission. During the launch, the bridle connecting the aircraft to the catapult broke, and the aircraft fell of the carrier bow and snagged. His remains were not recovered. John is honored on the Vietnam Veteran's Memorial in Washington DC. Name inscribed at VVM Wall, Panel 08e, Line 67. He is buried at the Honolulu Memorial Cemetery, Honolulu Hawaii.
 
 #### Works cited
 
