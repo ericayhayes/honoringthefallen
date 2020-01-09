@@ -9,7 +9,7 @@ lng: 9
 runningtitle: "George Balmore"
 ---
 
-![George Balmore](images/Balmore1.PNG)
+![George Balmore](images/Balmore1.jpg)
    {:.image}
 [Belle Air Villanova College Yearbook 1941, page 100 ](https://library.villanova.edu/Find/Record/vudl:516049).
   {:.caption}
