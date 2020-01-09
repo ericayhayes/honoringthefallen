@@ -69,4 +69,4 @@ Friday, December 10, 1999
 {:.bibliography}
 1. Alexander K. Ward. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/54431/ALEXANDER-K-WARD/>...
 2. Alexander K. Ward. Marines Together We Served: Reconnecting Marines Since 2003. <https://marines.togetherweserved.com/usmc/servlet/tws.webapp.WebApp?cmd=ShadowBoxProfile&type=Person&ID=123298>
-3. College, V. (1963). Belle Air 1963. Villanova, PA : Villanova College.<https://library.villanova.edu/Find/Record/vudl:554479>
+3. College, V. (1963). _Belle Air_ 1963. Villanova, PA : Villanova College.<https://library.villanova.edu/Find/Record/vudl:554479>

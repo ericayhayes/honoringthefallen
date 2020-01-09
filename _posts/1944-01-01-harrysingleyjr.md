@@ -52,5 +52,5 @@ This is Captain Singley’s internment record for burial at the Normandy America
 {:.bibliography}
 1. Harry P. Singley. HonorStates.org. <https://www.honorstates.org/index.php?id=341816>
 2. Harry P. Singley. National WWII Memorial, Washington D.C. <https://www.wwiimemorial.com/Registry/plaque.aspx?honoreeID=2171191>
-3. Kelly, Peggy. "Harry Singley newspaper clips." The Press of Atlantic City. <https://www.pressofatlanticcity.com/harry-singley-newspaper-clips/pdf_2ae2c4ad-8720-5231-b627-382d664fa100.html>
-4. College, V. (1932). Belle Air 1932. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:518488>
+3. Kelly, Peggy. "Harry Singley newspaper clips." _The Press of Atlantic City_. <https://www.pressofatlanticcity.com/harry-singley-newspaper-clips/pdf_2ae2c4ad-8720-5231-b627-382d664fa100.html>
+4. College, V. (1932). _Belle Air_ 1932. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:518488>

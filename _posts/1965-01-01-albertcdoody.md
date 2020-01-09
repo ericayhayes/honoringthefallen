@@ -46,5 +46,5 @@ Lt. Doody’s grave can be found at the Long Island National Cemetery in East Fa
 1. Albert Charles Doody.HonorStates.org.<https://www.honorstates.org/index.php?id=270335>
 2. Albert Charles Doody. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/13669/ALBERT-C-DOODY/>
 3. Albert Charles Doody. Find A Grave. <https://www.findagrave.com/memorial/110737937/albert-charles-doody>
-3. College, V. (1966). Belle Air 1965. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:556241>
+3. College, V. (1966). _Belle Air_ 1965. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:556241>
 4. Division of Military and Naval Affairs Awards.<https://dmna.ny.gov/awards/csc.html>

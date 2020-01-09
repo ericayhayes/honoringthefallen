@@ -65,4 +65,4 @@ Above: A host of Temple men gang up on Nick Basca a few yards past the line of s
 
 2. Michael Basca. National WWII Memorial, Washington D.C. <https://www.wwiimemorial.com/Registry/plaque.aspx?honoreeID=2516247>
 3. Basca, Michael M. Chester County Hall of Heroes: Honoring the Sacrifice of Our Heroes. <https://www.chescoheroes.org/326/Basca-Michael-M>
-3. College, V. (1941). Belle Air 1941. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:516049>
+3. College, V. (1941). _Belle Air_ 1941. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:516049>

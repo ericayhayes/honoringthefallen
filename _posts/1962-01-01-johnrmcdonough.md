@@ -40,5 +40,5 @@ On June 20, 1966, he was the pilot of a Douglas Skyrader Electronic Surveillance
 {:.bibliography}
 1. John R. McDonough. HonorStates.org.<https://www.honorstates.org/index.php?id=286857>
 2. John R. McDonough. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/36556/JOHN-R-MCDONOUGH/>
-3. College, V. (1962). Belle Air 1962. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:540336>
+3. College, V. (1962). _Belle Air_ 1962. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:540336>
 4. EA-1F Skyraider. National Naval Aviation Museum.<https://www.navalaviationmuseum.org/aircraft/ea-1f-skyraider/>

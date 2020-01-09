@@ -44,4 +44,4 @@ The Conspicuous Service Cross may be awarded to any current New York State citiz
 {:.bibliography}
 1. Paul M. McGrath. HonorStates.org.<https://www.honorstates.org/index.php?id=287030>
 2. Paul M. McGrath. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/36773/PAUL-M-MCGRATH/>
-3. College, V. (1966). Belle Air 1966. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:558997>
+3. College, V. (1966). _Belle Air_ 1966. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:558997>
