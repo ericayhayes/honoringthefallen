@@ -1,0 +1,16 @@
+current directory: /Users/ehayes04/Documents/GitHub/honoringthefallen/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+/Users/ehayes04/.rbenv/versions/2.6.2/bin/ruby -I /Users/ehayes04/.rbenv/versions/2.6.2/lib/ruby/site_ruby/2.6.0 -r ./siteconf20200205-79347-1i1o07f.rb extconf.rb
+creating Makefile
+
+current directory: /Users/ehayes04/Documents/GitHub/honoringthefallen/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/ehayes04/Documents/GitHub/honoringthefallen/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/ehayes04/Documents/GitHub/honoringthefallen/vendor/bundle/ruby/2.6.0/gems/http_parser.rb-0.6.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20200205-79347-11xlc8e

@@ -15,8 +15,8 @@ runningtitle: "George Balmore"
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 04/14/1917
-* **Home of Record**{: .metadata}: Unknown
-* **State**{: .metadata}: Unknown
+* **Home of Record**{: .metadata}: Bronx
+* **State**{: .metadata}: New York
 * **Branch**{: .metadata}: Army Air Corps
 * **Place of Death**{: .metadata}: Germany
 * **Year of Death**{: .metadata}: 1944
@@ -26,9 +26,6 @@ runningtitle: "George Balmore"
 #### About
 
 George Balmer was a B-17 Radio Operator killed during a mission flying over Germany
-
-
-
 
 ![George Balmore: United States. Army. Quartermaster Geneeral's Office. Rosters of World War II Dead, 1939-1945 (all services). Washington, D.C.: U.S. Army](images/Balmore2.jpg)
   {:.image}
@@ -42,7 +39,7 @@ George Balmer was a B-17 Radio Operator killed during a mission flying over Germ
 [George Balmore Grave Plot H 0 11786, Long Island National Cemetery](https://www.findagrave.com/memorial/82564729/george-m-balmore)
   {:.caption}
 
-![Members of the Villanova Baseball Team, First Row: Calandra, Balmore. Belle Air Villanova College Yearbook 1941, page 207](images/Balmore5.jpg)
+![Members of the Villanova Baseball Team, First Row: Calandra, Balmore. Belle Air Villanova College Yearbook 1941, page 207](images/Balmore7.jpg)
   {:.image}
 
 [Members of the Villanova Baseball Team, First Row: Balmore. Belle Air Villanova College Yearbook 1941, page 207](https://library.villanova.edu/Find/Record/vudl:516049)
