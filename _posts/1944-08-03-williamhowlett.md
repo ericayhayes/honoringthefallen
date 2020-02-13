@@ -16,7 +16,7 @@ runningtitle: "William Howlett"
   {:.caption}
 
 
-* **Date of Birth**{: .metadata}: 08/08/1919
+* **Date of Birth**{: .metadata}: 08/08/1919/Test
 * **Home of Record**{: .metadata}: Unknown
 * **State**{: .metadata}: Unknown
 * **Branch**{: .metadata}: USMC
