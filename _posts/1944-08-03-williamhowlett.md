@@ -23,7 +23,7 @@ runningtitle: "William Howlett"
 * **Place of Death**{: .metadata}: Guam
 * **Year of Death**{: .metadata}: 1944
 * **Major**{: .metadata}: Economics
-* **Villanova Class Year**{: .metadata}: 1917
+* **Villanova Class Year**{: .metadata}: 1944
 * **Sports & Clubs at Villanova**{: .metadata}: Baseball, Football
 
 
