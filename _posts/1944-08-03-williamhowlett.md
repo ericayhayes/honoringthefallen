@@ -55,10 +55,6 @@ Bill and his brother John "Buzz" Howlett '40, Chief Specialist, Navy, and at pre
 [Howlett’s Commonwealth of Pennsylvania – Application for World War II Compensation – To be used in case of death.](https://www.ancestrylibrary.com/interactive/3147/43191_2421406272_0931-01302?pid=1612266&backurl=https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc%3DBjZ923%26_phstart%3DsuccessSource%26usePUBJs%3Dtrue%26qh%3DmOraBOzBPQdpmEy/Gmlt1g%253D%253D%26gss%3Dangs-c%26new%3D1%26rank%3D1%26msT%3D1%26gsfn%3Dwilliam%26gsfn_x%3D0%26gsln%3Dhowlett%26gsln_x%3D0%26msypn__ftp%3DPennsylvania,%2520USA%26msypn%3D41%26catbucket%3Drstp%26MSAV%3D0%26uidh%3Dib1%26pcat%3D39%26h%3D1612266%26dbid%3D3147%26indiv%3D1%26queryId%3D5c0ed893104abe1f17d27ec43dc700b8%26ml_rpos%3D23&treeid=&personid=&hintid=&usePUB=true&_phsrc=BjZ923&_phstart=successSource&usePUBJs=true).
   {:.caption}
 
-![William Howlett](images/Howlett3.jpg)
-   {:.image}
-[William Howlett, Aug 8, 1919 – Aug 3, 1944. Buried at the National Memorial Cemetery of the Pacific in Honolulu Hawaii. Plot E Row 446.](https://www.findagrave.com/memorial/3778442/william-howlett).
-  {:.caption}
 
 #### Works cited
 
