@@ -3,7 +3,7 @@ layout: post
 title: "William Gaul"
 categories: ["USMC"]
 date: 1951-09-15
-vudate: Unknown
+vudate: 1950
 lat: 38.285
 lng: 128.14
 runningtitle: "William Gaul"
@@ -28,7 +28,7 @@ Sergeant Gaul was a member of Company I, 3rd Battalion, 1st Marines, 1st Marine 
 
 ![Sgt. Gaul Awarded Navy Cross Posthumously](images/WilliamGaulClipping.jpg)
    {:.image}
-Sgt. Gaul Awarded Navy Cross Posthumously 
+Sgt. Gaul Awarded Navy Cross Posthumously
    {:.caption}
 
 The President of the United States of America takes pride in presenting the Navy Cross (Posthumously) to Sergeant William Marshall Gaul (MCSN: 612471), United States Marine Corps Reserve, for extraordinary heroism in connection with military operations against an armed enemy of the United Nations while serving as a Platoon Sergeant in Company I, Third Battalion, First Marines, FIRST Marine Division (Reinforced), in action against enemy aggressor forces in the Republic of Korea on 13 and 14 September 1951.
