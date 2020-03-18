@@ -9,7 +9,7 @@ lng: 127.723056
 runningtitle: "Robert Munday"
 ---
 
-![Robert Munday](images/RobertMundayBelleAir.jpg)
+![Robert Munday](images/RobertMundayBelleAiredited.jpg)
    {:.image}
 [Belle Air Villanova College Yearbook 1951, page 109](https://library.villanova.edu/Find/Record/vudl:534579).
   {:.caption}
