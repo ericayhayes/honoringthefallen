@@ -3,6 +3,7 @@ layout: post
 title: "William Gaul"
 categories: ["USMC"]
 date: 1951-09-15
+vudate: 1950
 lat: 38.285
 lng: 128.14
 runningtitle: "William Gaul"
