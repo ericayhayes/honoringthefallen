@@ -9,9 +9,9 @@ lng: 128.14
 runningtitle: "William Gaul"
 ---
 
-![William Gaul](images/WilliamGaulGrave.jpg)
+![William Gaul](images/WilliamGaul.jpg)
    {:.image}
-[William Gaul Saint Matthew Cemetery Conshohocken, Montgomery County, Pennsylvania, USA ](https://www.findagrave.com/memorial/10726112/william-marshall-gaul)
+William Gaul
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 04/18/1928
@@ -35,6 +35,11 @@ Sgt Gaul Awarded Navy Cross Posthumously, 9/30/1951 The Philadelphia Inquirer
 Platoon Sergeant William Gaul was a member of Company I, 3rd Battalion, 1st Marines, 1st Marine Division. At age 23, he was killed in action while fighting the enemy in Korea on September 14, 1951. Born in Miquon, PA and a native of Norristown, PA he was known as "Billy" to his friends and family. Eight days before he lost his life, his parents reported that he was supposed to return home after suffering from a concussion in a grenade explosion on March 23, 1951.
 
 He was a member of the football and crew teams at St. Joseph's Preparatory School and he joined the Marine Corps nine days after his graduation from high school in 1946. After training at Camp Lejeune, N.C., he served as a military policeman in the Pacific before being discharged in 1948, when he enrolled in a pre-law course at Villanova College. He attended Villanova College from 1948-1950. He was recalled to active duty in his junior year and sent to Korea in January with the First Marine Division. He is survived by his parents, his sister, Jane, and his two brothers, Walier and John.
+
+![William Gaul](images/WilliamGaulGrave.jpg)
+   {:.image}
+[William Gaul Saint Matthew Cemetery Conshohocken, Montgomery County, Pennsylvania, USA ](https://www.findagrave.com/memorial/10726112/william-marshall-gaul)
+  {:.caption}
 
 ### Navy Cross Citation: June 26, 1952
 
