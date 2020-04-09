@@ -22,7 +22,7 @@ twitter_username: VillanovaVets
 github_username: FalveyDigitalScholarship
 
 # --MAP SETTINGS--
-map-tileset: 'https://{s}.tile.openstreetmap.de/tiles/osmde/{z}/{x}/{y}.png'
+map-tileset: 'https://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{z}/{y}/{x}'
 map-credits: '<a target="_blank" href="href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a target="_blank" href="https://github.com/dnoneill/flaneur">Flâneur</a>'
 subdomains: ['a','b','c']
 minZoom: 0
