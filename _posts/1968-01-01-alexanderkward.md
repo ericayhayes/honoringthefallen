@@ -30,7 +30,7 @@ We left Ca Lu on 13 February 1968 for what was soon to be known as Valentine's R
 
 Shortly after part of first platoon left the groomed trail second and third platoon received 50cal. machine gun, automatic weapon and mortar fire. We received rocket, mortar and small arms fire wounding several men. At this time we were isolated from part of our platoon (first) and could not see second or third. Our actions involved calling in fighter jets, destroying a rocket launching position, caring for the wounded, and securing our area.
 
-Contact was lost with the command group early in the battle. They had taken a direct hit killing our CO, XO and Chief Corpsman, Captain Ward, Lieutenant Reese and HM2 Goss. Under the leadership of our platoon commander, Lieutenant John Holladay, we moved off the hill and to a secure location on Route 9 wailing for reinforcements and tending to the wounded.
+Contact was lost with the command group early in the battle. They had taken a direct hit killing our CO, XO and Chief Corpsman, Captain Ward, Lieutenant Reese and HM2 Goss. Under the leadership of our platoon commander, Lieutenant John Holladay, we moved off the hill and to a secure location on Route 9 waiting for reinforcements and tending to the wounded.
 
 At 0200 on 15 February 68 first platoon moved down Route 9 towards Ca Lu collecting men separated from second and third platoons and meeting up with India company. What was left of first platoon made it back to Ca Lu at 0300 hours. At daybreak I took 8mm pictures of fighter jets dropping high explosives and napalm on Valentine's Ridge.
 

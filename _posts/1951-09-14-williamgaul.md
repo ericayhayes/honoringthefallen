@@ -58,6 +58,8 @@ Leading his platoon in point position during a tortuous drive by his company aga
 
 Responding at once when an adjacent platoon was in need of supporting fires, he skillfully maneuvered one of his own light machine guns to a strategic location for delivering devastating fire to secure the position and assure the platoon's advance. Consistently maintaining superb control to assure maximum fire power and, at the same time, provide the best possible cover and concealment for each individual, he pressed on in his unfaltering determination to overrun and destroy the aggressors and, after the objective had been seized, hastily positioned him men in a defensive perimeter and continued to direct their efforts in driving off each succeeding counterattack launched by the enemy. Mortally wounded when he moved from cover to direct his men in repulsing a counterattack and mortar barrage the following night, Sergeant Gaul, by his great personal valor, fortitude and brilliant leadership, had contributed immeasurably to the accomplishment of a vital mission with tremendous losses to the enemy, thereby upholding the highest traditions of the United States Naval Service. He gallantly gave his life for his country.
 
+
+
 [-From The Hall of Valor Project](https://valor.militarytimes.com/hero/5628)
 
 #### Works cited
