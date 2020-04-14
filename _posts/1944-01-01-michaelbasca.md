@@ -59,6 +59,12 @@ Above: A host of Temple men gang up on Nick Basca a few yards past the line of s
 [Members of the Villanova Football team at practice Sept 8. 1939. left, Russ Mazzei, Thomas McMahon, John Buzz Howlett, and Nick Basca](https://www.chescoheroes.org/326/Basca-Michael-M)
   {:.caption}
 
+![Michael Basca Grave](images/MichaelBascaGrave.jpg)
+  {:.image}
+
+[Michael Basca Saint Michael's Greek Catholic Cemetery Mont Clare, Montgomery County, Pennsylvania, USA](https://www.findagrave.com/memorial/9074732/michael-martin-basca/photo#view-photo=8642224)
+  {:.caption}
+
 #### Works cited
 
 {:.bibliography}
