@@ -55,7 +55,7 @@ He attended Villanova University from 1943-1944 and was a star basketball player
 
 #### Works cited
 
-{:.bibliography} <-- this tag is needed for bibliography formatting -->
+{:.bibliography}
 1. Herman Drizin Grave, Har Jehuda Cemetery, Upper Darby, Delaware County, Pennsylvania, USA. <https://www.findagrave.com/memorial/108343597/herman-drizin>
 2. Herman Drizin, World War II Veterans Service and Compensation File, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. <https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc=BjZ985&_phstart=successSource&usePUBJs=true&qh=%2BdIRHx6ShGWkDLkJPmVyfQ%3D%3D&gss=angs-g&new=1&rank=1&msT=1&gsfn=herman%20&gsfn_x=0&gsln=drizin&gsln_x=0&msypn__ftp=Pennsylvania,%20USA&msypn=41&catbucket=rstp&MSAV=0&uidh=ib1&pcat=ROOT_CATEGORY&h=253113&dbid=3147&indiv=1&queryId=7a46dc9254b1f5a476e9587f7a71c6e2&ml_rpos=2>
 3. College, V. (1943). _Belle Air_ 1943. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:534238>
