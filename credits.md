@@ -10,13 +10,12 @@ permalink: /credits/
 
 ### Falvey Memorial Library
 * Erica Hayes, Digital Scholarship Librarian
+* Dave Uspal, Library Technology Developer
 * Laura Bang, Distinctive Collections Librarian
 * Rebecca Oviedo, Distinctive Collections Librarian/Archivist
 * Beaudry Allen, Preservation & Digital Archivist
 * Erin Warren, Distinctive Collections Undergraduate Student Assistant
 * Michael Foight, Director of Distinctive Collections and Digital Engagement
-* Dave Uspal, Library Technology Developer
-
 
 ### Jekyll theme
 * This map was created using the Flâneur Jekyll theme developed by [Dawn Childress](https://github.com/kirschbombe) and [Niqui O'Neill](https://github.com/dnoneill).
