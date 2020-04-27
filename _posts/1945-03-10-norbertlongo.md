@@ -4,8 +4,8 @@ title: "Norbert Longo"
 categories: ["USMC"]
 date: 1945-03-10
 vudate: 1940
-lat: 24.788489
-lng: 141.323259
+lat: 24.783333
+lng: 141.316667
 runningtitle: "Walter J. Wiegand"
 ---
 
