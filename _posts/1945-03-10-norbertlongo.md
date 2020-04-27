@@ -33,9 +33,9 @@ Sgt. Norbert R. Longo, ex '43, was killed on Iwo Jima on March 10th, according t
 
 -[From _The Villanovan_ Vol. 19--No. 15, Tuesday, April 17, 1945, Page Five](https://digital.library.villanova.edu/files/vudl:185539/MASTER?download=true)
 
-![Norbert Longo World War II Veterans Serivce and Compensation Application, Commonwealth of Pennsylvania](images/ApplicationforCompensation.jpg)
+![Norbert Longo World War II Veterans Service and Compensation Application, Commonwealth of Pennsylvania](images/NorbertLongoApplicationforCompensation.jpg)
    {:.image}
-[Norbert Longo World War II Veterans Serivce and Compensation Application, Commonwealth of Pennsylvania](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=1245651&indiv=try&o_vc=Record:OtherRecord&rhSource=1967).
+[Norbert Longo World War II Veterans Service and Compensation Application, Commonwealth of Pennsylvania](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=1245651&indiv=try&o_vc=Record:OtherRecord&rhSource=1967).
   {:.caption}
 
 #### Works cited
@@ -43,6 +43,6 @@ Sgt. Norbert R. Longo, ex '43, was killed on Iwo Jima on March 10th, according t
 {:.bibliography}
 
 1. Nobert Longo Sec E Range West Lot 33 Saint Patrick's Roman Catholic Cemetery Norristown, Montgomery County, Pennsylvania, USA.<https://www.findagrave.com/memorial/81454352/norbert-r-longo>
-3._The Villanovan_, V. 19 No. 15, Tuesday, April 17, 1945, Page Five. <https://digital.library.villanova.edu/files/vudl:185539/MASTER?download=true >
+3. _The Villanovan_, V. 19 No. 15, Tuesday, April 17, 1945, Page Five. <https://digital.library.villanova.edu/files/vudl:185539/MASTER?download=true>
 4. World War II Veterans Serivce and Compensation Application, Commonwealth of Pennsylvania.<https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=1245651&indiv=try&o_vc=Record:OtherRecord&rhSource=1967>
 5. Record of Burial Place, Commonwealth of Pennsylvania Department of Military Affairs.<https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=1967&h=1576842&indiv=try&o_vc=Record:OtherRecord&rhSource=3147>
