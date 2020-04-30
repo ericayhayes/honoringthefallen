@@ -11,8 +11,8 @@ permalink: /credits/
 ### Falvey Memorial Library
 * Erica Hayes, Digital Scholarship Librarian
 * Dave Uspal, Library Technology Developer
-* Laura Bang, Distinctive Collections Librarian
 * Rebecca Oviedo, Distinctive Collections Librarian/Archivist
+* Laura Bang, Distinctive Collections Librarian
 * Beaudry Allen, Preservation & Digital Archivist
 * Erin Warren, Distinctive Collections Undergraduate Student Assistant
 * Michael Foight, Director of Distinctive Collections and Digital Engagement
