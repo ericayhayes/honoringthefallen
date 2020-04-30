@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joseph Fedorowicz"
-categories: ["ARMY"]
+categories: ["NAVY"]
 date: 1945-06-16
 vudate: 1938
 lat: 26.5
