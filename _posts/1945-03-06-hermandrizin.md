@@ -19,7 +19,7 @@ runningtitle: "Herman Drizin"
 * **Branch**{: .metadata}: USMC
 * **Place of Death**{: .metadata}: Iwo Jima
 * **Year of Death**{: .metadata}: 1945
-* **Villanova Class Year**{: .metadata}: 1944
+* **Villanova Class Year**{: .metadata}: 1943
 * **Sports and Clubs at Villanova**{: .metadata}: Basketball
 
 ![Herman Drizin Grave](images/H.DrizinGrave.jpg)
@@ -39,14 +39,14 @@ Herman Drizin was a Marine Second Lieutenant in the Second Battalion, Company â€
 [Belle Air Villanova College Yearbook 1943, page 224](https://library.villanova.edu/Find/Record/vudl:534238)
   {:.caption}
 
-Herman Drizin's heroism and death was not learned of until a telegram was delivered to his parents' home on March 28, 1945 in the Frankford neighborhood of Philadelphia. He was one of 6,800 Marines who died at Iwo Jima, a battle which claimed the lives of hundreds of Japanese soldiers on the island.
+Herman Drizin's heroism and death was not learned of until a telegram was delivered to his parents' home on March 28, 1945 in the Frankford neighborhood of Philadelphia. He was one of 6,800 Marines who died at Iwo Jima, a battle which claimed the lives of 22,000 of Japanese soldiers on the island.
 
 ![Herman Drizin National Jewish Welfare Board Death Notification](images/H.DrizinNationalJewishWelfareBoardDeathNotice.jpg)
    {:.image}
 [National Jewish Welfare Board Death Notification](https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc=BjZ986&_phstart=successSource&usePUBJs=true&qh=%2BdIRHx6ShGWkDLkJPmVyfQ%3D%3D&gss=angs-g&new=1&rank=1&msT=1&gsfn=herman%20&gsfn_x=0&gsln=drizin&gsln_x=0&msypn__ftp=Pennsylvania,%20USA&msypn=41&catbucket=rstp&MSAV=0&uidh=ib1&pcat=ROOT_CATEGORY&h=25483&dbid=2125&indiv=1&queryId=7a46dc9254b1f5a476e9587f7a71c6e2&ml_rpos=1).
   {:.caption}
 
-He attended Villanova University from 1943-1944 and was a star basketball player for the Wildcats. According to his nephew, Stephen Drizin, Herman was "the only Jew in Villanova's starting five when he helped lead the Wildcats to a 19-2 record in 1942-3, the highest winning percentage of any team in their illustrious basketball history" ([The Huffington Post](https://www.huffpost.com/entry/post_6962_b_4859367)).
+He attended Villanova University from 1940-1943 and was a star basketball player for the Wildcats. According to his nephew, Steven Drizin, Herman was "the only Jew in Villanova's starting five when he helped lead the Wildcats to a 19-2 record, the highest winning percentage of any team in their illustrious basketball history." His 1940-41 Freshman Team was undefeated at 32-0.  He started on the 1941-1942 team as a Sophomore and it was his 1942-1943 Team that finished with the best record of 19-2.([The Huffington Post](https://www.huffpost.com/entry/post_6962_b_4859367)).
 
 ![Herman Drizin Application for Headstone or Marker](images/H.Drizin.HeadstoneApplication.jpg)
    {:.image}
