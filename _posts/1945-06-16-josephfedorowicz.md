@@ -57,9 +57,9 @@ Joe was described as "tall and handsome and blond…presence noted on the 150’
 [ABMC War Dead Certificate for Joseph Fedorowicz](https://www.abmc.gov/decedent-search/federowicz%3Djoseph)
    {:.caption}
 
-![WWII Draft Registration Cards for Philadelphia, The National Archives in St. Louis, Missouri](images/JosephFedorowiczRegistrationDraftCard.jpg)
+![Registration Draft Card for Joseph Fedorowicz](images/JosephFedorowicz.RegistrationDraftCard.jpg)
    {:.image}
-[WWII Draft Registration Cards for Philadelphia, The National Archives in St. Louis, Missouri](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=2238&h=8734974&tid=&pid=&usePUB=true#?_phcmd=u'https://www.ancestrylibrary.com/search/categories/39/?name%3Djoseph_fedorowicz%26event%3D_pennsylvania-usa_41%26successSource%3DSearch%26queryId%3Dd1418b7a5551ec55020e121874bf1fce','successSource')
+[WWII Draft Registration Cards for Philadelphia, The National Archives in St. Louis, Missouri](https://www.ancestrylibrary.com/search/categories/39/?name%3Djoseph_fedorowicz%26event%3D_pennsylvania-usa_41%26successSource%3DSearch%26queryId%3Dd1418b7a5551ec55020e121874bf1fce)
    {:.caption}
 
 #### Works cited
