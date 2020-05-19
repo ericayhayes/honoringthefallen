@@ -42,12 +42,12 @@ runningtitle: "Francis B. Seals"
 ![WWII Draft Registration Cards for Virginia, The National Archives in St. Louis, Missouri](images/FrancisSealsDraftRegistrationCard.jpg)
    {:.image}
 [WWII Draft Registration Cards for Virginia, The National Archives in St. Louis, Missouri](https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc=ReS174&_phstart=successSource&usePUBJs=true&qh=1yDhnMyQdRqjNMK5QHgdHw%3D%3D&gss=angs-g&new=1&rank=1&msT=1&gsfn=francis%20byron&gsfn_x=0&gsln=seals&gsln_x=0&msypn__ftp=pennsylvania&msbdy=1922&catbucket=rstp&MSAV=0&uidh=ib1&pcat=ROOT_CATEGORY&h=10698894&dbid=2238&indiv=1&queryId=b89073ec57c8568999f27c518079b48c&ml_rpos=1).
-  {:.caption}
+   {:.caption}
 
-![Francis B. Selas, Internment Control Forms, 1928-1962, The National Archives at College Park, College Park, Maryland](images/FrancisSealsDraftInternmentControlForms.jpg)
+![Francis B. Seals, Internment Control Forms, 1928-1962, The National Archives at College Park, College Park, Maryland](images/FrancisSealsDraftInternmentControlForms.jpg)
    {:.image}
-[Francis B. Selas, Internment Control Forms, 1928-1962, The National Archives at College Park, College Park, Maryland](https://www.ancestrylibrary.com/interactive/2590/40479_646933_0485-03192?pid=1560828&backurl=https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc%3DReS192%26_phstart%3DsuccessSource%26usePUBJs%3Dtrue%26qh%3D1yDhnMyQdRqjNMK5QHgdHw%253D%253D%26gss%3Dangs-g%26new%3D1%26rank%3D1%26msT%3D1%26gsfn%3Dfrancis%2520byron%26gsfn_x%3D0%26gsln%3Dseals%26gsln_x%3D0%26msypn__ftp%3Dpennsylvania%26msbdy%3D1922%26catbucket%3Drstp%26MSAV%3D0%26uidh%3Dib1%26pcat%3DROOT_CATEGORY%26h%3D1560828%26dbid%3D2590%26indiv%3D1%26queryId%3Db89073ec57c8568999f27c518079b48c%26ml_rpos%3D27&treeid=&personid=&hintid=&queryId=b89073ec57c8568999f27c518079b48c&usePUB=true&_phsrc=ReS192&_phstart=successSource&usePUBJs=true).
-    {:.caption}
+[Francis B. Seals, Internment Control Forms, 1928-1962, The National Archives at College Park, College Park, Maryland](https://www.ancestrylibrary.com/interactive/2590/40479_646933_0485-03192?pid=1560828&backurl=https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc%3DReS192%26_phstart%3DsuccessSource%26usePUBJs%3Dtrue%26qh%3D1yDhnMyQdRqjNMK5QHgdHw%253D%253D%26gss%3Dangs-g%26new%3D1%26rank%3D1%26msT%3D1%26gsfn%3Dfrancis%2520byron%26gsfn_x%3D0%26gsln%3Dseals%26gsln_x%3D0%26msypn__ftp%3Dpennsylvania%26msbdy%3D1922%26catbucket%3Drstp%26MSAV%3D0%26uidh%3Dib1%26pcat%3DROOT_CATEGORY%26h%3D1560828%26dbid%3D2590%26indiv%3D1%26queryId%3Db89073ec57c8568999f27c518079b48c%26ml_rpos%3D27&treeid=&personid=&hintid=&queryId=b89073ec57c8568999f27c518079b48c&usePUB=true&_phsrc=ReS192&_phstart=successSource&usePUBJs=true).
+   {:.caption}
 
 #### Works cited
 
