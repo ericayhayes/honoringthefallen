@@ -4,8 +4,8 @@
 title: "Honoring the Fallen: An Interactive Memorial Map"
 email: michael.d.brown@villanova.edu
 description:
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "/honoringthefallen" # the base hostname & protocol for your site
+baseurl: "/honoringthefallen" # the subpath of your site, e.g. /blog/
+url: "https://falveydigitalscholarship.github.io/honoringthefallen/" # the base hostname & protocol for your site
 github_repo: https://github.com/FalveyDigitalScholarship
 copyright_statement: © 2019 Falvey Memorial Library CC BY-NC-SA 4.0.
 
