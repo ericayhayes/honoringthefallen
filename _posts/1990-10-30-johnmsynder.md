@@ -2,7 +2,7 @@
 layout: post
 title: "John M. Snyder"
 categories: ["NAVY"]
-date: 1965-06-13
+date: 1990-10-30
 vudate: 1987
 lat: 26.216667
 lng: 50.583333
@@ -19,7 +19,7 @@ runningtitle: "John M. Snyder"
 * **State**{: .metadata}: NJ
 * **Branch**{: .metadata}: Navy
 * **Place of Death**{: .metadata}: Aboard the USS Iwo Jima docked in Manama, Bahrain
-* **Year of Death**{: .metadata}: 1965
+* **Year of Death**{: .metadata}: 1990
 * **Villanova Class Year**{: .metadata}: 1987
 * **Major**{: .metadata}: Communications
 
