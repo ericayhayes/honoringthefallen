@@ -3,7 +3,7 @@ layout: home
 title: "Honoring the Fallen: An Interactive Memorial Map"
 ---
 
-[The Office of Veterans and Military Service Members](https://www1.villanova.edu/villanova/enroll/veterans-military.html) at [Villanova University](https://www1.villanova.edu/university.html) is collecting data and information on all veterans killed in service, with a connection to Villanova. This map displays the names of these veterans, along with their branch of service, location, and year of death. For those veterans reported missing in action, we have mapped the nearest location of where they were last seen.
+[The Office of Veterans and Military Service Members](https://www1.villanova.edu/villanova/enroll/veterans-military.html) at [Villanova University](https://www1.villanova.edu/university.html) is collecting data and information on all [veterans](https://memorialmap.library.villanova.edu/#/article-index/) killed in service, with a connection to Villanova. This map displays the names of these veterans, along with their branch of service, location, and year of death. For those veterans reported missing in action, we have mapped the nearest location of where they were last seen.
 
 This project will honor the life and sacrifice of Villanova veterans who died while serving their country. Through extensive research, and collaboration, our team, through this interactive memorial map, will memorialize and remember their service.
 
