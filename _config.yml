@@ -26,7 +26,7 @@ map-tileset: 'https://server.arcgisonline.com/ArcGIS/rest/services/NatGeo_World_
 map-credits: '<a target="_blank" href="href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> | <a target="_blank" href="https://www.esri.com/en-us/home">Esri</a> | <a target="_blank" href="https://github.com/dnoneill/flaneur">Flâneur</a>'
 subdomains: ['a','b','c']
 minZoom: 0
-maxZoom: 20
+maxZoom: 12
 setView: '[14, 106], 5'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: single # sets the default clustering action. Options: grouped, single
 
