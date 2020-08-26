@@ -14,16 +14,14 @@ runningtitle: "Joseph J. Carbine"
 [Villanova Alumnus V. VII No. 3, Spring 1945 magazine](https://digital.library.villanova.edu/Item/vudl:182448#?c=&m=&s=&cv=6&xywh=-3827%2C-1496%2C12897%2C7415).
   {:.caption}
 
-* **Date of Birth**{: .metadata}: 08/14/1939
-* **Home of Record**{: .metadata}: Birmingham, Alabama
-* **State**{: .metadata}: AL
-* **Branch**{: .metadata}: Navy
-* **Place of Death**{: .metadata}: Vietnam (MIA)
-* **Year of Death**{: .metadata}: 1966
-* **Villanova Class Year**{: .metadata}: 1964
-* **Major**{: .metadata}: Engineering
-* **Sports & Clubs at Villanova**{: .metadata}: NROTC, American Society of Civil Engineers, Intramural Sports, Lacrosse Club, Phi Kappa Pi, Veterans Club
-
+* **Date of Birth**{: .metadata}: 1922
+* **Home of Record**{: .metadata}: Radnor, PA
+* **State**{: .metadata}: PA
+* **Branch**{: .metadata}: Army Air Corps
+* **Place of Death**{: .metadata}: North Sea – English Channel
+* **Year of Death**{: .metadata}: 1945
+* **Villanova Class Year**{: .metadata}: 1943
+* **Major**{: .metadata}: Bachelor of Arts (withdrew before completion)
 
 #### About
 
