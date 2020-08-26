@@ -9,7 +9,7 @@ lng: -1.733333
 runningtitle: "Joseph J. Carbine"
 ---
 
-![Joseph J. Carbine](images/CarbineJosephJ.png)
+![Joseph J. Carbine](images/Carbine_JosephJ_new.jpg)
   {:.image}
 [Villanova Alumnus V. VII No. 3, Spring 1945 magazine](https://digital.library.villanova.edu/Item/vudl:182448#?c=&m=&s=&cv=6&xywh=-3827%2C-1496%2C12897%2C7415).
   {:.caption}
