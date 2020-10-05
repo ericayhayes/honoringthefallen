@@ -39,14 +39,9 @@ Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was 
 [Joseph J. Carbine World War II Veterans Service and Compensation Application, Commonwealth of Pennsylvania]( https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=3147&h=395333&tid=&pid=&usePUB=true&_phsrc=BjZ1017&_phstart=successSource)
   {:.caption}
 
-![Registration Draft Card for Joseph J. Carbine](images/JosephFedorowicz.RegistrationDraftCard.jpg)
+![ABMC War Dead Certificate for Joseph J. Carbine](images/Carbine_JosephJ_ABMC_Certificate.jpg)
   {:.image}
-[WWII Draft Registration Cards for Philadelphia, The National Archives in St. Louis, Missouri](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=2238&h=8699826&tid=&pid=&usePUB=true&_phsrc=BjZ1019&_phstart=successSource)
-  {:.caption}
-
-![ABMC War Dead Certificate for James G. Jones](images/Carbine_JosephJ_ABMC_Certificate.jpg)
-  {:.image}
-[ABMC War Dead Certificate for James G. Jones](https://www.abmc.gov/print/certificate/505170)
+[ABMC War Dead Certificate for Joseph J. Carbine](https://www.abmc.gov/print/certificate/505170)
   {:.caption}
 
 #### Works cited
