@@ -61,4 +61,3 @@ LT Donnelly died acting as a Navigator Bombardier aboard a Grumman A-6A Intruder
 1. Raymond J. Donnelly. Calvary Cemetery Waterbury, New Haven County, Connecticut, USA,Section 40. <https://www.findagrave.com/memorial/93642666/raymond-peter-donnelly>
 2. Raymond J. Donnelly. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/13641/RAYMOND-P-DONNELLY/>
 3. College, V. (1963). _Belle Air_ 1966. Villanova, PA : Villanova College.<https://library.villanova.edu/Find/Record/vudl:558997>
-4. Joseph Fedorowicz. World War II Veterans Service and Compensation File, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. <https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=509253&indiv=try&o_vc=Record:OtherRecord&rhSource=1122>
