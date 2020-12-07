@@ -4,7 +4,7 @@ title: "Thomas Siani"
 categories: ["Army"]
 date: 1945-01-07
 vudate: 1945
-lat: 50.82432985940018 
+lat: 50.82432985940018
 lng: 4.327435799562913
 runningtitle: "Thomas Siani"
 ---
@@ -34,7 +34,7 @@ runningtitle: "Thomas Siani"
 
 BEx-'45, attached to the infantry, met his death during action against the enemy somewhere in Belgium on January the 7th, 1945, and has been awarded the Purple Heart post-humously, according to word received by his wife who, together with his parents, Mr. and Mrs. Severino Siani, live at 205 South 21st Street, Philadelphia, PA.
 
-![Thomas Siani Headstone Inscription and Internment Record](images/SianiThomas_HeadstoneInscription_2.png)
+![Thomas Siani Headstone Inscription and Internment Record](images/SianiThomas_HeadstoneInscription_2.jpg)
   {:.image}
 
 [Thomas Siani Headstone Inscription and Interment Record](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=9170&h=96352&tid=&pid=&queryId=532f107539757de0ae5225aa303e891c&usePUB=true&_phsrc=BjZ1058&_phstart=successSource)
