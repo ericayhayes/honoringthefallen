@@ -34,12 +34,6 @@ runningtitle: "Thomas Siani"
 
 BEx-'45, attached to the infantry, met his death during action against the enemy somewhere in Belgium on January the 7th, 1945, and has been awarded the Purple Heart post-humously, according to word received by his wife who, together with his parents, Mr. and Mrs. Severino Siani, live at 205 South 21st Street, Philadelphia, PA.
 
-![Thomas Siani Headstone Inscription and Internment Record](images/SianiThomas_HeadstoneInscription_2.jpg)
-  {:.image}
-
-[Thomas Siani Headstone Inscription and Interment Record](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=9170&h=96352&tid=&pid=&queryId=532f107539757de0ae5225aa303e891c&usePUB=true&_phsrc=BjZ1058&_phstart=successSource)
-  {:.caption}
-
 Known to many of his friends as “Subby”, Thomas entered Villanova in September, 1941, as a member of the School of Commerce and Finance. He was a member of the varsity football team, and withdrew from Villanova on February the 19th, 1943, as a member of the Army Enlisted Reserve Corps. While in England he was a member of the Military Police, later transferring to the Infantry.
 
 ![Villanovans at the Front, The Villanovan](images/SianiThomas_TheVillanovan_4.png)
