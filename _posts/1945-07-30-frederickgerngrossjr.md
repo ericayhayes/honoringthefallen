@@ -4,7 +4,7 @@ title: "Frederick Gerngross Jr."
 categories: ["Navy"]
 date: 1945-07-30
 vudate: 1944
-lat: 16.620026250442994 
+lat: 16.620026250442994
 lng: 114.44838008784515
 runningtitle: "Frederick Gerngross Jr."
 ---
@@ -56,4 +56,4 @@ According to Richard Hulver, Ph.D. "Thomas Helm, a scholar and one time crewman 
 4. 19-N-86911 USS Indianapolis (CA-35), _Naval History and Heritage Command_. <https://www.history.navy.mil/our-collections/photography/numerical-list-of-images/nara-series/19-n/19-N-80000/19-N-86911.html>
 5. Hulver, Richard, P.h.D., "Where was the USS Indianapolis When Sunk? Deck Logs of Tank Landing Ship Provide Key Details." _Naval History and Heritage Command, Histories and Archives Division_. July 29, 2016. <https://usnhistory.navylive.dodlive.mil/2016/07/29/where-was-the-uss-indianapolis-when-sunk-deck-logs-of-tank-landing-ship-provide-key-details/>
 6. Grinberg, Emanuella. "USS Indianapolis discovered 18,000 feet below Pacific surface." CNN, August 21, 2017.<https://edition.cnn.com/2017/08/19/us/uss-indianapolis-wreckage-found/index.html>
-7. World War I Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. Howlett’s Commonwealth of Pennsylvania – Application for World War II Compensation – To be used in case of death.<https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=193334&indiv=try&o_vc=Record:OtherRecord&rhSource=61843>
+7. World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. Gerngross’s Commonwealth of Pennsylvania – Application for World War II Compensation – To be used in case of death.<https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=193334&indiv=try&o_vc=Record:OtherRecord&rhSource=61843>
