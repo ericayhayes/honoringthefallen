@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Frederick Gerngross Jr."
-categories: ["Navy"]
+categories: ["NAVY"]
 date: 1945-07-30
 vudate: 1944
 lat: 16.620026250442994
@@ -41,7 +41,7 @@ Frederick Joseph Gerngross, Jr. was born in Philadelphia Pennsylvania on Novembe
 
 According to Richard Hulver, Ph.D. "Thomas Helm, a scholar and one time crewman of USS Indianapolis (CA-35), described [the loss of the ship](https://www.history.navy.mil/browse-by-topic/ships/modern-ships/indianapolis.html) in his 1963 _Ordeal by Sea_ as follows: “Midnight [on 30 July 1945]—a moderately heaving sea and clouds covering a half moon now nearly three hours old. The Indianapolis, with her 9,950 ton displacement spread over 610 feet, sliced her way westward into what must forever be referred to as an approximate position of 134 degrees 48 minutes East and 12 degrees 2 minutes North. The exact latitude and longitude will never be known…” In the seventy-two years since USS Indianapolis sank, and the fifty-three years since Helm’s dire prognosis for her discoverability, the wreckage of Indianapolis eludes detection. The Discovery Channel documented explorer Curt Newport’s unsuccessful expedition to find the wreckage of Indianapolis in 2001 and National Geographic featured another expedition to find her in the incongruously named 2005 program _Finding of the USS Indianapolis_."
 
--From ["Where was the USS Indianapolis when sunk? Deck Logs of Tank Landing Ship Provide Key Details"](https://usnhistory.navylive.dodlive.mil/2016/07/29/where-was-the-uss-indianapolis-when-sunk-deck-logs-of-tank-landing-ship-provide-key-details/) by Richard Hulver, Ph.D., _Naval History and Heritage Histories and Archives Division_](https://usnhistory.navylive.dodlive.mil/2016/07/29/where-was-the-uss-indianapolis-when-sunk-deck-logs-of-tank-landing-ship-provide-key-details/).
+-From ["Where was the USS Indianapolis when sunk? Deck Logs of Tank Landing Ship Provide Key Details"](https://usnhistory.navylive.dodlive.mil/2016/07/29/where-was-the-uss-indianapolis-when-sunk-deck-logs-of-tank-landing-ship-provide-key-details/) by Richard Hulver, Ph.D., [_Naval History and Heritage Histories and Archives Division_](https://usnhistory.navylive.dodlive.mil/2016/07/29/where-was-the-uss-indianapolis-when-sunk-deck-logs-of-tank-landing-ship-provide-key-details/).
 
 ![Gerngross's Application for World War II Compensation](images/GerngrossWWIICompensationApplication_2.jpg)
   {:.image}
