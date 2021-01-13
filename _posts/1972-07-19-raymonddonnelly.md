@@ -16,7 +16,7 @@ runningtitle: "Raymond J. Donnelly"
 
 * **Date of Birth**{: .metadata}: 07/10/1944
 * **Home of Record**{: .metadata}: Waterbury
-* **State**{: .metadata}: CN
+* **State**{: .metadata}: CT
 * **Branch**{: .metadata}: Navy
 * **Place of Death**{: .metadata}:
 * **Year of Death**{: .metadata}: 1972
@@ -32,7 +32,7 @@ runningtitle: "Raymond J. Donnelly"
 [Raymond J. Donnelly, VVMF Wall of Faces](https://www.vvmf.org/Wall-of-Faces/13641/RAYMOND-P-DONNELLY/)
   {:.caption}
 
-Born to Raymond Joseph Donnelly and Mary Modenese Donnelly, Lieutenant Raymond Peter Donnelly (“Little Buzzy”) grew up in Waterbury, CN and attended Sacred Heart High School.  From there, he attended Villanova University and was the captain of the varsity swim team.  After graduating from VU in ‘66, he went on to receive a Masters in Biology from the University of Connecticut before entering active military service in 1968.  He served until being killed in action in 1972.
+Born to Raymond Joseph Donnelly and Mary Modenese Donnelly, Lieutenant Raymond Peter Donnelly (“Little Buzzy”) grew up in Waterbury, CT and attended Sacred Heart High School.  From there, he attended Villanova University and was the captain of the varsity swim team.  After graduating from VU in ‘66, he went on to receive a Masters in Biology from the University of Connecticut before entering active military service in 1968.  He served until being killed in action in 1972.
 
 ![Raymond J. Donnelly Swim Team](images/Donnelly 5_new.jpg)
   {:.image}
