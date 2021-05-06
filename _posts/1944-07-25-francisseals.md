@@ -2,7 +2,7 @@
 layout: post
 title: "Francis B. Seals"
 categories: ["USMC"]
-date: 1922-01-24
+date: 1944-7-25
 vudate: 1943
 lat: 15.183333
 lng: 145.75
