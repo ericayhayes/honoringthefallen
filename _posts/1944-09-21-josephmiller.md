@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Joseph F. Miller"
+title: "Joseph (John) F. Miller"
 categories: ["ARMY"]
 date: 1944-09-21
 vudate: 1945
 lat: 48.7244
 lng: 6.5339
-runningtitle: "Joseph F. Miller"
+runningtitle: "Joseph (John) F. Miller"
 ---
 
 ![Joseph F. Miller](images/JosephMillerGrave.jpg)
