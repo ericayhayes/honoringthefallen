@@ -28,7 +28,7 @@ runningtitle: "Joseph (John) F. Miller"
    {:.image}
 [Joseph F. Miller Record of Burial Place, Commonwealth of Pennsylvania Department of Military Affairs.](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=1967&h=1608877&tid=&pid=&queryId=1b53c5d429c8b7499fc6fcd827fb52b9&usePUB=true&_phsrc=pJv16&_phstart=successSource)
    {:.caption}
-test
+
 __“Villanovans at the Front Pfc. John F. Miller, Ex-’46, Killed; Capt. Michael Clavin Missing in Action”__ __January 16, 1945__
 
 According to word received by Mr. and Mrs. Carl N. Miller, of Millersville, PA, their son, Pfc. John F. Miller, of the class of 1946, was killed in action in France on November 11, 1944. Pfc. Miller, who was 20 years old at the time of his death, graduated from Butler Township High School in June 1942, and entered Villanova the same month as a pre-medical student. In March 1943, he enlisted in the Army Reserve, and in June 1943, was called to service. After receiving basic training at Camp Farnum, Texas, he was transferred to Camp Campbell, Ky., and Fort Jackson, S.C., for further training. He went oversees in September of last year [1944].
