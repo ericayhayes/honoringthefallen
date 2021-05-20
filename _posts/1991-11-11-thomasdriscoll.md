@@ -11,7 +11,7 @@ runningtitle: "Thomas Driscoll"
 
 ![Thomas Driscoll](images/ThomasDriscollBelleAir.jpg)
    {:.image}
-[Belle Air Villanova College Yearbook 1987, page 157)
+Belle Air Villanova College Yearbook 1987, page 157
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 10/15/1965
