@@ -52,7 +52,7 @@ Thomas P. Driscoll, Photo Credit: Anne Regan Casson
 {:.bibliography}
 
 1. Thomas P. Driscoll, Together We Served.<https://marines.togetherweserved.com/usmc/servlet/tws.webapp.WebApp?cmd=ShadowBoxProfile&type=PersonAssociationExt&ID=79237>
-2. College, V. (1963). _Belle Air_ 1987. Villanova, PA : Villanova College.
+2. College, V. (1987). _Belle Air_ 1987. Villanova, PA : Villanova College.
 2. Thomas P. Driscoll with plane, Photo Credit: Anne Regan Casson
 3. Thomas P. Driscoll portrait, Photo Credit: Anne Regan Casson
 4. Thomas P. Driscoll with family, Photo Credit: Anne Regan Casson
