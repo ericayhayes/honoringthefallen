@@ -11,7 +11,7 @@ runningtitle: "Michael DeBartolomeo"
 
 ![Michael DeBartolomeo](images/MichaelDeBartolomeo1.jpg)
    {:.image}
-Michael DeBartolomeo, Photo Credit: Kevin DeBartolomeo
+Michael DeBartolomeo, [U.S., Navy Cruise Books, 1918-2009](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=2348&h=476475&tid=&pid=&usePUB=true&_phsrc=BjZ1013&_phstart=successSource)
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 07/30/1959
