@@ -65,6 +65,12 @@ Above: A host of Temple men gang up on Nick Basca a few yards past the line of s
 [Michael Basca Saint Michael's Greek Catholic Cemetery Mont Clare, Montgomery County, Pennsylvania, USA](https://www.findagrave.com/memorial/9074732/michael-martin-basca/photo#view-photo=8642224)
   {:.caption}
 
+![Michael Basca Newspaper Article](images/MichaelBascaPhiladelphiaInquirer.jpg)
+  {:.image}
+
+["Nick Basca Killed in France Nov. 11: Former Villanova Eagles Ace Served With Armored Unit," _The Philadelphia Inquirer_ 01 Dec. 1944, Page 27" ](https://www.newspapers.com/clip/78682902/nick-basca-killed-in-france-nov-11/)
+  {:.caption}
+
 #### Works cited
 
 {:.bibliography}
