@@ -78,3 +78,4 @@ Above: A host of Temple men gang up on Nick Basca a few yards past the line of s
 2. Michael Basca. National WWII Memorial, Washington D.C. <https://www.wwiimemorial.com/Registry/plaque.aspx?honoreeID=2516247>
 3. Basca, Michael M. Chester County Hall of Heroes: Honoring the Sacrifice of Our Heroes. <https://www.chescoheroes.org/326/Basca-Michael-M>
 3. College, V. (1941). _Belle Air_ 1941. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:516049>
+4. "Nick Basca Killed in France Nov. 11: Former Villanova Eagles Ace Served With Armored Unit," _The Philadelphia Inquirer_ 01 Dec. 1944, Page 27. <https://www.newspapers.com/clip/78682902/nick-basca-killed-in-france-nov-11/>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Thomas Siani"
-categories: ["Army"]
+categories: ["ARMY"]
 date: 1945-01-07
 vudate: 1945
 lat: 50.82432985940018

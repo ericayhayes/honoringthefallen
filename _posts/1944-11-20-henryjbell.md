@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Henry J. Bell"
-categories: ["Army"]
+categories: ["ARMY"]
 date: 1944-11-20
 lat: 51.47714635149856
 lng: 6.735619117319182
