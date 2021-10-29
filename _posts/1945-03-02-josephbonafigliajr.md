@@ -41,5 +41,5 @@ runningtitle: "Joseph Bonafiglia Jr."
 {:.bibliography}
 
 1. College, V. (1944). _Belle Air_ 1944. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:524293>
-2. World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. Bell’s Commonwealth of Pennsylvania – Application for World War II Compensation – To be used in case of death.<https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=3147&h=77079&tid=&pid=&queryId=0821dd7ec9c6db4e802019840ac4f18e&usePUB=true&_phsrc=BjZ1396&_phstart=successSource>
+2. World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. Bell’s Commonwealth of Pennsylvania – Application for World War II Compensation – To be used in case of death. <https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=3147&h=77079&tid=&pid=&queryId=0821dd7ec9c6db4e802019840ac4f18e&usePUB=true&_phsrc=BjZ1396&_phstart=successSource>
 3. United States Marine Corps Casualties, Last name beginning with B., 1941-45. <https://www.naval-history.net/WW2UScasaaDB-USMCbyNameB.htm>
