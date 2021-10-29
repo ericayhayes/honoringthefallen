@@ -32,7 +32,7 @@ runningtitle: "Joseph Bonafiglia Jr."
 
 ![World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania](images/JosephBonafiglia_WWIIApplicationforCompensation.jpg)
    {:.image}
-[World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania](https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc=ReS174&_phstart=successSource&usePUBJs=true&qh=1yDhnMyQdRqjNMK5QHgdHw%3D%3D&gss=angs-g&new=1&rank=1&msT=1&gsfn=francis%20byron&gsfn_x=0&gsln=seals&gsln_x=0&msypn__ftp=pennsylvania&msbdy=1922&catbucket=rstp&MSAV=0&uidh=ib1&pcat=ROOT_CATEGORY&h=10698894&dbid=2238&indiv=1&queryId=b89073ec57c8568999f27c518079b48c&ml_rpos=1).
+[World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=3147&h=77079&tid=&pid=&queryId=0821dd7ec9c6db4e802019840ac4f18e&usePUB=true&_phsrc=BjZ1396&_phstart=successSource).
    {:.caption}
 
 
@@ -40,5 +40,6 @@ runningtitle: "Joseph Bonafiglia Jr."
 
 {:.bibliography}
 
-1. “Villanovans at the Front”, The Villanovan, Villanova, PA: Villanova College, April 10, 1945. <https://library.villanova.edu/Find/Record/vudl:183966>
-2. _The Villanovan_, V. 18 No. 19, Tuesday, August 22, 1944, Page Five. <https://digital.library.villanova.edu/files/vudl:185478/MASTER?download=true>
+1. College, V. (1944). _Belle Air_ 1944. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:524293>
+2. World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania. Bell’s Commonwealth of Pennsylvania – Application for World War II Compensation – To be used in case of death.<https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=3147&h=77079&tid=&pid=&queryId=0821dd7ec9c6db4e802019840ac4f18e&usePUB=true&_phsrc=BjZ1396&_phstart=successSource>
+3. United States Marine Corps Casualties, Last name beginning with B., 1941-45. <https://www.naval-history.net/WW2UScasaaDB-USMCbyNameB.htm>
