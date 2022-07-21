@@ -26,6 +26,8 @@ runningtitle: "Harry Singley Jr."
 
 #### About
 
+TEST   
+
 Harry Singley Jr. joined the Army in 1942. He served during World War II and had the rank of Captain. His service number was 1688035. He served with Medical Detachment, 42nd Field Artillery Battalion, 4th Infantry Division. Singley was killed in action on June 6, 1944 at Utah Beach, Normandy, France. He is buried and memorialized at Plot D Row 18 Grave 24 Normandy American Cemetery Colleville-sur-Mer, France. This is an American Battle Monuments Commission location.
 
 ![Belle Air Yearbook College Yearbook 1932](images/HarrySingleyJr.BelleAir.png)
