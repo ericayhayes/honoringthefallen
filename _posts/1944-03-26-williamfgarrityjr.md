@@ -27,16 +27,13 @@ runningtitle: "William F. Garrity Jr."
 William F. Garrity Jr. was born on February 14, 1918, and lived in Great Neck, NY, where he attended Great Neck High School. After high school, he pursued a Bachelor of Arts at Villanova. William was especially active during his time at Villanova, taking part in intramural sports, the Glee Club, the Belle Masque, and the Belle Air Ball Committee. He also served as a copy editor for the Belle Air yearbook and edited the bestseller, “Memoirs of the 1938 Belle Air Ball.” During World War II, William served as a Second Lieutenant in the US Army Air Corps. He died in Marrakesh, Morocco, when an engine failure led his plane to crash upon take-off.
 
 
-
 ![William F. Garrity Jr., WWII Compensation Form](images/Garrity 2.jpg)
    {:.image}
-
-[William F. Garrity Jr., WWII Compensation Form, July 1, 1950](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=157222&indiv=try&o_vc=Record:OtherRecord&rhSource=2238)
-   {:.caption}
+[William F. Garrity Jr., WWII Compensation Form, July 1, 1950](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=3147&h=157222&indiv=try&o_vc=Record:OtherRecord&rhSource=2238).
+  {:.caption}
 
 ![William F. Garrity Jr., WWII Draft Card](images/Garrity 3.jpg)
    {:.image}
-
 [William F. Garrity Jr., WWII Registration Card D.S.S. Form 1](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=2238&h=6901071&indiv=try&o_vc=Record:OtherRecord&rhSource=61843)
    {:.caption}
 
