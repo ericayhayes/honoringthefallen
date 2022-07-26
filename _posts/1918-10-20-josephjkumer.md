@@ -9,7 +9,7 @@ lng: 4.966667
 runningtitle: "Joseph J. Kumer"
 ---
 
-![Joseph J. Kumer](images/images/Kumer 1.jpg)
+![Joseph J. Kumer](images/Kumer 1.jpg)
    {:.image}
 [Joseph J. Kumer, Veteran’s Compensation Application, Ancestry.com](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=60884&h=521801&indiv=try&o_vc=Record:OtherRecord&rhSource=1967).
   {:.caption}
