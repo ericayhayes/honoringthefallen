@@ -34,7 +34,7 @@ William F. Garrity Jr. was born on February 14, 1918, and lived in Great Neck, N
 
 ![William F. Garrity Jr., WWII Draft Card](images/Garrity 3.jpg)
    {:.image}
-[William F. Garrity Jr., WWII Registration Card D.S.S. Form 1](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=2238&h=6901071&indiv=try&o_vc=Record:OtherRecord&rhSource=61843)
+[William F. Garrity Jr., WWII Draft Card](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=2238&h=6901071&indiv=try&o_vc=Record:OtherRecord&rhSource=61843)
    {:.caption}
 
 
