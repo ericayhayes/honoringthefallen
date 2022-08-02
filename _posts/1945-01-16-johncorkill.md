@@ -10,9 +10,9 @@ runningtitle: "John Corkill"
 
 ---
 
-![Belle Air Villanova College Yearbook 1934, page 85.](images/Corkill_1.jpg)
+![Belle Air Villanova College Yearbook 1934, page 85](images/Corkill_1.jpg)
    {:.image}
-[Belle Air Villanova College Yearbook 1934, page 85.](https://library.villanova.edu/Find/Record/vudl:514658).
+[Belle Air Villanova College Yearbook 1934, page 85](https://library.villanova.edu/Find/Record/vudl:514658).
    {:.caption}
 
 
