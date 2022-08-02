@@ -11,7 +11,7 @@ runningtitle: "Matthew Claar"
 
 ![Matthew Claar](images/Claar.jpg)
    {:.image}
-[Belle Air Villanova College Yearbook 1986].
+Belle Air Villanova College Yearbook 1986.
    {:.caption}
 
 
