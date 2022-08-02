@@ -11,7 +11,7 @@ runningtitle: "Raymond H. Barnasconi"
 
 ![Raymond H. Barnasconi](images/Barnasconi 1.jpg)
    {:.image}
-[PVT Raymond Herbert Barnasconi,” Findagrave.com](https://www.findagrave.com/memorial/53439558/raymond-herbert-barnasconi).
+[PVT Raymond Herbert Barnasconi, Findagrave.com](https://www.findagrave.com/memorial/53439558/raymond-herbert-barnasconi).
    {:.caption}
 
 * **Date of Birth**{: .metadata}: 1895-12-21
