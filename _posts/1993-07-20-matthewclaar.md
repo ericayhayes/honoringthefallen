@@ -44,3 +44,4 @@ Matthew Claar was born on October 14, 1964. He lived in Newtown, PA before enrol
 2. “Crew of downed fighter identified”, UPI, JULY 22, 1993. <https://www.upi.com/Archives/1993/07/22/Crew-of-downed-fighter-identified/8280743313600/>
 3. Anderson, John R., “Aviator-turned-CEO carved a path to his dream job”, Military Times Reboot Camp, December 15, 2014. <https://rebootcamp.militarytimes.com/2014/12/25/aviator-turned-ceo-carved-a-path-to-his-dream-job/>
 4. “LT Matthew Timothy Claar”, Findagrave.com, <https://www.findagrave.com/memorial/19556705/matthew-timothy-claar>
+5. 1. University, V (1986). _Belle Air_ 1986. Villanova, PA : Villanova University.
