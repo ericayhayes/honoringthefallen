@@ -9,7 +9,7 @@ lng: 2
 runningtitle: "Raymond H. Barnasconi"
 ---
 
-![Raymond H. Barnasconi](images/Barnasconi 1.jpeg)
+![Raymond H. Barnasconi](images/Barnasconi 1.jpg)
    {:.image}
 [PVT Raymond Herbert Barnasconi,” Findagrave.com](https://www.findagrave.com/memorial/53439558/raymond-herbert-barnasconi).
    {:.caption}
