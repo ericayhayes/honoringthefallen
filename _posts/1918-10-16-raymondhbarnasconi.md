@@ -27,12 +27,12 @@ runningtitle: "Raymond H. Barnasconi"
 Raymond H. Barnasconi was born on December 21, 1895 in Sunbury, Pennsylvania. He completed a commercial course at Villanova in 1915. A 1918 issue of The Villanovan describes Raymond as a diligent student, star football player, genial companion, and generous friend. After joining the US Army during World War I, Raymond died from disease in France in 1918. He was buried at the Pomfret Manor Cemetery in his hometown of Sunbury.
 
 
-![Raymond H. Barnasconi, Registration Card](images/Barnasconi 2 .jpg)
+![Raymond H. Barnasconi, Registration Card](images/Barnasconi 2.jpg)
   {:.image}
 [Raymond H. Barnasconi, Registration Card, Ancestry.com](https://www.ancestrylibrary.com/discoveryui-content/view/25229225:6482?tid=&pid=&queryId=61608831b399ae2a13b34c7ad8134df4&_phsrc=BjZ1342&_phstart=successSource).
   {:.caption}
 
-![Raymond H. Barnasconi, Veteran’s Compensation Application](images/Barnasconi 3 .jpg)
+![Raymond H. Barnasconi, Veteran’s Compensation Application](images/Barnasconi 3.jpg)
   {:.image}
 [Raymond H. Barnasconi, Veteran’s Service Compensation, Ancestry.com](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=60884&h=1620917&indiv=try&o_vc=Record:OtherRecord&rhSource=6482)
   {:.caption}
