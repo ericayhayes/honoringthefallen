@@ -10,9 +10,9 @@ runningtitle: "Raymond H. Barnasconi"
 ---
 
 ![Raymond H. Barnasconi](images/Barnasconi 1.jpeg)
-  {:.image}
+   {:.image}
 [PVT Raymond Herbert Barnasconi,” Findagrave.com](https://www.findagrave.com/memorial/53439558/raymond-herbert-barnasconi).
-  {:.caption}
+   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1895-12-21
 * **Home of Record**{: .metadata}: Sunbury
@@ -28,14 +28,14 @@ Raymond H. Barnasconi was born on December 21, 1895 in Sunbury, Pennsylvania. He
 
 
 ![Raymond H. Barnasconi, Registration Card](images/Barnasconi 2.jpg)
-  {:.image}
+   {:.image}
 [Raymond H. Barnasconi, Registration Card, Ancestry.com](https://www.ancestrylibrary.com/discoveryui-content/view/25229225:6482?tid=&pid=&queryId=61608831b399ae2a13b34c7ad8134df4&_phsrc=BjZ1342&_phstart=successSource).
-  {:.caption}
+   {:.caption}
 
 ![Raymond H. Barnasconi, Veteran’s Compensation Application](images/Barnasconi 3.jpg)
-  {:.image}
+   {:.image}
 [Raymond H. Barnasconi, Veteran’s Service Compensation, Ancestry.com](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=60884&h=1620917&indiv=try&o_vc=Record:OtherRecord&rhSource=6482)
-  {:.caption}
+   {:.caption}
 
 
 
