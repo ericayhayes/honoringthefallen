@@ -57,7 +57,7 @@ John Corkill, son of Isabelle and James Corkill of Mauch Chunk, PA, graduated fr
 #### Works cited
 
 {:.bibliography}
-1. SSgt John T Corkill Grave, Henri-Chapelle American Cemetery, Hombourg, Belgium. <https://www.findagrave.com/memorial/56280289/john-t-corkill>
+1. Sgt John T Corkill Grave, Henri-Chapelle American Cemetery, Hombourg, Belgium. <https://www.findagrave.com/memorial/56280289/john-t-corkill>
 2. College, V. _Belle Air_ 1934, page 85. Villanova, PA: Villanova College. <https://library.villanova.edu/Find/Record/vudl:514658>
 3.  John T Corkill, American Battle Monuments Commission. <https://www.abmc.gov/decedent-search/corkill%3Djohn>
 4. John T Corkill WWII Veteran Compensation Application. Ancestry.com. <https://www.ancestrylibrary.com/discoveryui-content/view/939023:3147?tid=&pid=&queryId=f42124e2c235e6e16a23bb390d5e6f5d&_phsrc=BjZ1201&_phstart=successSource>
