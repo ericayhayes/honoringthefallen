@@ -23,7 +23,7 @@ runningtitle: "John White Crane"
 
 #### About
 
-John White Crane, of Pottstown, PA, studied at Villanova College, where he was also played baseball and football. During World War I, John was recruited at Allentown, PA, and served as a Private in Unit 506 of the Army Ambulance Corps. While in France in 1918, he played as a pitcher in a baseball game between Unit 506 and Unit 505 of the Ambulance Corps, which Unit 506 won. The game took place “within range of the big German shells.” Later that year, John was killed in action. He was laid to rest at the Oise-Aisne American Cemetery in Seringes-et- Nesles, France.
+John White Crane, of Pottstown, PA, studied at Villanova College, where he was also played baseball and football. During World War I, John was recruited at Allentown, PA, and served as a Private in Unit 506 of the Army Ambulance Corps. While in France in 1918, he played as a pitcher in a baseball game between Unit 506 and Unit 505 of the Ambulance Corps, which Unit 506 won. The game took place “within range of the big German shells.” Later that year, John was killed in action. He was laid to rest at the Oise-Aisne American Cemetery in Seringes-et-Nesles, France.
 
 ![John White Crane](images/Crane2.jpg)
    {:.image}
