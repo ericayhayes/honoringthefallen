@@ -9,7 +9,7 @@ lng: 4.966667
 runningtitle: "Joseph J. Kumer"
 ---
 
-![Joseph J. Kumer](images/Kumer 1.jpg)
+![Joseph J. Kumer](images/KumerJoseph1.jpg)
   {:.image}
 [Joseph J. Kumer, Veteran’s Compensation Application, Ancestry.com](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=60884&h=521801&indiv=try&o_vc=Record:OtherRecord&rhSource=1967).
   {:.caption}
@@ -29,14 +29,14 @@ runningtitle: "Joseph J. Kumer"
 Joseph J. Kumer was born on December 15, 1896 in Bloomsburg, PA. He enrolled in Villanova’s Preparatory School in 1911 before entering the College the following September. He was particularly popular with his classmates, who familiarly called him by the nickname “Shorty.” After graduating with a Bachelor of Sciences in Engineering in 1916, Joseph worked as a civil engineer at a large contracting firm in Muncy, PA. When World War I broke out, he joined the Army as a private. After completing his training in Washington, DC, Joseph was deployed to France, where he died in Argonne Forest in September 1918. He is buried at St. Edwards Cemetery in Shamokin, PA.
 
 
-![Joseph J. Kumer Registration Card](images/Kumer 3.jpg)
+![Joseph J. Kumer Registration Card](images/KumerJoseph3.jpg)
   {:.image}
 
 [Joseph J. Kumer, Draft Registration Card, Ancestry.com](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=6482&h=1544059&indiv=try&o_vc=Record:OtherRecord&rhSource=60884)
   {:.caption}
 
 
-![Joseph J. Kumer, Record of Burial](images/Kumer 2.jpg)
+![Joseph J. Kumer, Record of Burial](images/KumerJoseph2.jpg)
   {:.image}
 
 [Joseph J. Kumer, Record of Burial Place of Veteran, Ancestry.com](https://www.ancestrylibrary.com/discoveryui-content/view/1467399:1967)
