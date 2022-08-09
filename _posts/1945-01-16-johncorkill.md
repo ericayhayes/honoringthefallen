@@ -10,7 +10,7 @@ runningtitle: "John Corkill"
 
 ---
 
-![Belle Air Villanova College Yearbook 1934, page 85](images/Corkill_1.jpg)
+![Belle Air Villanova College Yearbook 1934, page 85](images/JohnCorkill_1.jpg)
    {:.image}
 [Belle Air Villanova College Yearbook 1934, page 85](https://library.villanova.edu/Find/Record/vudl:514658).
    {:.caption}
@@ -32,22 +32,22 @@ John Corkill, son of Isabelle and James Corkill of Mauch Chunk, PA, graduated fr
 
 
 
-![John T Corkill Grave](images/Corkill_2.jpg)
+![John T Corkill Grave](images/JohnCorkill_2.jpg)
    {:.image}
 [John T Corkill Grave](https://www.findagrave.com/memorial/56280289/john-t-corkill).
    {:.caption}
 
-![Headstone Inscription and Interment Record](images/Corkill_3.jpg)
+![Headstone Inscription and Interment Record](images/JohnCorkill_3.jpg)
    {:.image}
 [Headstone Inscription and Interment Record](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=9170&h=72122&indiv=try&o_vc=Record:OtherRecord&rhSource=60541).
    {:.caption}
 
-![WWII Veteran Compensation Application](images/Corkill_4.jpg)
+![WWII Veteran Compensation Application](images/JohnCorkill_4.jpg)
    {:.image}
 [WWII Veteran Compensation Application](https://www.ancestrylibrary.com/discoveryui-content/view/939023:3147?tid=&pid=&queryId=f42124e2c235e6e16a23bb390d5e6f5d&_phsrc=BjZ1201&_phstart=successSource).
    {:.caption}
 
-![Draft Card](images/Corkill_5.jpg)
+![Draft Card](images/JohnCorkill_5.jpg)
    {:.image}
 [Draft Card](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=2238&h=6806075&indiv=try&o_vc=Record:OtherRecord&rhSource=60541).
    {:.caption}

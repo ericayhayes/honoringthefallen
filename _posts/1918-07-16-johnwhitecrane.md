@@ -3,8 +3,8 @@ layout: post
 title: "John White Crane"
 categories: ["ARMY"]
 date: 1918-07-16
-lat: 49.202
-lng: 3.5483
+lat: 46.927759
+lng: 3.744591
 runningtitle: "John White Crane"
 ---
 
