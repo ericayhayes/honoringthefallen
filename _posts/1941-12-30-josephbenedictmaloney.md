@@ -4,8 +4,8 @@ title: "Joseph Benedict Maloney"
 categories: ["ARMY AIR CORPS"]
 date: 1941-12-30
 vudate: 1937
-lat: 34.325833
-lng: -117.428333
+lat: 34.194801
+lng: -117.049416
 runningtitle: "Joseph Benedict Maloney"
 ---
 ![Joseph Benedict Maloney](images/JosephBenedictMaloney1.jpg)
@@ -17,7 +17,7 @@ runningtitle: "Joseph Benedict Maloney"
 * **Home of Record**{: .metadata}: Waterbury
 * **State**{: .metadata}: CT
 * **Branch**{: .metadata}: Army Air Corps
-* **Place of Death**{: .metadata}: Cajon Pass in California
+* **Place of Death**{: .metadata}: Cajon Pass in California near Keller Peak
 * **Year of Death**{: .metadata}: 1941
 * **Villanova Class Year**{: .metadata}: 1937
 * **Major**{: .metadata}: Bachelor of Arts
@@ -26,10 +26,10 @@ runningtitle: "Joseph Benedict Maloney"
 
 ![Second Lieutenant Joseph Benedict Maloney, 1937](images/JosephBenedictMaloney_uniform.jpg)
    {:.image}
-Joseph Benedict Maloney, 1937. Photo Source: Gay Choate Keilty.
+Second Lieutenant Joseph Benedict Maloney, 1937. Photo Source: Dr. Daniel J. Maloney, Helen Quigley Maloney, and Peter Michael Keilty.
    {:.caption}
 
-Joseph Benedict Maloney was born October 17, 1915 in Waterbury, Connecticut. He was the son of Daniel Joseph Maloney, M.D. and Ellen A. Quigley Maloney. Joseph Benedict (Ben) was the youngest of 4 children. His brothers and sister were Augustin J., Emily C., and Kenneth J. Maloney. He was the nephew of the late Cornelius Maloney, founder of the "Waterbury Democrat," and the late Arthur Quigley, former CEO of American Brass Company.
+Joseph Benedict Maloney was born October 17, 1915 in Waterbury, Connecticut. He was the son of Daniel Joseph Maloney, M.D. and Hellen A. Quigley Maloney. Joseph Benedict (Ben) was the youngest of 4 children. His brothers and sister were Augustin J., Emily C., and Kenneth J. Maloney. He was the nephew of the late Cornelius Maloney, founder of the "Waterbury Democrat," and the late Arthur Quigley, former CEO of American Brass Company.
 
 Ben attended parochial school and graduated from Crosby High School, both in Waterbury. He was a graduate of Villanova College (now Villanova University) in Villanova Pennsylvania.
 
@@ -43,28 +43,28 @@ In 1941, he was the co-pilot of a Martin B-26, which disappeared on December 30t
 
 ![Joseph Benedict Maloney Poughkeepsie Eagle-News](images/JosephBenedictMaloneyPoughkeepsieNewsArticle1.jpg)
    {:.image}
-[Joseph Benedict Maloney, "Army Presses Bomber Search: Missing Plane Had 9 Aboard", Poughkeepsie Eagle-News, January 2, 1942](https://www.newspapers.com/clip/29088214/joseph-benedict-maloney-army-presses/).
+[Joseph Benedict Maloney, "Army Presses Bomber Search: Missing Plane Had 9 Aboard", Poughkeepsie Eagle-News, January 2, 1942. Photo Source: Newspapers.com and Emily Clare Maloney.](https://www.newspapers.com/clip/29088214/joseph-benedict-maloney-army-presses/).
   {:.caption}
 
 ![Joseph Benedict Maloney Poughkeepsie Eagle-News](images/JosephBenedictMaloneyConneticutNewsArticle2.jpg)
   {:.image}
-[Joseph Benedict Maloney, "2 Die, 5 Hurt In Crash Of U.S. Bomber", Hartford Courant, January 16, 1942](https://www.newspapers.com/clip/29084871/joseph-benedict-maloney-seven-dead-on/).
+[Joseph Benedict Maloney, "2 Die, 5 Hurt In Crash Of U.S. Bomber", Hartford Courant, January 16, 1942. Photo Source: Newspapers.com and Emily Clare Maloney.](https://www.newspapers.com/clip/29084871/joseph-benedict-maloney-seven-dead-on/).
   {:.caption}
 
 ![Joseph Benedict Maloney, "Waterbury Flyer on Missing Bomber," Hartford Courant, January 2, 1942](images/JosephBenedictMaloney_ WaterburyFlyer.jpg)
   {:.image}
-Joseph Benedict Maloney, "Waterbury Flyer on Missing Bomber," _Hartford Courant_, January 2, 1942.
+[Joseph Benedict Maloney, "Waterbury Flyer on Missing Bomber," _Hartford Courant_, January 2, 1942. Photo Source: _Chronicling of America_, Library of Congress.](https://chroniclingamerica.loc.gov/lccn/sn82014085/1942-01-02/ed-1/seq-1/#date1=1942&index=0&rows=20&words=Benedict+Maloney&searchType=basic&sequence=0&state=Connecticut&date2=1942&proxtext=Benedict+Maloney&y=0&x=0&dateFilterType=yearRange&page=1)
   {:.caption}
 
 ![Joseph Benedict Maloney, “Second Lieut. J. Benedict Maloney On Missing Bomber”, Waterbury Democrat, January 2, 1942](images/JosephBenedictMaloney_2ndLTMissingBomber JAN1942.jpg)
   {:.image}
-Joseph Benedict Maloney, “Second Lieut. J. Benedict Maloney On Missing Bomber”, _Waterbury Democrat_, January 2, 1942
+[Joseph Benedict Maloney, “Second Lieut. J. Benedict Maloney On Missing Bomber”, _Waterbury Democrat_, January 2, 1942. Photo Source: Waterbury Flyer/Hartford Courant article from Newspapers.com](https://www.newspapers.com/clip/34365239/joseph-benedict-maloney-hartford/)
   {:.caption}
 
 
 ![Memorial painting by R.T. Foster, from invitation to plaque dedication.](images/JosephBenedictMaloney_MemorialSpiritsofKellerPeak.jpg)
   {:.image}
-Memorial painting by R.T. Foster, from invitation to plaque dedication.
+[Memorial painting by R.T. Foster, Oklahoma City, OK from invitation to plaque dedication. Photo Source: David G. Schmidt.](http://members.uia.net/dgs0728/keller/keller.html)
   {:.caption}
 
 Transcription:
@@ -83,7 +83,7 @@ The Spirits of Keller Peak in memory of the crew of B-26 Marauder, 40-1475 33rd 
 
 ![Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout.](images/JosephBenedictMaloney_MemorialPlaqueCrashSite.jpg)
   {:.image}
-Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout.
+Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout. Photo Source: Gay Choate Keilty.
   {:.caption}
 
 Transcription:
@@ -119,11 +119,11 @@ OUR THANKS TO THE U.S. FOREST SERVICE FOR PERMISSION TO REMEMBER THOSE WHO DIED 
 
 {:.bibliography}
 1. College, V. (1967). _Belle Air_ 1937. Villanova, PA : Villanova College. <https://digital.library.villanova.edu/Item/vudl:531641>
-2. "Army Presses Bomber Search: Missing Plane Had 9 Aboard", Poughkeepsie Eagle-News, Poughkeepsie, NY, January 2, 1942. <https://www.newspapers.com/clip/29088214/joseph-benedict-maloney-army-presses/>
-3. "2 Die, 5 Hurt In Crash Of U.S. Bomber", Hartford Courant, Hartford, CT, January 16, 1942. <https://www.newspapers.com/clip/29084871/joseph-benedict-maloney-seven-dead-on/>
-4. Second Lieutenant Joseph Benedict Maloney, 1937. Photo Source: Gay Choate Keilty.
-5. Joseph Benedict Maloney, “Waterbury Flyer on Missing Bomber”, _Hartford Courant_, January 2, 1942. Photo Source: Gay Choate Keilty.
-6. Joseph Benedict Maloney, “Second Lieut. J. Benedict Maloney On Missing Bomber”, _Waterbury Democrat_, January 2, 1942. Photo Source: Gay Choate Keilty.
-7. Memorial painting by R.T. Foster, from invitation to plaque dedication. Photo Source: Gay Choate Keilty.
-8. Memorial plaque dedicated to those who died in the crash. The dedication was held at the Keller Peak Lookout Tower on Saturday, 12 AUG 1995. The plaque is located on a large rock, just off the road that leads to the Keller Peak fire lookout. Photo Source: Gay Choate Keilty.
-9. Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941. Find A Grave. <https://www.findagrave.com/memorial/18916232/joseph-benedict-maloney>
+2. Second Lieutenant Joseph Benedict Maloney, 1937. Photo Source: Dr. Daniel J. Maloney, Helen Quigley Maloney, and Peter Michael Keilty
+3. Joseph Benedict Maloney, "Army Presses Bomber Search: Missing Plane Had 9 Aboard", Poughkeepsie Eagle-News, January 2, 1942. Photo Source: Newspapers.com and Emily Clare Maloney.<https://www.newspapers.com/clip/29088214/joseph-benedict-maloney-army-presses/>
+4. Joseph Benedict Maloney, "2 Die, 5 Hurt In Crash Of U.S. Bomber", Hartford Courant, January 16, 1942. Photo Source: Newspapers.com and Emily Clare Maloney.<https://www.newspapers.com/clip/29084871/joseph-benedict-maloney-seven-dead-on/>
+5. Joseph Benedict Maloney, "Waterbury Flyer on Missing Bomber," _Hartford Courant_, January 2, 1942. Photo Source: _Chronicling of America_, Library of Congress.<https://chroniclingamerica.loc.gov/lccn/sn82014085/1942-01-02/ed-1/seq-1/#date1=1942&index=0&rows=20&words=Benedict+Maloney&searchType=basic&sequence=0&state=Connecticut&date2=1942&proxtext=Benedict+Maloney&y=0&x=0&dateFilterType=yearRange&page=1>
+6. Joseph Benedict Maloney, “Second Lieut. J. Benedict Maloney On Missing Bomber”, _Waterbury Democrat_, January 2, 1942. Photo Source: Waterbury Flyer/Hartford Courant article from Newspapers.com.<https://www.newspapers.com/clip/34365239/joseph-benedict-maloney-hartford/>
+7. Memorial painting by R.T. Foster, Oklahoma City, OK from invitation to plaque dedication. Photo Source: David G. Schmidt.<http://members.uia.net/dgs0728/keller/keller.html>
+8. Memorial plaque dedicated to those who died in the crash. Photo Source: Gay Choate Keilty.
+9. Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941. Photo Source: findagrave.com <https://www.findagrave.com/memorial/18916232/joseph-benedict-maloney>
