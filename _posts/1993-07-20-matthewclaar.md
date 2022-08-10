@@ -4,12 +4,12 @@ title: "Matthew Claar"
 categories: ["Navy"]
 date: 1993-07-20
 vudate: 1986
-lat: -20
-lng: 80
+lat: -30.976790546223285
+lng: 82.11182197565664
 runningtitle: "Matthew Claar"
 ---
 
-![Matthew Claar](images/Claar.jpg)
+![Matthew Claar](images/MatthewClaar_1.jpg)
    {:.image}
 Belle Air Villanova University Yearbook 1986.
    {:.caption}
@@ -29,7 +29,7 @@ Matthew Claar was born on October 14, 1964. He lived in Newtown, PA before enrol
 
 
 
-![Mathew Claar Grave](images/Claar2.jpg)
+![Mathew Claar Grave](images/MatthewClaar_2.jpg)
    {:.image}
 [Matthew Claar Grave, Findagrave.com](https://www.findagrave.com/memorial/19556705/matthew-timothy-claar).
    {:.caption}
