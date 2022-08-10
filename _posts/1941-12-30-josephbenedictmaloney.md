@@ -112,7 +112,7 @@ OUR THANKS TO THE U.S. FOREST SERVICE FOR PERMISSION TO REMEMBER THOSE WHO DIED 
 
 ![Joseph Benedict Maloney Gravestone](images/JosephBenedictMaloney_gravestone.jpg)
   {:.image}
-[Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941](https://www.findagrave.com/memorial/18916232/joseph-benedict-maloney)
+[Gravestone: JOSEPH BENEDICT MALONEY Lieut. 33rd Bombardment Squadron United States Army Air Corp. OCT. 17, 1915 - DEC. 30, 1941. Photo Source: FinaAGrave.com](https://www.findagrave.com/memorial/18916232/joseph-benedict-maloney)
   {:.caption}
 
 #### Works cited
