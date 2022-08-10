@@ -12,8 +12,9 @@ permalink: /credits/
 * Erica Hayes, Digital Scholarship Librarian
 * Dave Uspal, Library Technology Developer
 * Rebecca Oviedo, Distinctive Collections Librarian/Archivist
-* Laura Bang, Distinctive Collections Librarian
 * Beaudry Allen, Preservation & Digital Archivist
+* Christoforos Sassaris, Distinctive Collections Coordinator
+* Laura Bang, Distinctive Collections Librarian
 * Erin Warren, Distinctive Collections Undergraduate Student Assistant
 * Michael Foight, Director of Distinctive Collections and Digital Engagement
 
