@@ -25,14 +25,24 @@ runningtitle: "John White Crane"
 
 John White Crane, of Pottstown, PA, studied at Villanova College, where he was also played baseball and football. During World War I, John was recruited at Allentown, PA, and served as a Private in Unit 506 of the Army Ambulance Corps. While in France in 1918, he played as a pitcher in a baseball game between Unit 506 and Unit 505 of the Ambulance Corps, which Unit 506 won. The game took place “within range of the big German shells.” Later that year, John was killed in action. He was laid to rest at the Oise-Aisne American Cemetery in Seringes-et-Nesles, France.
 
-![John White Crane](images/JohnWCrane2.jpg)
+![John White Crane, Burial Card](images/JohnWCrane2.jpg)
    {:.image}
 [John White Crane, Burial Card](https://www.ancestrylibrary.com/discoveryui-content/view/764435:1967).
    {:.caption}
 
-![John White Crane](images/JohnWCrane3.jpg)
+![John White Crane, World War I Mothers' Pilgrimage, 1929](images/JohnWCrane3.jpg)
    {:.image}
 [John White Crane, World War I Mothers' Pilgrimage, 1929](https://www.ancestrylibrary.com/discoveryui-content/view/27941:4224).
+   {:.caption}
+
+![John White Crane, Memorial Certificate](images/JohnWCrane4.jpg)
+   {:.image}
+[John White Crane, Memorial Certificate](https://www.abmc.gov/print/certificate/308478).
+   {:.caption}
+
+![Newspaper article reporting John White Crane's death](images/JohnWCrane5.jpg)
+   {:.image}
+[Newspaper article reporting John White Crane's death](https://www.findagrave.com/memorial/56636644/john-white-crane).
    {:.caption}
 
 #### Works cited
@@ -42,3 +52,4 @@ John White Crane, of Pottstown, PA, studied at Villanova College, where he was a
 2. College, V. _Belle Air_ 1948, page 29. Villanova, PA : Villanova College. <https://library.villanova.edu/Find/Record/vudl:183954>
 3. John White Crane, Burial Card, Ancestry.com. <https://www.ancestrylibrary.com/discoveryui-content/view/764435:1967)
 4. John White Crane, World War I Mothers’ Pilgrimage, Ancestry.com. <https://www.ancestrylibrary.com/discoveryui-content/view/27941:4224>
+5. John White Crane, Memorial Certificate. <https://www.abmc.gov/print/certificate/308478>
