@@ -36,7 +36,15 @@ William B. McDonald was born on February 16, 1922 in San Mateo, California. He p
 [William B McDonald, Interment Record and Headstone Inscription](https://www.findagrave.com/memorial/56658259/william-breen-mcdonald).
    {:.caption}
 
+![William B McDonald, Memorial Certificate](images/WilliamMcDonald_4.pdf)
+   {:.image}
+[William B McDonald, Memorial Certificate](https://www.abmc.gov/decedent-search/mcdonald%3Dwilliam-5).
+   {:.caption}
 
+![Newspaper article reporting William B McDonald's death, Findagrave.com](images/WilliamMcDonald_5.jpg)
+   {:.image}
+[Newspaper article reporting William B McDonald's death, Findagrave.com](https://www.findagrave.com/memorial/56658259/william-breen-mcdonald).
+   {:.caption}
 
 #### Works cited
 
@@ -45,4 +53,4 @@ William B. McDonald was born on February 16, 1922 in San Mateo, California. He p
 2. 55th Armored Infantry Battalion (AIB), The 11th Armored Division Legacy Group. <http://www.11tharmoreddivision.com/history/55th_AIB.html>
 3. William B. McDonald, American Battle Monuments Commission. <https://www.abmc.gov/decedent-search/mcdonald%3Dwilliam-5>
 4. William B McDonald, Registration Card, Ancestry.com <https://www.ancestrylibrary.com/discoveryui-content/view/17985766:2238?tid=&pid=&queryId=1623c6b9408c569b1767b80c316359e9&_phsrc=BjZ1195&_phstart=successSource>
-5. William B. McDonald Interment Record and Headstone Inscription, Findagrave.com. <https://www.findagrave.com/memorial/56658259/william-breen-mcdonald>
+5. William B. McDonald, Findagrave.com. <https://www.findagrave.com/memorial/56658259/william-breen-mcdonald>
