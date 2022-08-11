@@ -36,7 +36,7 @@ William B. McDonald was born on February 16, 1922 in San Mateo, California. He p
 [William B McDonald, Interment Record and Headstone Inscription](https://www.findagrave.com/memorial/56658259/william-breen-mcdonald).
    {:.caption}
 
-![William B McDonald, Memorial Certificate](images/WilliamMcDonald_4.pdf)
+![William B McDonald, Memorial Certificate](images/WilliamMcDonald_4.jpg)
    {:.image}
 [William B McDonald, Memorial Certificate](https://www.abmc.gov/decedent-search/mcdonald%3Dwilliam-5).
    {:.caption}
