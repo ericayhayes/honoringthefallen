@@ -45,6 +45,11 @@ John White Crane, of Pottstown, PA, studied at Villanova College, where he was a
 [Newspaper article reporting John White Crane's death](https://www.findagrave.com/memorial/56636644/john-white-crane).
    {:.caption}
 
+![Soldiers of the Great War – Pennsylvania](images/JohnWCrane6.jpg)
+   {:.image}
+[Soldiers of the Great War – Pennsylvania](https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc=BjZ1361&_phstart=successSource&usePUBJs=true&indiv=1&dbid=61470&gsfn=John&gsln=Crane&cp=0&msddy=1918&qh=aee0b55c3a39c38fe4c8b782d3098751&new=1&rank=1&uidh=ib1&redir=false&gss=angs-d&pcat=39&fh=0&h=82782&recoff=&ml_rpos=1&queryId=26c74454d54d7da399ea3963588242e8).
+   {:.caption}
+
 #### Works cited
 
 {:.bibliography}
@@ -53,3 +58,4 @@ John White Crane, of Pottstown, PA, studied at Villanova College, where he was a
 3. John White Crane, Burial Card, Ancestry.com. <https://www.ancestrylibrary.com/discoveryui-content/view/764435:1967)
 4. John White Crane, World War I Mothers’ Pilgrimage, Ancestry.com. <https://www.ancestrylibrary.com/discoveryui-content/view/27941:4224>
 5. John White Crane, Memorial Certificate. <https://www.abmc.gov/print/certificate/308478>
+6. John White Crane, American Soldiers of World War I. <https://search.ancestrylibrary.com/cgi-bin/sse.dll?_phsrc=BjZ1361&_phstart=successSource&usePUBJs=true&indiv=1&dbid=61470&gsfn=John&gsln=Crane&cp=0&msddy=1918&qh=aee0b55c3a39c38fe4c8b782d3098751&new=1&rank=1&uidh=ib1&redir=false&gss=angs-d&pcat=39&fh=0&h=82782&recoff=&ml_rpos=1&queryId=26c74454d54d7da399ea3963588242e8>
