@@ -60,3 +60,4 @@ Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was 
 5. _Villanova Alumnus_, V. VII No. 3, Spring 1945 magazine <https://digital.library.villanova.edu/Item/vudl:182448>
 6. _The Villanovan_. Vol 15 (24). 1943.<https://digital.library.villanova.edu/Item/vudl:185323>
 7. ABMC War Dead Certificate for James G. Jones. <https://www.abmc.gov/print/certificate/505170>
+8. College, V. _Belle Air_ 1943, page 269. Villanova, PA: Villanova College. <https://library.villanova.edu/Find/Record/vudl:534238>
