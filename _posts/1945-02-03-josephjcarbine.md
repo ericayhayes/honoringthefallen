@@ -50,6 +50,21 @@ Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was 
 [ABMC War Dead Certificate for Joseph J. Carbine](https://www.abmc.gov/print/certificate/505170)
   {:.caption}
 
+![Joseph J. Carbine Draft Card](images/Carbine_JosephJ_draftCard.jpg)
+  {:.image}
+[Joseph J. Carbine Draft Card](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=2238&h=8699826&tid=&pid=&usePUB=true&_phsrc=BjZ1019&_phstart=successSource)
+  {:.caption}
+
+![The Villanovan, v. 20, no. 17, page 1](images/Carbine_JosephJ_article1.jpg)
+  {:.image}
+[The Villanovan, v. 20, no. 17, page 1](https://digital.library.villanova.edu/Item/vudl:185617)
+  {:.caption}
+
+![The Villanovan, v. 20, no. 17, page 3](images/Carbine_JosephJ_article2.jpg)
+  {:.image}
+[The Villanovan, v. 20, no. 17, page 3](https://digital.library.villanova.edu/Item/vudl:185617)
+  {:.caption}
+
 #### Works cited
 
 {:.bibliography}
@@ -58,6 +73,6 @@ Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was 
 3. Joseph J. Carbine WWII Draft Registration Cards for Philadelphia, The National Archives in St. Louis, Missouri. <https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=2238&h=8699826&tid=&pid=&usePUB=true&_phsrc=BjZ1019&_phstart=successSource>
 4. Joseph J. Carbine, “Lt. Joseph J. Carbine AAC KIA '45.” National Air and Space Museum, 11 Dec. 2019, <https://airandspace.si.edu/support/wall-of-honor/lt-joseph-j-carbine-aac-kia-45>
 5. _Villanova Alumnus_, V. VII No. 3, Spring 1945 magazine <https://digital.library.villanova.edu/Item/vudl:182448>
-6. _The Villanovan_. Vol 15 (24). 1943.<https://digital.library.villanova.edu/Item/vudl:185323>
+6. _The Villanovan_. Vol 20 (17). 1945.<https://digital.library.villanova.edu/Item/vudl:185617>
 7. ABMC War Dead Certificate for James G. Jones. <https://www.abmc.gov/print/certificate/505170>
 8. College, V. _Belle Air_ 1943, page 269. Villanova, PA: Villanova College. <https://library.villanova.edu/Find/Record/vudl:534238>
