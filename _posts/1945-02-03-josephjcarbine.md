@@ -21,7 +21,8 @@ runningtitle: "Joseph J. Carbine"
 * **Place of Death**{: .metadata}: North Sea – English Channel
 * **Year of Death**{: .metadata}: 1945
 * **Villanova Class Year**{: .metadata}: 1943
-* **Major**{: .metadata}: Bachelor of Arts (withdrew before completion)
+* **Major**{: .metadata}: Bachelor of Arts in Service
+* **Sports and Clubs at Villanova**{: .metadata}: Belle Air yearbook, Football, Choral Society, The Villanovan, Sanctuary Society, Orientations Committee, Summer Hop Committee, Centennial Ball Committee, Sophomore Cotillion, Belle Masque, Beta Gamma, Epsilon Phi Theta
 
 #### About
 
@@ -30,9 +31,14 @@ runningtitle: "Joseph J. Carbine"
 [Saint Denis Cemetery Havertown, Delaware County, PA, USA](https://www.findagrave.com/memorial/171679558/joseph-john-carbine)
   {:.caption}
 
-Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was born and raised in Radnor, Pennsylvania.  He withdrew from Villanova University in 1943 as a member of the Army Air Corps Reserve.  He received his commission as an officer at Freeman AAF on May 23, 1944.  He was sent to England in the same year to the 306th bomber base at Thurleigh Air Station, where he proceeded to complete multiple successful missions.  Joseph J. Carbine was killed in action on his 21st Combat Mission.  His B-17 aircraft sustained critical flak-induced engine failure after flying over Berlin.  Carbine’s B-17 crashed into the English Channel on its return trip to England.  No crew members survived.  
+Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was born and raised in Radnor, Pennsylvania.  He earned a Bachelor of Arts in Service at Villanova, where he was very involved in activities such as the choral society, the _Belle Air_ yearbooks, and the orientation committee. In 1943, he enlisted in the Army Air Corps Reserve and received his commission as an officer at Freeman AAF on May 23, 1944.  Carbine was sent to England in the same year to the 306th bomber base at Thurleigh Air Station, where he proceeded to complete multiple successful missions.  He was killed in action on his 21st Combat Mission.  His B-17 aircraft sustained critical flak-induced engine failure after flying over Berlin.  Carbine’s B-17 crashed into the English Channel on its return trip to England.  No crew members survived.  
 
 "He stated to his parents before he left the US that he was glad to serve his wartime duty to his country in a direct air combat contribution to the WWII effort."
+
+![Belle Air Villanova College Yearbook 1943, page 269](images/Carbine_JosephJ_yearbook.jpg)
+  {:.image}
+[Belle Air Villanova College Yearbook 1943, page 269](https://library.villanova.edu/Find/Record/vudl:534238)
+  {:.caption}
 
 ![Joseph J. Carbine World War II Veterans Service and Compensation Application, Commonwealth of Pennsylvania](images/Carbine_JosephJ_ApplicationforCompensation.jpg)
   {:.image}
