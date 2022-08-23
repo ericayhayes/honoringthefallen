@@ -55,12 +55,12 @@ Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was 
 [Joseph J. Carbine Draft Card](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=2238&h=8699826&tid=&pid=&usePUB=true&_phsrc=BjZ1019&_phstart=successSource)
   {:.caption}
 
-![The Villanovan, v. 20, no. 17, page 1](images/Carbine_JosephJ_article1.jpg)
+![The Villanovan, v. 20, no. 17, page 1](images/Carbine_JosephJ_article1.png)
   {:.image}
 [The Villanovan, v. 20, no. 17, page 1](https://digital.library.villanova.edu/Item/vudl:185617)
   {:.caption}
 
-![The Villanovan, v. 20, no. 17, page 3](images/Carbine_JosephJ_article2.jpg)
+![The Villanovan, v. 20, no. 17, page 3](images/Carbine_JosephJ_article2.png)
   {:.image}
 [The Villanovan, v. 20, no. 17, page 3](https://digital.library.villanova.edu/Item/vudl:185617)
   {:.caption}
