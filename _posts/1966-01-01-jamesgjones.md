@@ -46,6 +46,11 @@ James G. Jones was a Navy pilot and served with Attack Squadron 12, Carrier Air 
 [ABMC War Dead Certificate for James G. Jones](https://www.abmc.gov/print/certificate/426379)
   {:.caption}
 
+![Commemorative article in the Villanova Alumnus](images/Jones_JamesG_Article.jpg)
+  {:.image}
+[Commemorative article in the Villanova Alumnus](https://digital.library.villanova.edu/Item/vudl:732882#?c=&m=&s=&cv=1&xywh=-1501%2C-290%2C5053%2C1691)
+  {:.caption}
+
 #### Works cited
 
 {:.bibliography}
@@ -54,3 +59,4 @@ James G. Jones was a Navy pilot and served with Attack Squadron 12, Carrier Air 
 3. College, V. (1964). _Belle Air_ 1964, page 275. Villanova, PA : Villanova College. <https://digital.library.villanova.edu/Item/vudl:553633>
 4. James G. Jones Grave. Vietnam Veterans Memorial Fund Wall of Faces. <https://www.vvmf.org/Wall-of-Faces/26651/JAMES-G-JONES/>
 5. James G. Jones Navy Cross Citation: August 14, 1939 Distinguished Flying Cross. The Hall of Valor Project. <https://valor.militarytimes.com/hero/305765>
+6. College, V. (1967)"In Memoriam". _Villanova Alumnus_, v. XXIX, no. 4, p. 2, 1967, Villanova, PA : Villanova College. <https://digital.library.villanova.edu/Item/vudl:732882#?c=&m=&s=&cv=1&xywh=-800%2C233%2C2594%2C1145>
