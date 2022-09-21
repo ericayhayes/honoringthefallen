@@ -39,6 +39,6 @@ After attending Villanova College as part of the class of 1919, Joseph McHugh jo
 #### Works cited
 
 {:.bibliography}
-1. Joseph McHugh. American Battle Monuments Comission. <https://www.abmc.gov/decedent-search/mchugh%3Djoseph>
+1. Joseph McHugh. American Battle Monuments Commission. <https://www.abmc.gov/decedent-search/mchugh%3Djoseph>
 2. PVT Joseph McHugh. Frindagrave.com. <https://www.findagrave.com/memorial/55994954/joseph-mchugh/photo>
 3. College, V. (1918). _The Villanovan_ v. 2, n. 4, p. 32, 1918. Villanova, PA. <https://library.villanova.edu/Find/Record/vudl:183954>
