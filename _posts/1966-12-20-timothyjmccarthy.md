@@ -43,9 +43,9 @@ Timothy John McCarthy graduated from Villanova College with a BS in Economics in
 [Timothy J. McCarthy Headstone Application](https://www.ancestrylibrary.com/discoveryui-content/view/3147819:2375).
   {:.caption}
 
-![Timothy J. McCarthy article on Villanova Alumnus](images/McCarthy5.jpg)
+![Timothy J. McCarthy article in Villanova Alumnus](images/McCarthy5.jpg)
   {:.image}
-[Timothy J. McCarthy article on Villanova Alumnus](https://digital.library.villanova.edu/Item/vudl:732890#?c=&m=&s=&cv=1&xywh=130%2C2370%2C814%2C359).
+[Timothy J. McCarthy article in Villanova Alumnus](https://digital.library.villanova.edu/Item/vudl:732890#?c=&m=&s=&cv=1&xywh=130%2C2370%2C814%2C359).
   {:.caption}
 
 
