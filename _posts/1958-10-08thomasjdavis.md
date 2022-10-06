@@ -20,7 +20,7 @@ runningtitle: "Thomas J. Davis"
 * **Branch**{: .metadata}: US Navy
 * **Unit**{: .metadata}: Attack Squadron Twelve (VA-12), the Flying Ubangis
 * **Rank**{: .metadata}: Lt. Junior Grade
-* **Place of Death**{: .metadata}: In the Mediterranean Sea, halfway between the Greek island of Crete and the coast of Libya
+* **Place of Death**{: .metadata}: Mediterranean Sea, halfway between the Greek island of Crete and the coast of Libya
 * **Year of Death**{: .metadata}: 1958
 * **Villanova Class Year**{: .metadata}: 1958
 
