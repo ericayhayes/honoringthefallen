@@ -31,17 +31,17 @@ Thomas J. Davis ("Tommy" to family and friends), of Downingtown, PA, was born in
 
 ![VA-12 Skyhawk](images/Davis2.jpg)
    {:.image}
-[VA-12 Skyhawk, Image Courtesy of Kenneth Killmeyer].
+[VA-12 Skyhawk, Image Courtesy of Kenneth Killmeyer]().
    {:.caption}
 
 ![VA-12 Skyhawk](images/Davis3.jpg)
    {:.image}
-[VA-12 Skyhawk, Image Courtesy of Kenneth Killmeyer].
+[VA-12 Skyhawk, Image Courtesy of Kenneth Killmeyer]().
    {:.caption}
 
 ![CVA-59](images/Davis4.jpg)
    {:.image}
-[CVA-59, Image Courtesy of Kenneth Killmeyer].
+[CVA-59, Image Courtesy of Kenneth Killmeyer]().
    {:.caption}
 
 ![VA-12 patch](images/Davis5.jpg)
