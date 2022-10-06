@@ -4,7 +4,7 @@ title: "Thomas J. Davis"
 categories: ["NAVY"]
 date: 1958-10-08
 vudate: 1958
-lat: 33.28333333,
+lat: 33.28333333
 lng: 25.18352778
 runningtitle: "Thomas J. Davis"
 ---
