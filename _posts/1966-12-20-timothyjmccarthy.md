@@ -9,7 +9,7 @@ lng: 106.695278
 runningtitle: "Timothy J. McCarthy"
 ---
 
-![Timothy J. McCarthy](images/McCarthy1.jpg)
+![Timothy J. McCarthy](images/TimothyMcCarthy1.jpg)
   {:.image}
 [Timothy J. McCarthy](https://library.villanova.edu/Find/Record/vudl:553633).
   {:.caption}
@@ -28,22 +28,22 @@ runningtitle: "Timothy J. McCarthy"
 
 Timothy John McCarthy graduated from Villanova College with a BS in Economics in 1964. Soon after, he enlisted in the US Army and served as part of the Air Cavalry in the rank of 1st Lieutenant. He was struck by a sniper on Dec. 20, 1966, becoming the first resident of Ossining, NY to die in the Vietnam War. He was laid to rest at the St. Augustine Cemetery in Ossining. According to the “Villanova Alumnus,” “He leaves his parents Mr. and Mrs. Joseph McCarthy and three sisters, Peggy, Sheila, and Mrs. Robert Kilmer of Greenwich Ct.”
 
-![Timothy J. McCarthy](images/McCarthy2.jpg)
+![Timothy J. McCarthy](images/TimothyMcCarthy2.jpg)
   {:.image}
 [Timothy J. McCarthy](https://www.findagrave.com/memorial/6358162/timothy-j-mccarthy).
   {:.caption}
 
-![Timothy J. McCarthy](images/McCarthy3.jpg)
+![Timothy J. McCarthy](images/TimothyMcCarthy3.jpg)
   {:.image}
 [Timothy J. McCarthy](https://www.findagrave.com/memorial/6358162/timothy-j-mccarthy).
   {:.caption}
 
-![Timothy J. McCarthy Headstone Application](images/McCarthy4.jpg)
+![Timothy J. McCarthy Headstone Application](images/TimothyMcCarthy4.jpg)
   {:.image}
 [Timothy J. McCarthy Headstone Application](https://www.ancestrylibrary.com/discoveryui-content/view/3147819:2375).
   {:.caption}
 
-![Timothy J. McCarthy article in Villanova Alumnus](images/McCarthy5.jpg)
+![Timothy J. McCarthy article in Villanova Alumnus](images/TimothyMcCarthy5.jpg)
   {:.image}
 [Timothy J. McCarthy article in Villanova Alumnus](https://digital.library.villanova.edu/Item/vudl:732890#?c=&m=&s=&cv=1&xywh=130%2C2370%2C814%2C359).
   {:.caption}
