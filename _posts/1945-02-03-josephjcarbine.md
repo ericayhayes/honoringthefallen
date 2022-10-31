@@ -9,9 +9,9 @@ lng: -1.733333
 runningtitle: "Joseph J. Carbine"
 ---
 
-![Joseph J. Carbine](images/Carbine_JosephJ_new.jpg)
+![Belle Air Villanova College Yearbook 1943, page 269](images/Carbine_JosephJ_yearbook.jpg)
   {:.image}
-[Villanova Alumnus V. VII No. 3, Spring 1945 magazine](https://digital.library.villanova.edu/Item/vudl:182448#?c=&m=&s=&cv=6&xywh=-3827%2C-1496%2C12897%2C7415).
+[Belle Air Villanova College Yearbook 1943, page 269](https://library.villanova.edu/Find/Record/vudl:534238)
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1922
@@ -26,18 +26,18 @@ runningtitle: "Joseph J. Carbine"
 
 #### About
 
-![Joseph J. Carbine](images/CarbineJosephJ_Grave.jpg)
+![Joseph J. Carbine](images/Carbine_JosephJ_new.jpg)
   {:.image}
-[Saint Denis Cemetery Havertown, Delaware County, PA, USA](https://www.findagrave.com/memorial/171679558/joseph-john-carbine)
+[Villanova Alumnus V. VII No. 3, Spring 1945 magazine](https://digital.library.villanova.edu/Item/vudl:182448#?c=&m=&s=&cv=6&xywh=-3827%2C-1496%2C12897%2C7415).
   {:.caption}
 
 Joseph J. Carbine was the son of James T. Carbine and Margaret Carbine.  He was born and raised in Radnor, Pennsylvania.  He earned a Bachelor of Arts in Service at Villanova, where he was very involved in activities such as the choral society, the _Belle Air_ yearbooks, and the orientation committee. In 1943, he enlisted in the Army Air Corps Reserve and received his commission as an officer at Freeman AAF on May 23, 1944.  Carbine was sent to England in the same year to the 306th bomber base at Thurleigh Air Station, where he proceeded to complete multiple successful missions.  He was killed in action on his 21st Combat Mission.  His B-17 aircraft sustained critical flak-induced engine failure after flying over Berlin.  Carbine’s B-17 crashed into the English Channel on its return trip to England.  No crew members survived.  
 
 "He stated to his parents before he left the US that he was glad to serve his wartime duty to his country in a direct air combat contribution to the WWII effort."
 
-![Belle Air Villanova College Yearbook 1943, page 269](images/Carbine_JosephJ_yearbook.jpg)
+![Joseph J. Carbine](images/CarbineJosephJ_Grave.jpg)
   {:.image}
-[Belle Air Villanova College Yearbook 1943, page 269](https://library.villanova.edu/Find/Record/vudl:534238)
+[Saint Denis Cemetery Havertown, Delaware County, PA, USA](https://www.findagrave.com/memorial/171679558/joseph-john-carbine)
   {:.caption}
 
 ![Joseph J. Carbine World War II Veterans Service and Compensation Application, Commonwealth of Pennsylvania](images/Carbine_JosephJ_ApplicationforCompensation.jpg)
