@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Joseph McHugh"
-categories: ["Army"]
+categories: ["ARMY"]
 date: 1918-11-11
 vudate: 1919
 lat: 49.2725
