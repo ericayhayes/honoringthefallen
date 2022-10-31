@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Matthew Claar"
-categories: ["Navy"]
+categories: ["NAVY"]
 date: 1993-07-20
 vudate: 1986
 lat: -30.976790546223285

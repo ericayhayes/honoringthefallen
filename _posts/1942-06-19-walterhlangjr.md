@@ -8,7 +8,7 @@ lng: -117.1625
 runningtitle: "Walter H. Lang, Jr."
 ---
 
-![Walter H. Lang, Jr. Grave](images/Lang.jpg)
+![Walter H. Lang, Jr. Grave](images/WalterLang.jpg)
    {:.image}
 [Walter H. Lang, Jr. Grave](https://www.findagrave.com/memorial/19157188/walter-henry-lang).
    {:.caption}
