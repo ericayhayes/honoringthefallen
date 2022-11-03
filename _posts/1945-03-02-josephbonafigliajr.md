@@ -35,17 +35,17 @@ runningtitle: "Joseph Bonafiglia Jr."
 [World War II Veterans Service and Compensation Application, from the Pennsylvania Historical and Museum Commission, Harrisburg, Pennsylvania](https://search.ancestrylibrary.com/cgi-bin/sse.dll?indiv=1&dbid=3147&h=77079&tid=&pid=&queryId=0821dd7ec9c6db4e802019840ac4f18e&usePUB=true&_phsrc=BjZ1396&_phstart=successSource).
    {:.caption}
 
-![Joseph Bonafiglia Jr.](images/Schuyler2.jpg)
+![Joseph Bonafiglia Jr.](images/JohnDSchuylerAndJosephBonafigliaJr.jpg)
    {:.image}
 [Villanova Alumnus, v. VIII no. 4, Summer 1945, page 5](https://digital.library.villanova.edu/Item/vudl:182477).
    {:.caption}
 
-![Joseph Bonafiglia Jr. article in The Villanovan, part 1](images/Bonafiglia1.jpg)
+![Joseph Bonafiglia Jr. article in The Villanovan, part 1](images/JosephBonafiglia1.jpg)
    {:.image}
 [Joseph Bonafiglia Jr. article in The Villanovan, part 1](https://library.villanova.edu/Find/Record/vudl:183966).
    {:.caption}
 
-![Joseph Bonafiglia Jr. article in The Villanovan, part 2](images/Bonafiglia2.jpg)
+![Joseph Bonafiglia Jr. article in The Villanovan, part 2](images/JosephBonafiglia2.jpg)
    {:.image}
 [Joseph Bonafiglia Jr. article in The Villanovan, part 2](https://library.villanova.edu/Find/Record/vudl:183966).
    {:.caption}
