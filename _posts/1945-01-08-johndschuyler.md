@@ -49,6 +49,13 @@ John D Schuyler, of Schenectady, NY, earned a Bachelor’s degree in Economics f
 [John D Schuyler Memorial Certificate](https://www.abmc.gov/decedent-search/schuyler%3Djohn).
    {:.caption}
 
+![John D Schuyler article in The Villanovan](images/Schuyler6.jpg)
+   {:.image}
+[John D Schuyler article in The Villanovan](https://digital.library.villanova.edu/files/vudl:185539/MASTER?download=true).
+   {:.caption}
+
+
+
 #### Works cited
 
 {:.bibliography}
