@@ -40,7 +40,15 @@ runningtitle: "Joseph Bonafiglia Jr."
 [Villanova Alumnus, v. VIII no. 4, Summer 1945, page 5](https://digital.library.villanova.edu/Item/vudl:182477).
    {:.caption}
 
+![Joseph Bonafiglia Jr. article in The Villanovan, part 1](images/Bonafiglia1.jpg)
+   {:.image}
+[Joseph Bonafiglia Jr. article in The Villanovan, part 1](https://library.villanova.edu/Find/Record/vudl:183966).
+   {:.caption}
 
+![Joseph Bonafiglia Jr. article in The Villanovan, part 2](images/Bonafiglia2.jpg)
+   {:.image}
+[Joseph Bonafiglia Jr. article in The Villanovan, part 2](https://library.villanova.edu/Find/Record/vudl:183966).
+   {:.caption}
 
 #### Works cited
 
