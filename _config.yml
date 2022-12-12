@@ -7,7 +7,7 @@ description:
 baseurl: "/honoringthefallentest" # the subpath of your site, e.g. /blog/ #/honoringthefallen
 url: "https://ericayhayes.github.io/honoringthefallentest/#" # the base hostname & protocol for your site https://memorialmap.library.villanova.edu/# https://falveydigitalscholarship.github.io/honoringthefallen/# or https://memorialmap.library.villanova.edu/#
 github_repo: https://github.com/FalveyDigitalScholarship
-copyright_statement: © 2019 Falvey Memorial Library CC BY-NC-SA 4.0.
+copyright_statement: © 2019 Falvey Library, Villanova University CC BY-NC-SA 4.0.
 
 # build settings
 markdown: kramdown

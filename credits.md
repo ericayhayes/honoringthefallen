@@ -8,7 +8,7 @@ permalink: /credits/
 * Michael Brown
 * M. Todd Robinson
 
-### Falvey Memorial Library
+### Falvey Library
 * Erica Hayes, Digital Scholarship Librarian
 * Dave Uspal, Library Technology Developer
 * Rebecca Oviedo, Distinctive Collections Librarian/Archivist
