@@ -26,6 +26,8 @@ runningtitle: "Rev. Eugene B. Carroll"
 
 #### About
 
+test
+
 Reverend Eugene Bernard Carroll, of Dushore, PA, was the son of John W. and Ella Carroll. He studied at St. Basil's parochial school, St. Bonaventure University, Villanova College, Niagara University, and Georgetown University, before he was ordained by Right Rev. Bishop Hoban. Rev. Carroll was assigned to the pastorate of St. Charles R. C. Church at Sugar Notch in 1918. Later in the same year, he served as a Lieutenant and Chaplain in the US Army’s 12th Infantry unit. Carroll died of pneumonia at the University of Philadelphia Hospital on November 23, 1918, during a brief furlough. He was laid to rest in Saint Basil’s Cemetery, in Dushore.
 
 ![Rev. Eugene B. Carroll Registration Card](images/RevEugeneCarroll2.jpg)
