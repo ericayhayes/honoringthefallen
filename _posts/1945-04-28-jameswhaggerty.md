@@ -30,12 +30,12 @@ James William Haggerty, from Webster, Worcester County, Massachusetts, studied e
 
 ![James W. Haggerty in Rosters of WWII Dead](images/Haggerty2.jpg)
    {:.image}
-[James W. Haggerty in Rosters of WWII Dead] (https://www.ancestrylibrary.com/discoveryui-content/view/125499:1102?tid=&pid=&queryId=c4fdf843f4dbb928127295f5164d913f&_phsrc=BjZ1834&_phstart=successSource).
+[James W. Haggerty in Rosters of WWII Dead](https://www.ancestrylibrary.com/discoveryui-content/view/125499:1102?tid=&pid=&queryId=c4fdf843f4dbb928127295f5164d913f&_phsrc=BjZ1834&_phstart=successSource).
   {:.caption}
 
 ![USS Pinkney](images/Haggerty3.jpg)
    {:.image}
-[USS Pinkney] (https://www.findagrave.com/memorial/45322513/james-william-haggerty).
+[USS Pinkney](https://www.findagrave.com/memorial/45322513/james-william-haggerty).
   {:.caption}
 
 
