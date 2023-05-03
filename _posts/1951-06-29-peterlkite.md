@@ -9,16 +9,15 @@ lng: -115.566667
 runningtitle: "Peter L. Kite"
 ---
 
-![Peter L. Kite](images/Kite1.jpg)
+![Peter L. Kite](images/Kite_Peter1.jpg)
    {:.image}
-[Peter L. Kite, Lynx, v. 4, no. 3, Junior Week 1952, p. [39]].
+[Peter L. Kite, Lynx, v. 4, no. 3, Junior Week 1952, p. 39](https://digital.library.villanova.edu/Item/vudl:785942#?c=&m=&s=&cv=39&xywh=-2717%2C0%2C7328%2C3000)
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1924
 * **Home of Record**{: .metadata}: Trenton
 * **State**{: .metadata}: NJ
 * **Branch**{: .metadata}: USMC
-* **Rank**{: .metadata}: Lieutenant
 * **Place of Death**{: .metadata}: El Centro, CA
 * **Year of Death**{: .metadata}: 1951
 * **Villanova Class Year**{: .metadata}: 1951
@@ -26,7 +25,7 @@ runningtitle: "Peter L. Kite"
 
 #### About
 
-Peter L. Kite, of Trenton, Jew Jersey, first attended Villanova in 1941. Soon after, he left college to volunteer as an aviation cadet and joining the United States Marine Corps. During World War II, he married his wife, with whom he had a daughter and a son. Kite returned to Villanova from 1947, later became a car dealer in Trenton for a brief period of time, and ultimately returned to the Marine Corps to serve in the Korean conflict. He died at El Centro, California, from injuries sustained on an airplane during a training accident. Kite’s roommate, Edward M. Hattrick, describes Kite as considerate, appreciative, gentle, pious (partly owing to his father’s Quaker upbringing), and a live conversationalist. Hattrick also notes that Kite became the featured guitarist in the Villanova Dance Band.
+Peter L. Kite, of Trenton, Jew Jersey, first attended Villanova in 1941. Soon after, he left college to volunteer as an aviation cadet and joining the United States Marine Corps. During World War II, he married his wife, with whom he had a daughter and a son. Kite returned to Villanova from 1947, later became a car dealer in Trenton for a brief period of time, and ultimately returned to the Marine Corps to serve in the Korean conflict. Kite was a Lieutenant and died at El Centro, California, from injuries sustained on an airplane during a training accident. Kite’s roommate, Edward M. Hattrick, describes Kite as considerate, appreciative, gentle, pious (partly owing to his father’s Quaker upbringing), and a live conversationalist. Hattrick also notes that Kite became the featured guitarist in the Villanova Dance Band.
 
 
 #### Works cited
