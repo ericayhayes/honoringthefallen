@@ -11,7 +11,7 @@ runningtitle: "James W. Haggerty"
 
 ![James W. Haggerty grave](images/Haggerty_James1.jpg)
    {:.image}
-[James W. Haggerty grave].
+[James W. Haggerty, SECTION 84 SITE 174-176, Jefferson Barracks National Cemetery, Lemay, St. Louis County, Missouri, USA](https://www.findagrave.com/memorial/45322513/james-william-haggerty)
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1907-11-11
