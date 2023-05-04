@@ -8,9 +8,9 @@ lat: 16.75
 lng: 107
 runningtitle: "John W. McCormick, Jr."
 ---
-![John W. McCormick, Jr.](images/McCormick1.jpg)
+![John W. McCormick, Jr.](images/McCormick_JohnW.1.jpg)
    {:.image}
-[John W. McCormick, Jr.](https://www.findagrave.com/memorial/118063488/john-webster-mccormick).
+[John W. McCormick, Jr., SECTION PS-5 SITE 133,Fort Rosecrans National Cemetery San Diego, San Diego County, California, USA ](https://www.findagrave.com/memorial/118063488/john-webster-mccormick).
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1944-01-09
@@ -26,12 +26,12 @@ runningtitle: "John W. McCormick, Jr."
 
 John Webster McCormick, Jr. graduated from Villanova University with a degree in economics in 1965. During the Vietnam War, he joined the US Navy and served as a Naval Gunfire Liaison Officer with the First Battalion, Third Marines, Third Marine Amphibious Force. On 18 May 1967, during Operation Beau Charger, Ensign McCormick repeatedly exposed himself to intense enemy gunfire while directing his men’s fire and moving them to more secure and advantageous positions. He died from the severe fragmentation wounds that he received on that day. Donald Teal, who served the medical officer in charge of casualty care in a 200-bed hospital, was a friend of McCormick and had to describe his wounds and sign his death certificate.Due to his fearless spirit during Operation Beau Charger, McCormick was posthumously awarded the Silver Star.
 
-![John W. McCormick, Jr. grave](images/McCormick2.jpg)
+![John W. McCormick, Jr. grave](images/McCormick_JohnW2.jpg)
    {:.image}
 [John W. McCormick, Jr. grave](https://www.findagrave.com/memorial/118063488/john-webster-mccormick).
   {:.caption}
 
-![John W. McCormick, Jr. yearbook picture, Belle Air, 1965, p. 279](images/McCormick3.jpg)
+![John W. McCormick, Jr. yearbook picture, Belle Air, 1965, p. 279](images/McCormick_JohnW3.jpg)
    {:.image}
 [John W. McCormick, Jr. yearbook picture, Belle Air, 1965, p. 279](https://library.villanova.edu/Find/Record/vudl:556241).
   {:.caption}
