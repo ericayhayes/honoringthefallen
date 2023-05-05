@@ -10,7 +10,7 @@ runningtitle: "Martin J. Keogh"
 ---
 ![Martin J. Keogh](images/Keogh_Martin1.jpg)
    {:.image}
-[Martin J. Keogh, Sec D South, Square 28, 2 & 3, Holy Sepulchre Cemetery New Rochelle, Westchester County, New York, USA ](https://www.findagrave.com/memorial/183267988/martin-jerome-keogh)
+ Martin J. Keogh
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1946-08-22
