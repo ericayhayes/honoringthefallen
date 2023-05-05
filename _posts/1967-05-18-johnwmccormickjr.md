@@ -8,9 +8,9 @@ lat: 16.75
 lng: 107
 runningtitle: "John W. McCormick, Jr."
 ---
-![John W. McCormick, Jr.](images/McCormick_JohnW.1.jpg)
+![John W. McCormick, Jr.](images/McCormick_JohnW1.jpg)
    {:.image}
-[John W. McCormick, Jr., SECTION PS-5 SITE 133,Fort Rosecrans National Cemetery San Diego, San Diego County, California, USA ](https://www.findagrave.com/memorial/118063488/john-webster-mccormick).
+John W. McCormick, Jr.
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1944-01-09
@@ -28,7 +28,7 @@ John Webster McCormick, Jr. graduated from Villanova University with a degree in
 
 ![John W. McCormick, Jr. grave](images/McCormick_JohnW2.jpg)
    {:.image}
-[John W. McCormick, Jr. grave](https://www.findagrave.com/memorial/118063488/john-webster-mccormick).
+[John W. McCormick, Jr., SECTION PS-5 SITE 133,Fort Rosecrans National Cemetery San Diego, San Diego County, California, USA ](https://www.findagrave.com/memorial/118063488/john-webster-mccormick)
   {:.caption}
 
 ![John W. McCormick, Jr. yearbook picture, Belle Air, 1965, p. 279](images/McCormick_JohnW3.jpg)
