@@ -41,3 +41,4 @@ In October 1990, Iwo Jima was in the Persian Gulf, as part of the buildup for Op
 {:.bibliography}
 1. John M. Snyder. Saint Mary's Episcopal Churchyard Portsmouth, Newport County, Rhode Island, USA. <https://www.findagrave.com/memorial/24004498/john-mather-snyder>
 2. USS Iwo Jima (LPH 2). Navysite.de. <https://www.navysite.de/lph/lph2.htm>
+3. Cummings, Timothy. "A Steel Ship and Ten Iron Men." timmothycummings: Stories of Trials and Triumph. <https://timothycummings.wordpress.com/2012/12/03/35/>
