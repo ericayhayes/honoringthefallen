@@ -8,9 +8,9 @@ lat: 15.7166
 lng: 106.65
 runningtitle: "Jeffrey C. Lemon"
 ---
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_1.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_1.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
 * **Date of Birth**{: .metadata}: 1943-08-13
@@ -42,54 +42,54 @@ Jeffrey Charles Lemon, of Flossmoor, Illinois, graduated from Mendel Catholic Hi
 [Jeffrey C. Lemon description, Belle Air 1965, p. 276](https://library.villanova.edu/Find/Record/vudl:556241?sid=145238660).
   {:.caption}
 
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_5.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_5.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_6.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_6.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_7.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_7.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon on May 30, 1993 cover of "Tribune Newspapers: Parade." Image provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_8.jpg)
+![Jeffrey C. Lemon on May 30, 1993 cover of "Tribune Newspapers: Parade." Image provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_8.jpg)
    {:.image}
-[Jeffrey C. Lemon on May 30, 1993 cover of "Tribune Newspapers: Parade."  Image provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon on May 30, 1993 cover of "Tribune Newspapers: Parade."  Image provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_9.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_9.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_10.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_10.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_11.jpg)
+![Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_11.jpg)
    {:.image}
-[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon's sons at his grave. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_12.jpg)
+![Jeffrey C. Lemon's sons at his grave. Photograph provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_12.jpg)
    {:.image}
-[Jeffrey C. Lemon's sons at his grave. Photograph provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon's sons at his grave. Photograph provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Jeffrey C. Lemon's memorial marker. Image provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_13.jpg)
+![Jeffrey C. Lemon's memorial marker. Image provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_13.jpg)
    {:.image}
-[Jeffrey C. Lemon's memorial marker. Image provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Jeffrey C. Lemon's memorial marker. Image provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
-![Resoltion honoring Jeffrey C. Lemon. Image provided by Jane Lemon, wife of Jeffrey Lemon.](images/Lemon_14.jpg)
+![Resoltion honoring Jeffrey C. Lemon. Image provided by Jane Lemon, wife of Jeffrey Lemon](images/Lemon_14.jpg)
    {:.image}
-[Resoltion honoring Jeffrey C. Lemon. Image provided by Jane Lemon, wife of Jeffrey Lemon.]().
+[Resoltion honoring Jeffrey C. Lemon. Image provided by Jane Lemon, wife of Jeffrey Lemon]().
   {:.caption}
 
 #### Works cited
