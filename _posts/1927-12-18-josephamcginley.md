@@ -34,8 +34,7 @@ Joseph Alfred McGinley, of Norristown, PA, attended Villanova College for two ye
 {:.bibliography}
 1. “File:1921 McGinley LB.jpg”, U.S. Naval Academy Virtual Memorial Hall. <https://usnamemorialhall.org/index.php/File:1921_McGinley_LB.jpg>
 2. Hoppe, Jon. “Anatomy of a Tragedy: The Sinking of the USS S-4”, U. S. Naval History Magazine, vol. 35, no. 2, Naval Institute, April 2021. <https://www.usni.org/magazines/naval-history-magazine/2021/april/anatomy-tragedy-sinking-uss-s-4>
-3. “Joseph Alfred McGinley”, Findagrave.com, <https://www.findagrave.com/memorial/45258529/joseph-alfred-mcginley>
-4. Public Ledger, v. 184, no. 103, Thursday morning, January 5, 1928.
-<https://digital.library.villanova.edu/Item/vudl:915743>
+3. “Joseph Alfred McGinley”, Findagrave.com. <https://www.findagrave.com/memorial/45258529/joseph-alfred-mcginley>
+4. Public Ledger, v. 184, no. 103, Thursday morning, January 5, 1928. <https://digital.library.villanova.edu/Item/vudl:915743>
 
 
