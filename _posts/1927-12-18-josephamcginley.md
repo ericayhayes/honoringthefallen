@@ -1,58 +1,41 @@
 ---
 layout: post
-title: "Rev. Eugene B. Carroll"
-categories: ["ARMY"]
-date: 1918-11-23
-vudate: 1914
-lat: 39.949577
-lng: -75.194105
-runningtitle: "Rev. Eugene B. Carroll"
+title: "Joseph A. McGinley"
+categories: ["Navy"]
+date: 1927-12-18
+vudate: 1918
+lat: 42.058
+lng: -70.179
+runningtitle: "Joseph A. McGinley"
 ---
-
-![Rev. Eugene B. Carroll Grave](images/RevEugeneCarroll1.jpg)
+![Joseph A. McGinley](images/McGinley.jpg)
    {:.image}
-[Rev. Eugene B. Carroll Grave](https://www.findagrave.com/memorial/146690973/eugene-bernard-carroll).
+[Joseph A. McGinley](https://usnamemorialhall.org/index.php/File:1921_McGinley_LB.jpg).
   {:.caption}
 
-* **Date of Birth**{: .metadata}: 1889-11-19
-* **Home of Record**{: .metadata}: Dushore
+* **Date of Birth**{: .metadata}: 1989-11-10
+* **Home of Record**{: .metadata}: Norristown
 * **State**{: .metadata}: PA
-* **Branch**{: .metadata}: Army
-* **Place of Death**{: .metadata}: University of Pennsylvania Hospital, Philadelphia, PA
-* **Unit**{: .metadata}: 12th Infantry
+* **Branch**{: .metadata}: Navy
 * **Rank**{: .metadata}: Lieutenant
-* **Year of Death**{: .metadata}: 1918
-* **Villanova Class Year**{: .metadata}: 1914
+* **Place of Death**{: .metadata}: Off the Coast of Provincetown, Massachusetts
+* **Year of Death**{: .metadata}: 1927
+* **Villanova Class Year**{: .metadata}: 1918 (He was at Villanova for two years, before transferring to the US Naval Academy and graduating in 1921)
+* **Burial Location**{: .metadata}: Arlington National Cemetery, Section 6, Grave 8373
+
 
 #### About
 
-Reverend Eugene Bernard Carroll, of Dushore, PA, was the son of John W. and Ella Carroll. He studied at St. Basil's parochial school, St. Bonaventure University, Villanova College, Niagara University, and Georgetown University, before he was ordained by Right Rev. Bishop Hoban. Rev. Carroll was assigned to the pastorate of St. Charles R. C. Church at Sugar Notch in 1918. Later in the same year, he served as a Lieutenant and Chaplain in the US Army’s 12th Infantry unit. Carroll died of pneumonia at the University of Philadelphia Hospital on November 23, 1918, during a brief furlough. He was laid to rest in Saint Basil’s Cemetery, in Dushore.
-
-![Rev. Eugene B. Carroll Registration Card](images/RevEugeneCarroll2.jpg)
-  {:.image}
-[Rev. Eugene B. Carroll Registration Card](https://www.ancestrylibrary.com/discoveryui-content/view/33392074:6482).
-  {:.caption}
-
-![Rev. Eugene B. Carroll Death Certificate](images/RevEugeneCarroll3.jpg)
-  {:.image}
-[Rev. Eugene B. Carroll Death Certificate](https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=5164&h=1570118&indiv=try&o_vc=Record:OtherRecord&rhSource=6482).
-  {:.caption}
-
-![Rev. Eugene B. Carroll article in The Villanovan, part 1](images/RevEugeneCarroll4.jpg)
-  {:.image}
-[Rev. Eugene B. Carroll article in The Villanovan, part 1](https://library.villanova.edu/Find/Record/vudl:183966).
-  {:.caption}
-
-![Rev. Eugene B. Carroll article in The Villanovan, part 2](images/RevEugeneCarroll5.jpg)
-  {:.image}
-[Rev. Eugene B. Carroll article in The Villanovan, part 2](https://library.villanova.edu/Find/Record/vudl:183966).
-  {:.caption}
+Joseph Alfred McGinley, of Norristown, PA, attended Villanova College for two years before transferring to the US Naval Academy, from which he graduated in 1921. He joined the US Navy and earned the rank of Lieutenant and was stationed in the submarine USS S-4 (SS-109). In 1927, the submarine was accidentally rammed by the ship USCGC Paulding (CG-17) off the coast of Provincetown, Massachusetts. The collision punctured the submarine and resulted in the deaths of the thirty-nine crewmen, including McGinley, and the one civilian observer who were present inside, despite rescue efforts that were quickly made. McGinely is buried at Arlington National Cemetery, Section 6, Grave 8373.
 
 
 #### Works cited
 
 {:.bibliography}
-1. College, V. (1967). _The Villanovan_ vol. 3 no. 2 December 1918, pp. 31-32. Villanova, PA. <https://library.villanova.edu/Find/Record/vudl:183966>
-2. Rev Eugene Bernard Carroll. Findagrave.com. <https://www.findagrave.com/memorial/146690973/eugene-bernard-carroll>
-3. Eugene Bernard Carroll. Registration Card. Ancestry.com. <https://www.ancestrylibrary.com/discoveryui-content/view/33392074:6482>
-4. Eugene Bernard Carroll. Death Certificate. Ancestry.com. <https://search.ancestrylibrary.com/cgi-bin/sse.dll?dbid=5164&h=1570118&indiv=try&o_vc=Record:OtherRecord&rhSource=6482>
+1. “File:1921 McGinley LB.jpg”, U.S. Naval Academy Virtual Memorial Hall. <https://usnamemorialhall.org/index.php/File:1921_McGinley_LB.jpg>
+2. Hoppe, Jon. “Anatomy of a Tragedy: The Sinking of the USS S-4”, U. S. Naval History Magazine, vol. 35, no. 2, Naval Institute, April 2021. <https://www.usni.org/magazines/naval-history-magazine/2021/april/anatomy-tragedy-sinking-uss-s-4>
+3. “Joseph Alfred McGinley”, Findagrave.com, <https://www.findagrave.com/memorial/45258529/joseph-alfred-mcginley>
+4. Public Ledger, v. 184, no. 103, Thursday morning, January 5, 1928.
+<https://digital.library.villanova.edu/Item/vudl:915743>
+
+
