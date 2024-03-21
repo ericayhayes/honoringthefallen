@@ -38,6 +38,7 @@ Nicholas J. Ciccarelli, of Lansdowne, Pennsylvania, went to Monsignor Bonner Hig
    {:.image}
 [Nicholas J. Ciccarelli, PA Veteran Burial Card, Ancestry Library](https://www.ancestrylibrary.com/discoveryui-content/view/893968:1967?tid=&pid=&queryId=fb4b000b-ffe2-43be-873d-156f26c53ef1&_phsrc=Xxo15&_phstart=successSource).
   {:.caption}
+
 ![Nicholas J. Ciccarelli](images/Ciccarelli4.jpg)
    {:.image}
 [Nicholas J. Ciccarelli]().
