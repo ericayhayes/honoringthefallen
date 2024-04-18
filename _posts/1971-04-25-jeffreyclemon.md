@@ -95,14 +95,9 @@ Jeffrey Charles Lemon, of Flossmoor, Illinois, graduated from Mendel Catholic Hi
 #### Works cited
 
 {:.bibliography}
-1. Jeffrey Charles Lemon. Panel 3W, Line 12. The Wall of Faces. Vietnam Veterans Memorial Fund.<https://www.vvmf.org/Wall-of-Faces/30354/JEFFREY-C-LEMON/> 
+1. Jeffrey Charles Lemon. Panel 3W, Line 12. The Wall of Faces. Vietnam Veterans Memorial Fund.<https://www.vvmf.org/Wall-of-Faces/30354/JEFFREY-C-LEMON/>
 2. LTC Jeffrey Charles “Jeff” Lemon, Findagrave.com. <https://www.findagrave.com/memorial/61023685/jeffrey-charles-lemon>
 3. College, V. (1965). Belle Air 1965. Villanova, PA : Villanova College, p. 276. <https://library.villanova.edu/Find/Record/vudl:556241?sid=145238660>
 4. LT COL JEFFREY CHARLES LEMON. Defense POW/MIA Accounting Agency. <https://dpaa-mil.sites.crmforce.mil/dpaaProfile?id=a0Jt0000000BTeSEAW>
 5. Front cover, "Parade," Tribune Newspapers, May 30, 1993.
 6. Memorial marker, resolution, and various photographs provided by Jane Lemon.
-
-
-
-
-
